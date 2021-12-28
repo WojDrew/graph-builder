@@ -16,8 +16,21 @@ process_data <- function(file_name, csv_data, acc, inferences_per_model) {
 	if (grepl("jn", file_name))
 		df = jn_fix_float(df)
 	
+	df = fix_labels(df)
+	
 	return(df)
 	
+}
+
+fix_labels <- function(df) {
+	for (i in seq(from=1, to=nrow(df), by=1)) {
+		str = df[i, "model_labels"]
+		for (rem in str_to_remove) {
+			str = str_remove(str, rem)
+		}
+		df[i, "model_labels"] = str	
+	}
+	return(df)
 }
 
 jn_fix_float <- function(df) {
@@ -38,11 +51,7 @@ get_model_details <- function(csv_data, file_name, rows_per_model) {
 	
 	for (row in seq(from=1, to=nrow(csv_data), by=rows_per_model)) {
 		model_name = csv_data[row, "ModelName"]
-		str = model_name
-		for (rem in str_to_remove) {
-			str = str_remove(str, rem)
-		}
-		model_labels = c(model_labels, str)
+		model_labels = c(model_labels, model_name)
 		
 		if (grepl("quant", model_name)) {
 			precision = c(precision, "uint8")
@@ -55,11 +64,10 @@ get_model_details <- function(csv_data, file_name, rows_per_model) {
 		} else if (grepl("v2", model_name)) {
 			model = c(model, "v2")
 		} else {
-			if (grepl("edgetpu", model_name)) {
-				model = c(model, "v3-edgetpu")
-			} else  if (grepl("small", model_name)) {
+			if (grepl("small", model_name)) {
 				model = c(model, "v3-small")
-			} else if (grepl("large", model_name)) {
+			} else if (grepl("large", model_name) || 
+				     grepl("edgetpu", model_name)) {
 				model = c(model, "v3-large")
 			}
 		}
@@ -185,20 +193,23 @@ add_lat <- function(df, csv_data, inferences_per_model) {
 
 remove_dominated <- function(df) {
 	range = 0.3
-	to_remove = c()
+	dominated = c()
+	for (i in seq(from=1, to=nrow(df), by=1)) {
+		dominated = c(dominated, 0)
+	}
 	
 	for (i in seq(from=1, to=nrow(df), by=1)) {
 		for (j in seq(from=i, to=nrow(df), by=1)) {
 			if (i != j && abs(df[i, "acc"] - df[j, "acc"]) < range) {
 				if (df[i, "latency"] < df[j, "latency"]) {
-					to_remove = c(to_remove, j)
+					dominated[j] = 1
 				} else {
-					to_remove = c(to_remove, i)
+					dominated[i] = 1
 				}
 			}
 		}
 	}
-	df <- df[-to_remove,]
+	df <- cbind(df, dominated)
 	return(df)
 }
 
