@@ -34,7 +34,7 @@ acc_v3_top1 = list(c(75.2, 73.9, 73.3, 67.5, 64.9, 65.4, 72.3, 71.3, 61.9, 73.5,
 c("edgetpu_224_0.75", "edgetpu_224_1.0","v3-large-minimalistic_224_1.0", "v3-large_224_0.75","v3-large_224_1.0", "v3-small-minimalistic_224_1.0","v3-small_224_0.75", "v3-small_224_1.0")
 
 # strings to be removed from model label
-str_to_remove = c("mobilenet_", "_quant", "_float")
+str_to_remove = c("mobilenet_", "_quant", "_float", "v3-small_", "v3-large_", "v3-small-", "v3-large-", "v2_", "v1_")
 
 
 file_names_CPU = c("results_mobilenet_v1_CPU.csv",
