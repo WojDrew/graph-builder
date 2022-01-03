@@ -17,9 +17,32 @@ process_data <- function(file_name, csv_data, acc, inferences_per_model) {
 		df = jn_fix_float(df)
 	
 	df = fix_labels(df)
+	df = add_batchsize(df, file_name)
 	
 	return(df)
 	
+}
+
+add_batchsize <- function(df, file_name) {
+	batchsize = c()
+	for (i in seq(from=1, to=nrow(df), by=1)) {
+	
+		if (!grepl("bs",file_name)) {
+			batchsize = c(batchsize, "1")
+		} else if (grepl("bs2",file_name)) {
+			batchsize = c(batchsize, "2")
+		} else if (grepl("bs4",file_name)) {
+			batchsize = c(batchsize, "4")
+		} else if (grepl("bs8",file_name)) {
+			batchsize = c(batchsize, "8")
+		} else if (grepl("bs16",file_name)) {
+			batchsize = c(batchsize, "16")
+		} else if (grepl("bs32",file_name)) {
+			batchsize = c(batchsize, "32")
+		}
+	}
+	df <- cbind(df, batchsize)
+	return(df)
 }
 
 fix_labels <- function(df) {
