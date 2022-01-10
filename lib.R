@@ -114,6 +114,8 @@ get_model_details <- function(csv_data, file_name, rows_per_model) {
 			acceleration = c(acceleration, "GPU")
 		} else if (grepl("NNAPI", file_name)) {
 			acceleration = c(acceleration, "NNAPI")
+		} else if (grepl("CORAL", file_name)) {
+			acceleration = c(acceleration, "CORAL")
 		}
 	}
 	
