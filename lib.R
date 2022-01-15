@@ -217,7 +217,6 @@ add_lat <- function(df, csv_data, inferences_per_model) {
 }
 
 remove_dominated <- function(df) {
-	range = 0.3
 	dominated = c()
 	for (i in seq(from=1, to=nrow(df), by=1)) {
 		dominated = c(dominated, 0)
@@ -225,11 +224,13 @@ remove_dominated <- function(df) {
 	
 	for (i in seq(from=1, to=nrow(df), by=1)) {
 		for (j in seq(from=i, to=nrow(df), by=1)) {
-			if (i != j && abs(df[i, "acc"] - df[j, "acc"]) < range) {
-				if (df[i, "latency"] < df[j, "latency"]) {
-					dominated[j] = 1
-				} else {
+			if (i != j && df[i, "model"] == df[j, "model"]) {
+				if (df[i, "latency"] > df[j, "latency"] &&
+				    df[i, "acc"] < df[j, "acc"]) {
 					dominated[i] = 1
+				} else if (df[i, "latency"] < df[j, "latency"] &&
+					     df[i, "acc"] > df[j, "acc"]) {
+					dominated[j] = 1
 				}
 			}
 		}
