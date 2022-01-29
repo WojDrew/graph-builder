@@ -1,3 +1,4 @@
+"ModelName","Label","InferenceTime","Recognition","Accuracy"
 mobilenet_v1_0.5_128_quant,label,0.31403160095214844
 ,,,nematode,4.8772497
 ,,,spotlight,4.5903525

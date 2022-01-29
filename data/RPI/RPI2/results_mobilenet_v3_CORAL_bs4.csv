@@ -1,3 +1,4 @@
+"ModelName","Label","InferenceTime","Recognition","Accuracy"
 mobilenet_v3_1.0_224_small,label,0.11577320098876953
 ,,,match,4.8357716
 ,,,spotlight,4.084598

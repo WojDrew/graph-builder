@@ -1,3 +1,4 @@
+"ModelName","Label","InferenceTime","Recognition","Accuracy"
 mobilenet_v2_1.0_128_quant,label,0.3828086853027344
 ,,,nematode,5.445591
 ,,,digital clock,4.1451516

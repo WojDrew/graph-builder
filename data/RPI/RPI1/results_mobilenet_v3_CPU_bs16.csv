@@ -1,3 +1,4 @@
+"ModelName","Label","InferenceTime","Recognition","Accuracy"
 mobilenet_v3_1.0_224_small_uint8,label,1.204683542251587
 ,,,digital clock,5.7393627
 ,,,spotlight,5.2676344
