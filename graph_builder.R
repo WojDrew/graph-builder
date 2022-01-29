@@ -8,9 +8,7 @@ library(ggforce)
 setwd("C:/Users/oldst/Desktop/graph-builder/") #
 source("constant.R")
 source("lib.R")
-setwd("C:/Users/oldst/Desktop/graph-builder/data") #
-
-inferences_per_model = 330
+setwd("C:/Users/oldst/Desktop/graph-builder/data/Android/Huawei P30 Pro") #
 
 process_model_data <- function(model) {
 	
@@ -30,7 +28,7 @@ process_model_data <- function(model) {
 	  csv_data = read.csv(file_names[[i]]) #
 	  # file_path = paste("data", file_names[[i]], sep="/")
 		# csv_data = read.csv(file_path)
-		df_temp = process_data(file_names[[i]], csv_data, acc[[i]], inferences_per_model)
+		df_temp = process_data(file_names[[i]], csv_data, acc[[i]])
 		df <- rbind(df, df_temp)
 	}
 	return(df)

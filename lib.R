@@ -1,7 +1,21 @@
 
 rows_per_inference = 6
 
-process_data <- function(file_name, csv_data, acc, inferences_per_model) {
+count_inf_per_mod <- function(csv_data) {
+	inferences_per_model = 1
+	currnet = csv_data[1, "ModelName"]
+	for (row in seq(from=7, to=nrow(csv_data), by=rows_per_inference)) {
+		model_name = csv_data[row, "ModelName"]
+		if (currnet == model_name) {
+			inferences_per_model = inferences_per_model + 1
+		} else {
+			return(inferences_per_model)
+		}
+	}
+}
+
+process_data <- function(file_name, csv_data, acc) {
+	inferences_per_model = count_inf_per_mod(csv_data)
 	rows_per_model = rows_per_inference * inferences_per_model
 	
 	num_of_models = nrow(csv_data) / rows_per_model
