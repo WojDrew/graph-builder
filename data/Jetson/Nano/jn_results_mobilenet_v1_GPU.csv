@@ -1,0 +1,3601 @@
+"ModelName","Label","InferenceTime","Recognition","Accuracy"
+mobilenet_v1_1.0_160_quant,label,0.014249801635742188
+,,,espresso maker,10.0546875
+,,,trench coat,9.703125
+,,,"binoculars, field glasses, opera glasses",9.28125
+,,,window shade,8.84375
+,,,"jinrikisha, ricksha, rickshaw",8.0859375
+mobilenet_v1_1.0_160_quant,label,0.005957365036010742
+,,,espresso maker,9.5234375
+,,,"binoculars, field glasses, opera glasses",8.9609375
+,,,window shade,8.5078125
+,,,"cliff, drop, drop-off",8.3984375
+,,,"promontory, headland, head, foreland",8.328125
+mobilenet_v1_1.0_160_quant,label,0.006002664566040039
+,,,trench coat,10.3046875
+,,,espresso maker,9.6484375
+,,,"binoculars, field glasses, opera glasses",9.4765625
+,,,window shade,8.6796875
+,,,digital watch,8.203125
+mobilenet_v1_1.0_160_quant,label,0.006024360656738281
+,,,"sea anemone, anemone",9.1640625
+,,,trench coat,9.1484375
+,,,espresso maker,9.0703125
+,,,window shade,9.015625
+,,,"cliff, drop, drop-off",8.8671875
+mobilenet_v1_1.0_160_quant,label,0.005701780319213867
+,,,espresso maker,9.3046875
+,,,"binoculars, field glasses, opera glasses",9.1171875
+,,,"sea anemone, anemone",8.890625
+,,,window shade,8.78125
+,,,trench coat,8.640625
+mobilenet_v1_1.0_160_quant,label,0.0055506229400634766
+,,,"binoculars, field glasses, opera glasses",9.390625
+,,,trench coat,8.515625
+,,,espresso maker,8.2109375
+,,,"cliff, drop, drop-off",8.0234375
+,,,digital watch,7.75
+mobilenet_v1_1.0_160_quant,label,0.005712747573852539
+,,,trench coat,9.640625
+,,,window shade,9.2265625
+,,,"binoculars, field glasses, opera glasses",9.140625
+,,,"promontory, headland, head, foreland",8.8046875
+,,,espresso maker,8.71875
+mobilenet_v1_1.0_160_quant,label,0.005579233169555664
+,,,"binoculars, field glasses, opera glasses",9.359375
+,,,espresso maker,9.203125
+,,,trench coat,9.046875
+,,,"promontory, headland, head, foreland",8.8671875
+,,,"sea anemone, anemone",8.84375
+mobilenet_v1_1.0_160_quant,label,0.00634765625
+,,,"binoculars, field glasses, opera glasses",9.5078125
+,,,window shade,8.9765625
+,,,trench coat,8.7734375
+,,,"sea anemone, anemone",8.328125
+,,,"flatworm, platyhelminth",8.03125
+mobilenet_v1_1.0_160_quant,label,0.005671262741088867
+,,,espresso maker,10.2421875
+,,,"binoculars, field glasses, opera glasses",9.7265625
+,,,trench coat,9.65625
+,,,"jinrikisha, ricksha, rickshaw",8.359375
+,,,digital watch,8.3203125
+mobilenet_v1_1.0_160_quant,label,0.0058879852294921875
+,,,window shade,9.515625
+,,,"sea anemone, anemone",9.359375
+,,,trench coat,9.3125
+,,,espresso maker,8.9296875
+,,,"binoculars, field glasses, opera glasses",8.7890625
+mobilenet_v1_1.0_160_quant,label,0.005673408508300781
+,,,trench coat,9.328125
+,,,"binoculars, field glasses, opera glasses",9.15625
+,,,window shade,8.6796875
+,,,espresso maker,8.5546875
+,,,"flatworm, platyhelminth",8.296875
+mobilenet_v1_1.0_160_quant,label,0.00577092170715332
+,,,espresso maker,10.0234375
+,,,"binoculars, field glasses, opera glasses",9.6015625
+,,,trench coat,9.4609375
+,,,window shade,8.375
+,,,"sea anemone, anemone",8.25
+mobilenet_v1_1.0_160_quant,label,0.0051479339599609375
+,,,espresso maker,9.8828125
+,,,trench coat,9.265625
+,,,"cliff, drop, drop-off",9.0546875
+,,,"promontory, headland, head, foreland",9.0390625
+,,,"binoculars, field glasses, opera glasses",8.6328125
+mobilenet_v1_1.0_160_quant,label,0.005710601806640625
+,,,espresso maker,9.4921875
+,,,"binoculars, field glasses, opera glasses",9.1015625
+,,,trench coat,8.96875
+,,,window shade,8.78125
+,,,"cliff, drop, drop-off",8.4921875
+mobilenet_v1_1.0_160_quant,label,0.005257368087768555
+,,,trench coat,9.0625
+,,,window shade,8.9453125
+,,,"binoculars, field glasses, opera glasses",8.8046875
+,,,"promontory, headland, head, foreland",8.5703125
+,,,"jinrikisha, ricksha, rickshaw",8.28125
+mobilenet_v1_1.0_160_quant,label,0.0060024261474609375
+,,,"promontory, headland, head, foreland",9.4921875
+,,,trench coat,9.375
+,,,"binoculars, field glasses, opera glasses",9.3203125
+,,,window shade,9.3046875
+,,,"flatworm, platyhelminth",8.703125
+mobilenet_v1_1.0_160_quant,label,0.005778312683105469
+,,,"binoculars, field glasses, opera glasses",9.96875
+,,,espresso maker,9.7578125
+,,,trench coat,9.546875
+,,,"dishwasher, dish washer, dishwashing machine",8.9765625
+,,,window shade,8.875
+mobilenet_v1_1.0_160_quant,label,0.0054492950439453125
+,,,"promontory, headland, head, foreland",9.1015625
+,,,"binoculars, field glasses, opera glasses",8.8671875
+,,,trench coat,8.6484375
+,,,espresso maker,8.640625
+,,,"cliff, drop, drop-off",8.5
+mobilenet_v1_1.0_160_quant,label,0.0055255889892578125
+,,,trench coat,10.265625
+,,,espresso maker,9.890625
+,,,"binoculars, field glasses, opera glasses",9.5859375
+,,,window shade,8.90625
+,,,"dishwasher, dish washer, dishwashing machine",8.78125
+mobilenet_v1_1.0_160,label,0.010328292846679688
+,,,"flatworm, platyhelminth",9.0078125
+,,,trench coat,8.34375
+,,,"hook, claw",8.2421875
+,,,"dishwasher, dish washer, dishwashing machine",8.0703125
+,,,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",7.9375
+mobilenet_v1_1.0_160,label,0.006430149078369141
+,,,"flatworm, platyhelminth",9.078125
+,,,"dishwasher, dish washer, dishwashing machine",8.9140625
+,,,"hook, claw",8.84375
+,,,trench coat,8.3359375
+,,,window shade,8.25
+mobilenet_v1_1.0_160,label,0.00634765625
+,,,"flatworm, platyhelminth",8.4765625
+,,,trench coat,7.8789062
+,,,"hook, claw",7.5664062
+,,,"laptop, laptop computer",7.375
+,,,"valley, vale",7.3671875
+mobilenet_v1_1.0_160,label,0.006072521209716797
+,,,window shade,8.9296875
+,,,"hook, claw",8.6875
+,,,"flatworm, platyhelminth",8.640625
+,,,trench coat,8.2890625
+,,,"dishwasher, dish washer, dishwashing machine",7.7734375
+mobilenet_v1_1.0_160,label,0.02218914031982422
+,,,window shade,9.546875
+,,,"flatworm, platyhelminth",8.7890625
+,,,"hook, claw",8.5390625
+,,,"dishwasher, dish washer, dishwashing machine",8.296875
+,,,trench coat,8.296875
+mobilenet_v1_1.0_160,label,0.0062825679779052734
+,,,"flatworm, platyhelminth",9.3046875
+,,,window shade,8.3671875
+,,,"hook, claw",8.28125
+,,,geyser,7.8789062
+,,,"dishwasher, dish washer, dishwashing machine",7.8398438
+mobilenet_v1_1.0_160,label,0.006455183029174805
+,,,"flatworm, platyhelminth",9.9765625
+,,,window shade,8.3984375
+,,,"hook, claw",8.21875
+,,,geyser,8.0234375
+,,,trench coat,7.53125
+mobilenet_v1_1.0_160,label,0.00554347038269043
+,,,"flatworm, platyhelminth",9.109375
+,,,window shade,8.4296875
+,,,"hook, claw",8.09375
+,,,trench coat,7.5273438
+,,,"promontory, headland, head, foreland",7.2304688
+mobilenet_v1_1.0_160,label,0.005748271942138672
+,,,"flatworm, platyhelminth",9.1953125
+,,,window shade,8.4375
+,,,trench coat,8.390625
+,,,"hook, claw",8.375
+,,,"dishwasher, dish washer, dishwashing machine",7.7421875
+mobilenet_v1_1.0_160,label,0.005922555923461914
+,,,"flatworm, platyhelminth",9.0390625
+,,,trench coat,8.2734375
+,,,"dishwasher, dish washer, dishwashing machine",8.25
+,,,"hook, claw",8.0859375
+,,,window shade,7.7460938
+mobilenet_v1_1.0_160,label,0.0059587955474853516
+,,,"flatworm, platyhelminth",9.5078125
+,,,"dishwasher, dish washer, dishwashing machine",8.234375
+,,,"hook, claw",8.234375
+,,,trench coat,8.0546875
+,,,window shade,7.4023438
+mobilenet_v1_1.0_160,label,0.0058672428131103516
+,,,"flatworm, platyhelminth",10.5546875
+,,,geyser,8.828125
+,,,sturgeon,8.4375
+,,,anemone fish,8.0234375
+,,,trench coat,7.7890625
+mobilenet_v1_1.0_160,label,0.005590677261352539
+,,,window shade,8.8515625
+,,,"hook, claw",8.4765625
+,,,trench coat,8.40625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",8.171875
+,,,"flatworm, platyhelminth",8.0703125
+mobilenet_v1_1.0_160,label,0.005773782730102539
+,,,"flatworm, platyhelminth",9.5546875
+,,,"dishwasher, dish washer, dishwashing machine",9.171875
+,,,window shade,8.6171875
+,,,"hook, claw",8.515625
+,,,trench coat,8.296875
+mobilenet_v1_1.0_160,label,0.005681753158569336
+,,,"flatworm, platyhelminth",9.4140625
+,,,window shade,8.90625
+,,,"hook, claw",8.84375
+,,,"laptop, laptop computer",8.5703125
+,,,geyser,8.265625
+mobilenet_v1_1.0_160,label,0.006254434585571289
+,,,"flatworm, platyhelminth",9.7421875
+,,,trench coat,9.078125
+,,,geyser,8.4765625
+,,,window shade,8.1484375
+,,,"hook, claw",8.125
+mobilenet_v1_1.0_160,label,0.009765863418579102
+,,,"flatworm, platyhelminth",9.875
+,,,trench coat,8.765625
+,,,geyser,8.5546875
+,,,sturgeon,8.109375
+,,,anemone fish,8.046875
+mobilenet_v1_1.0_160,label,0.005501270294189453
+,,,"flatworm, platyhelminth",10.2109375
+,,,window shade,8.7265625
+,,,geyser,8.171875
+,,,"dishwasher, dish washer, dishwashing machine",8.1015625
+,,,trench coat,8.03125
+mobilenet_v1_1.0_160,label,0.006735563278198242
+,,,window shade,8.671875
+,,,"flatworm, platyhelminth",8.3359375
+,,,trench coat,8.3046875
+,,,"hook, claw",8.1328125
+,,,"dishwasher, dish washer, dishwashing machine",7.9609375
+mobilenet_v1_1.0_160,label,0.006045818328857422
+,,,window shade,8.296875
+,,,"hook, claw",8.28125
+,,,trench coat,8.2109375
+,,,"flatworm, platyhelminth",8.203125
+,,,"dishwasher, dish washer, dishwashing machine",7.8671875
+mobilenet_v1_1.0_128_quant,label,0.007558584213256836
+,,,"dishwasher, dish washer, dishwashing machine",9.078125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.6484375
+,,,espresso maker,8.4921875
+,,,stone wall,7.2734375
+,,,ping-pong ball,7.0664062
+mobilenet_v1_1.0_128_quant,label,0.005585193634033203
+,,,"chain saw, chainsaw",7.1484375
+,,,"dishwasher, dish washer, dishwashing machine",6.9375
+,,,espresso maker,6.3789062
+,,,"hook, claw",6.34375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.328125
+mobilenet_v1_1.0_128_quant,label,0.005136728286743164
+,,,window shade,8.0390625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.734375
+,,,espresso maker,7.2773438
+,,,stone wall,7.265625
+,,,"hook, claw",7.140625
+mobilenet_v1_1.0_128_quant,label,0.005601644515991211
+,,,"dishwasher, dish washer, dishwashing machine",8.609375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.0390625
+,,,stone wall,7.46875
+,,,espresso maker,7.4375
+,,,ping-pong ball,6.90625
+mobilenet_v1_1.0_128_quant,label,0.005921840667724609
+,,,"dishwasher, dish washer, dishwashing machine",10.2578125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.6328125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.8242188
+,,,espresso maker,7.8203125
+,,,stone wall,7.8203125
+mobilenet_v1_1.0_128_quant,label,0.006072282791137695
+,,,"dishwasher, dish washer, dishwashing machine",9.0625
+,,,stone wall,7.9375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.7460938
+,,,espresso maker,7.1953125
+,,,window shade,7.1367188
+mobilenet_v1_1.0_128_quant,label,0.006200551986694336
+,,,"dishwasher, dish washer, dishwashing machine",8.3203125
+,,,window shade,8.03125
+,,,espresso maker,7.7578125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.53125
+,,,stone wall,7.40625
+mobilenet_v1_1.0_128_quant,label,0.005738019943237305
+,,,"dishwasher, dish washer, dishwashing machine",8.4296875
+,,,espresso maker,8.1015625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.84375
+,,,"chain saw, chainsaw",7.515625
+,,,stone wall,7.3671875
+mobilenet_v1_1.0_128_quant,label,0.005837678909301758
+,,,"dishwasher, dish washer, dishwashing machine",8.09375
+,,,stone wall,7.2734375
+,,,maypole,7.2382812
+,,,"chain saw, chainsaw",7.2109375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.2070312
+mobilenet_v1_1.0_128_quant,label,0.0063457489013671875
+,,,"dishwasher, dish washer, dishwashing machine",8.7734375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.890625
+,,,espresso maker,7.828125
+,,,stone wall,7.640625
+,,,maypole,7.390625
+mobilenet_v1_1.0_128_quant,label,0.006292581558227539
+,,,"dishwasher, dish washer, dishwashing machine",8.4765625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.3671875
+,,,stone wall,6.9765625
+,,,espresso maker,6.46875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",6.4453125
+mobilenet_v1_1.0_128_quant,label,0.005141019821166992
+,,,"dishwasher, dish washer, dishwashing machine",9.25
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.28125
+,,,stone wall,7.9765625
+,,,espresso maker,7.8515625
+,,,ping-pong ball,7.5351562
+mobilenet_v1_1.0_128_quant,label,0.006343841552734375
+,,,"dishwasher, dish washer, dishwashing machine",8.0390625
+,,,stone wall,7.6484375
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.15625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.125
+,,,window shade,6.5859375
+mobilenet_v1_1.0_128_quant,label,0.0077342987060546875
+,,,"dishwasher, dish washer, dishwashing machine",9.9453125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.7265625
+,,,"chain saw, chainsaw",7.6875
+,,,espresso maker,7.6132812
+,,,stone wall,7.5546875
+mobilenet_v1_1.0_128_quant,label,0.007422685623168945
+,,,"dishwasher, dish washer, dishwashing machine",9.1484375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.859375
+,,,espresso maker,7.796875
+,,,stone wall,7.734375
+,,,"drilling platform, offshore rig",7.09375
+mobilenet_v1_1.0_128_quant,label,0.00672602653503418
+,,,"dishwasher, dish washer, dishwashing machine",9.609375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.3671875
+,,,stone wall,8.234375
+,,,ping-pong ball,7.9179688
+,,,espresso maker,7.5703125
+mobilenet_v1_1.0_128_quant,label,0.006642580032348633
+,,,"dishwasher, dish washer, dishwashing machine",9.1015625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.6835938
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.109375
+,,,window shade,7.109375
+,,,espresso maker,6.9765625
+mobilenet_v1_1.0_128_quant,label,0.005910158157348633
+,,,"dishwasher, dish washer, dishwashing machine",10.828125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.9765625
+,,,espresso maker,8.0
+,,,stone wall,7.6640625
+,,,ping-pong ball,7.3945312
+mobilenet_v1_1.0_128_quant,label,0.0057830810546875
+,,,"dishwasher, dish washer, dishwashing machine",9.7265625
+,,,espresso maker,8.25
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.6015625
+,,,maypole,7.5859375
+,,,window shade,7.4804688
+mobilenet_v1_1.0_128_quant,label,0.0055425167083740234
+,,,"dishwasher, dish washer, dishwashing machine",7.5039062
+,,,window shade,7.4804688
+,,,maypole,7.2734375
+,,,espresso maker,7.2109375
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.0820312
+mobilenet_v1_1.0_128,label,0.009853363037109375
+,,,window shade,9.9765625
+,,,"hook, claw",9.2265625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",9.09375
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.4335938
+,,,"dishwasher, dish washer, dishwashing machine",7.1875
+mobilenet_v1_1.0_128,label,0.0056667327880859375
+,,,window shade,10.1875
+,,,"hook, claw",9.40625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.3984375
+,,,"laptop, laptop computer",8.09375
+,,,parking meter,6.8710938
+mobilenet_v1_1.0_128,label,0.0061244964599609375
+,,,window shade,9.9609375
+,,,"hook, claw",9.2265625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.234375
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.109375
+,,,"laptop, laptop computer",6.9726562
+mobilenet_v1_1.0_128,label,0.007248640060424805
+,,,window shade,10.1875
+,,,"hook, claw",9.75
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",9.59375
+,,,"laptop, laptop computer",7.8007812
+,,,parking meter,7.1601562
+mobilenet_v1_1.0_128,label,0.005647897720336914
+,,,window shade,10.703125
+,,,"hook, claw",8.9921875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.015625
+,,,parking meter,7.8515625
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.8867188
+mobilenet_v1_1.0_128,label,0.0068471431732177734
+,,,window shade,9.796875
+,,,"hook, claw",8.9921875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.421875
+,,,"laptop, laptop computer",6.7851562
+,,,parking meter,6.6601562
+mobilenet_v1_1.0_128,label,0.006052970886230469
+,,,window shade,10.609375
+,,,"hook, claw",10.2421875
+,,,"dishwasher, dish washer, dishwashing machine",9.5703125
+,,,"laptop, laptop computer",7.6367188
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.5078125
+mobilenet_v1_1.0_128,label,0.005557060241699219
+,,,window shade,10.515625
+,,,"hook, claw",10.28125
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.1171875
+,,,"laptop, laptop computer",8.0625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.3671875
+mobilenet_v1_1.0_128,label,0.006338357925415039
+,,,window shade,10.6875
+,,,"hook, claw",10.2109375
+,,,"laptop, laptop computer",8.2734375
+,,,"dishwasher, dish washer, dishwashing machine",8.1015625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.09375
+mobilenet_v1_1.0_128,label,0.0057256221771240234
+,,,window shade,10.796875
+,,,"hook, claw",9.5390625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.015625
+,,,parking meter,7.5820312
+,,,"laptop, laptop computer",7.015625
+mobilenet_v1_1.0_128,label,0.0062258243560791016
+,,,window shade,9.7265625
+,,,"hook, claw",9.6640625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.4765625
+,,,parking meter,7.3710938
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",6.5625
+mobilenet_v1_1.0_128,label,0.005827903747558594
+,,,"hook, claw",9.9609375
+,,,window shade,9.6640625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.3046875
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",6.890625
+,,,parking meter,6.8476562
+mobilenet_v1_1.0_128,label,0.005341291427612305
+,,,window shade,11.328125
+,,,"hook, claw",10.0234375
+,,,"laptop, laptop computer",8.765625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",7.671875
+,,,"chain saw, chainsaw",7.3671875
+mobilenet_v1_1.0_128,label,0.006135702133178711
+,,,window shade,10.203125
+,,,"hook, claw",9.0390625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.15625
+,,,"laptop, laptop computer",7.1210938
+,,,"dishwasher, dish washer, dishwashing machine",7.03125
+mobilenet_v1_1.0_128,label,0.0065500736236572266
+,,,window shade,11.484375
+,,,"hook, claw",10.4921875
+,,,"laptop, laptop computer",8.671875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.5625
+,,,parking meter,7.8085938
+mobilenet_v1_1.0_128,label,0.005789756774902344
+,,,window shade,10.28125
+,,,"hook, claw",9.421875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.640625
+,,,"laptop, laptop computer",7.9414062
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.6796875
+mobilenet_v1_1.0_128,label,0.005972385406494141
+,,,window shade,10.59375
+,,,"hook, claw",9.5390625
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.109375
+,,,"laptop, laptop computer",7.8710938
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.5625
+mobilenet_v1_1.0_128,label,0.0063495635986328125
+,,,window shade,10.6484375
+,,,"hook, claw",9.3203125
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.015625
+,,,parking meter,7.0898438
+,,,"laptop, laptop computer",6.9726562
+mobilenet_v1_1.0_128,label,0.0063190460205078125
+,,,window shade,9.984375
+,,,"hook, claw",9.1171875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.84375
+,,,"laptop, laptop computer",7.3242188
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.828125
+mobilenet_v1_1.0_128,label,0.005694866180419922
+,,,window shade,10.6640625
+,,,"hook, claw",9.9296875
+,,,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",8.140625
+,,,"laptop, laptop computer",7.6757812
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.546875
+mobilenet_v1_0.75_224_quant,label,0.012233734130859375
+,,,ski,8.03125
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.78125
+,,,stone wall,7.5390625
+,,,window shade,7.4570312
+,,,"hook, claw",7.375
+mobilenet_v1_0.75_224_quant,label,0.006052494049072266
+,,,ski,7.984375
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.6640625
+,,,stone wall,6.8789062
+,,,"hook, claw",6.7460938
+,,,window shade,6.6367188
+mobilenet_v1_0.75_224_quant,label,0.005780220031738281
+,,,ski,7.59375
+,,,window shade,7.5195312
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.4140625
+,,,"flagpole, flagstaff",7.3867188
+,,,"hook, claw",6.8867188
+mobilenet_v1_0.75_224_quant,label,0.00567317008972168
+,,,ski,8.3359375
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.2109375
+,,,window shade,7.1445312
+,,,"hook, claw",6.8789062
+,,,"flagpole, flagstaff",6.4804688
+mobilenet_v1_0.75_224_quant,label,0.005682945251464844
+,,,ski,9.09375
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.59375
+,,,window shade,7.7773438
+,,,"flagpole, flagstaff",7.4609375
+,,,"hook, claw",6.9648438
+mobilenet_v1_0.75_224_quant,label,0.005640268325805664
+,,,window shade,7.7773438
+,,,ski,7.6289062
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.2734375
+,,,"hook, claw",7.15625
+,,,"flagpole, flagstaff",6.9492188
+mobilenet_v1_0.75_224_quant,label,0.0057468414306640625
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.4609375
+,,,"hook, claw",7.7539062
+,,,ski,7.328125
+,,,window shade,7.1367188
+,,,stone wall,6.7539062
+mobilenet_v1_0.75_224_quant,label,0.005573749542236328
+,,,ski,9.0078125
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.5234375
+,,,stone wall,7.7539062
+,,,"pool table, billiard table, snooker table",7.4257812
+,,,"hook, claw",7.2226562
+mobilenet_v1_0.75_224_quant,label,0.005876064300537109
+,,,ski,7.4023438
+,,,window shade,7.375
+,,,"hook, claw",7.3632812
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.2734375
+,,,stone wall,6.7148438
+mobilenet_v1_0.75_224_quant,label,0.006988048553466797
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.6953125
+,,,ski,8.0859375
+,,,window shade,7.8867188
+,,,"flagpole, flagstaff",7.8476562
+,,,"hook, claw",7.6328125
+mobilenet_v1_0.75_224_quant,label,0.005448579788208008
+,,,ski,8.1953125
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.609375
+,,,window shade,7.3398438
+,,,"hook, claw",7.28125
+,,,"flagpole, flagstaff",6.6796875
+mobilenet_v1_0.75_224_quant,label,0.005419492721557617
+,,,ski,8.7109375
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.03125
+,,,window shade,7.7695312
+,,,"flagpole, flagstaff",7.7617188
+,,,"hook, claw",7.1679688
+mobilenet_v1_0.75_224_quant,label,0.0056705474853515625
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.1015625
+,,,ski,7.6054688
+,,,window shade,6.8359375
+,,,"hook, claw",6.5273438
+,,,stone wall,6.515625
+mobilenet_v1_0.75_224_quant,label,0.005891084671020508
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.6367188
+,,,ski,7.3164062
+,,,stone wall,6.7109375
+,,,"flagpole, flagstaff",6.4960938
+,,,window shade,6.3085938
+mobilenet_v1_0.75_224_quant,label,0.00566554069519043
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.7734375
+,,,window shade,7.2773438
+,,,"flagpole, flagstaff",7.1054688
+,,,"hook, claw",6.8632812
+,,,ski,6.8476562
+mobilenet_v1_0.75_224_quant,label,0.0058743953704833984
+,,,ski,7.3398438
+,,,stone wall,7.21875
+,,,"hook, claw",6.9804688
+,,,"flagpole, flagstaff",6.9375
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",6.8046875
+mobilenet_v1_0.75_224_quant,label,0.005760908126831055
+,,,ski,8.1171875
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",8.0390625
+,,,stone wall,7.7734375
+,,,"pool table, billiard table, snooker table",7.4257812
+,,,"hook, claw",7.2851562
+mobilenet_v1_0.75_224_quant,label,0.0063359737396240234
+,,,ski,8.1015625
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.8203125
+,,,window shade,7.7539062
+,,,"flagpole, flagstaff",7.5976562
+,,,"hook, claw",7.1835938
+mobilenet_v1_0.75_224_quant,label,0.0055866241455078125
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",9.015625
+,,,ski,8.953125
+,,,stone wall,7.6875
+,,,window shade,7.2226562
+,,,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",7.125
+mobilenet_v1_0.75_224_quant,label,0.005556583404541016
+,,,ski,8.984375
+,,,"hand blower, blow dryer, blow drier, hair dryer, hair drier",7.953125
+,,,"flagpole, flagstaff",7.4023438
+,,,stone wall,7.15625
+,,,window shade,7.0976562
+mobilenet_v1_0.75_192_quant,label,0.009237289428710938
+,,,conch,7.828125
+,,,window shade,6.2851562
+,,,"jeep, landrover",5.5625
+,,,nipple,5.4570312
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.3671875
+mobilenet_v1_0.75_192_quant,label,0.006381034851074219
+,,,conch,6.53125
+,,,window shade,5.7226562
+,,,sea lion,5.2734375
+,,,geyser,5.2460938
+,,,"jeep, landrover",5.1054688
+mobilenet_v1_0.75_192_quant,label,0.006101846694946289
+,,,window shade,8.03125
+,,,conch,6.890625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.9921875
+,,,sea lion,5.703125
+,,,"ground beetle, carabid beetle",5.59375
+mobilenet_v1_0.75_192_quant,label,0.00867462158203125
+,,,conch,7.6015625
+,,,window shade,7.21875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.8789062
+,,,sea lion,5.7304688
+,,,nipple,5.6835938
+mobilenet_v1_0.75_192_quant,label,0.035475969314575195
+,,,window shade,7.8125
+,,,conch,7.1679688
+,,,geyser,6.7929688
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.7539062
+,,,sturgeon,6.3515625
+mobilenet_v1_0.75_192_quant,label,0.006383657455444336
+,,,conch,7.3984375
+,,,window shade,6.9335938
+,,,sea lion,5.90625
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.4882812
+,,,"grasshopper, hopper",5.421875
+mobilenet_v1_0.75_192_quant,label,0.007311582565307617
+,,,window shade,7.828125
+,,,conch,6.921875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.1132812
+,,,"jeep, landrover",5.8789062
+,,,"ground beetle, carabid beetle",5.5820312
+mobilenet_v1_0.75_192_quant,label,0.00611114501953125
+,,,conch,7.4101562
+,,,window shade,6.5117188
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.6914062
+,,,sturgeon,5.484375
+,,,"ground beetle, carabid beetle",5.4648438
+mobilenet_v1_0.75_192_quant,label,0.006349325180053711
+,,,conch,7.390625
+,,,window shade,6.4765625
+,,,"grasshopper, hopper",5.7734375
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.6445312
+,,,nipple,5.4726562
+mobilenet_v1_0.75_192_quant,label,0.006071805953979492
+,,,window shade,7.3828125
+,,,conch,6.734375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.1054688
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.9023438
+,,,"grasshopper, hopper",5.6289062
+mobilenet_v1_0.75_192_quant,label,0.006239175796508789
+,,,conch,7.1953125
+,,,window shade,5.9101562
+,,,sea lion,5.4648438
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.9179688
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",4.8867188
+mobilenet_v1_0.75_192_quant,label,0.006349802017211914
+,,,window shade,7.8203125
+,,,conch,7.3203125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.3476562
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",6.0976562
+,,,sea lion,5.7539062
+mobilenet_v1_0.75_192_quant,label,0.006404399871826172
+,,,window shade,7.9765625
+,,,conch,6.90625
+,,,"jeep, landrover",5.6210938
+,,,"flagpole, flagstaff",5.5117188
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.3945312
+mobilenet_v1_0.75_192_quant,label,0.006169795989990234
+,,,conch,7.3359375
+,,,window shade,6.6015625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.09375
+,,,nipple,5.6601562
+,,,"ground beetle, carabid beetle",5.46875
+mobilenet_v1_0.75_192_quant,label,0.006070613861083984
+,,,conch,7.40625
+,,,window shade,7.1054688
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.7734375
+,,,"jeep, landrover",5.65625
+,,,nipple,5.5742188
+mobilenet_v1_0.75_192_quant,label,0.006711244583129883
+,,,conch,8.4140625
+,,,window shade,6.7421875
+,,,"ground beetle, carabid beetle",5.9765625
+,,,"grasshopper, hopper",5.6953125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.6953125
+mobilenet_v1_0.75_192_quant,label,0.006664752960205078
+,,,conch,6.90625
+,,,window shade,6.3867188
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.2265625
+,,,"quilt, comforter, comfort, puff",5.1210938
+,,,sea lion,5.0585938
+mobilenet_v1_0.75_192_quant,label,0.006323099136352539
+,,,conch,7.578125
+,,,window shade,6.2070312
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.8203125
+,,,"ground beetle, carabid beetle",5.4570312
+,,,"grasshopper, hopper",5.390625
+mobilenet_v1_0.75_192_quant,label,0.006875753402709961
+,,,conch,7.3125
+,,,window shade,7.0859375
+,,,"ground beetle, carabid beetle",5.6289062
+,,,sea lion,5.5429688
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.3945312
+mobilenet_v1_0.75_192_quant,label,0.00615692138671875
+,,,conch,7.2890625
+,,,window shade,7.03125
+,,,sea lion,5.8398438
+,,,geyser,5.6523438
+,,,sturgeon,5.546875
+mobilenet_v1_0.75_192,label,0.009093046188354492
+,,,espresso maker,7.203125
+,,,ski,6.4765625
+,,,"binoculars, field glasses, opera glasses",6.4140625
+,,,"sax, saxophone",5.7851562
+,,,"quilt, comforter, comfort, puff",5.7382812
+mobilenet_v1_0.75_192,label,0.007148027420043945
+,,,"cliff, drop, drop-off",6.6953125
+,,,conch,6.2695312
+,,,"sea anemone, anemone",5.6054688
+,,,espresso maker,5.4140625
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.0703125
+mobilenet_v1_0.75_192,label,0.006368160247802734
+,,,ski,6.3203125
+,,,conch,6.21875
+,,,"jackfruit, jak, jack",6.0351562
+,,,"cliff, drop, drop-off",5.9609375
+,,,"sea anemone, anemone",5.75
+mobilenet_v1_0.75_192,label,0.006094455718994141
+,,,espresso maker,6.7109375
+,,,"sea anemone, anemone",6.453125
+,,,"cliff, drop, drop-off",6.375
+,,,ski,6.25
+,,,"grand piano, grand",6.078125
+mobilenet_v1_0.75_192,label,0.006229400634765625
+,,,espresso maker,6.8007812
+,,,ski,6.421875
+,,,"binoculars, field glasses, opera glasses",6.359375
+,,,"cliff, drop, drop-off",6.25
+,,,"sea anemone, anemone",5.7421875
+mobilenet_v1_0.75_192,label,0.006220817565917969
+,,,conch,5.9296875
+,,,espresso maker,5.796875
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.5546875
+,,,ski,5.4609375
+,,,"cliff, drop, drop-off",5.3984375
+mobilenet_v1_0.75_192,label,0.005560398101806641
+,,,espresso maker,7.8085938
+,,,"cliff, drop, drop-off",6.9453125
+,,,"binoculars, field glasses, opera glasses",6.875
+,,,ski,6.2421875
+,,,"hook, claw",5.9257812
+mobilenet_v1_0.75_192,label,0.006497383117675781
+,,,"cliff, drop, drop-off",6.2109375
+,,,espresso maker,6.1875
+,,,"sea anemone, anemone",6.125
+,,,"binoculars, field glasses, opera glasses",6.0078125
+,,,ski,5.7109375
+mobilenet_v1_0.75_192,label,0.006043910980224609
+,,,ski,6.8359375
+,,,"cliff, drop, drop-off",6.4609375
+,,,espresso maker,6.109375
+,,,"grand piano, grand",5.875
+,,,"binoculars, field glasses, opera glasses",5.6875
+mobilenet_v1_0.75_192,label,0.0063741207122802734
+,,,espresso maker,6.203125
+,,,ski,5.96875
+,,,conch,5.859375
+,,,"sea anemone, anemone",5.828125
+,,,geyser,5.5390625
+mobilenet_v1_0.75_192,label,0.0059778690338134766
+,,,espresso maker,6.5390625
+,,,"binoculars, field glasses, opera glasses",6.3125
+,,,ski,5.84375
+,,,"cliff, drop, drop-off",5.7109375
+,,,conch,5.3085938
+mobilenet_v1_0.75_192,label,0.006669521331787109
+,,,conch,5.9375
+,,,espresso maker,5.5546875
+,,,ski,5.4648438
+,,,"quilt, comforter, comfort, puff",5.1484375
+,,,"sea anemone, anemone",5.109375
+mobilenet_v1_0.75_192,label,0.00713038444519043
+,,,conch,6.515625
+,,,espresso maker,6.1523438
+,,,"binoculars, field glasses, opera glasses",5.8984375
+,,,"cliff, drop, drop-off",5.7734375
+,,,"quilt, comforter, comfort, puff",5.7070312
+mobilenet_v1_0.75_192,label,0.0057926177978515625
+,,,"cliff, drop, drop-off",7.734375
+,,,"binoculars, field glasses, opera glasses",7.0625
+,,,espresso maker,6.9257812
+,,,four-poster,5.9414062
+,,,"sea anemone, anemone",5.9140625
+mobilenet_v1_0.75_192,label,0.006097316741943359
+,,,conch,6.5859375
+,,,espresso maker,6.3945312
+,,,"binoculars, field glasses, opera glasses",6.265625
+,,,"cliff, drop, drop-off",6.0703125
+,,,"quilt, comforter, comfort, puff",5.9140625
+mobilenet_v1_0.75_192,label,0.006185770034790039
+,,,conch,6.5546875
+,,,"cliff, drop, drop-off",6.015625
+,,,ski,5.6132812
+,,,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",5.6132812
+,,,espresso maker,5.5859375
+mobilenet_v1_0.75_192,label,0.006565570831298828
+,,,"cliff, drop, drop-off",6.6796875
+,,,"sea anemone, anemone",6.4453125
+,,,ski,5.9570312
+,,,espresso maker,5.6289062
+,,,"grand piano, grand",5.4882812
+mobilenet_v1_0.75_192,label,0.007494211196899414
+,,,conch,6.5820312
+,,,"cliff, drop, drop-off",6.1679688
+,,,espresso maker,5.6015625
+,,,"grand piano, grand",5.4882812
+,,,ski,5.4609375
+mobilenet_v1_0.75_192,label,0.006561994552612305
+,,,"cliff, drop, drop-off",6.078125
+,,,espresso maker,5.8828125
+,,,conch,5.7695312
+,,,"binoculars, field glasses, opera glasses",5.71875
+,,,ski,5.1992188
+mobilenet_v1_0.75_192,label,0.00560450553894043
+,,,espresso maker,6.6640625
+,,,ski,6.546875
+,,,"cliff, drop, drop-off",6.4375
+,,,"binoculars, field glasses, opera glasses",6.3515625
+,,,"sax, saxophone",6.0976562
+mobilenet_v1_0.75_160_quant,label,0.009424686431884766
+,,,window shade,11.34375
+,,,ski,11.2265625
+,,,printer,8.984375
+,,,espresso maker,8.46875
+,,,"flagpole, flagstaff",8.140625
+mobilenet_v1_0.75_160_quant,label,0.007538557052612305
+,,,ski,11.6171875
+,,,window shade,10.78125
+,,,printer,8.71875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.2578125
+,,,espresso maker,7.7617188
+mobilenet_v1_0.75_160_quant,label,0.006028890609741211
+,,,ski,11.7578125
+,,,window shade,10.078125
+,,,printer,8.890625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.546875
+,,,"hard disc, hard disk, fixed disk",8.25
+mobilenet_v1_0.75_160_quant,label,0.006143808364868164
+,,,ski,12.078125
+,,,printer,9.453125
+,,,window shade,9.3125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.734375
+,,,"flagpole, flagstaff",8.359375
+mobilenet_v1_0.75_160_quant,label,0.0064198970794677734
+,,,ski,11.15625
+,,,window shade,9.8671875
+,,,"flagpole, flagstaff",8.03125
+,,,printer,7.9179688
+,,,espresso maker,7.5
+mobilenet_v1_0.75_160_quant,label,0.005813121795654297
+,,,ski,10.6640625
+,,,window shade,9.5703125
+,,,printer,8.875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.2109375
+,,,espresso maker,8.125
+mobilenet_v1_0.75_160_quant,label,0.00605320930480957
+,,,ski,12.0625
+,,,window shade,10.09375
+,,,printer,9.6875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.203125
+,,,"racer, race car, racing car",8.65625
+mobilenet_v1_0.75_160_quant,label,0.0073719024658203125
+,,,ski,11.6328125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.9140625
+,,,printer,9.390625
+,,,espresso maker,8.6640625
+,,,"racer, race car, racing car",8.515625
+mobilenet_v1_0.75_160_quant,label,0.009618759155273438
+,,,ski,11.7109375
+,,,window shade,10.578125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.0546875
+,,,printer,8.7578125
+,,,espresso maker,8.0234375
+mobilenet_v1_0.75_160_quant,label,0.006221294403076172
+,,,ski,11.7890625
+,,,window shade,10.46875
+,,,printer,9.9453125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.6640625
+,,,"racer, race car, racing car",8.484375
+mobilenet_v1_0.75_160_quant,label,0.006550312042236328
+,,,ski,10.4375
+,,,window shade,9.296875
+,,,printer,8.8671875
+,,,espresso maker,8.171875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.125
+mobilenet_v1_0.75_160_quant,label,0.006077766418457031
+,,,ski,10.9765625
+,,,window shade,9.890625
+,,,printer,9.3125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.4921875
+,,,espresso maker,8.4609375
+mobilenet_v1_0.75_160_quant,label,0.006181001663208008
+,,,ski,11.6328125
+,,,window shade,10.125
+,,,printer,9.203125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.6328125
+,,,espresso maker,8.09375
+mobilenet_v1_0.75_160_quant,label,0.006255388259887695
+,,,ski,12.4375
+,,,window shade,10.234375
+,,,printer,9.59375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.1328125
+,,,"racer, race car, racing car",8.421875
+mobilenet_v1_0.75_160_quant,label,0.007503986358642578
+,,,ski,12.1171875
+,,,printer,9.6484375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.4609375
+,,,window shade,8.953125
+,,,"racer, race car, racing car",8.625
+mobilenet_v1_0.75_160_quant,label,0.006087064743041992
+,,,ski,11.4609375
+,,,window shade,9.921875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.2265625
+,,,printer,8.9921875
+,,,espresso maker,8.21875
+mobilenet_v1_0.75_160_quant,label,0.006378173828125
+,,,ski,11.0390625
+,,,window shade,9.921875
+,,,printer,8.75
+,,,"flagpole, flagstaff",8.234375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.6914062
+mobilenet_v1_0.75_160_quant,label,0.006038188934326172
+,,,ski,11.3984375
+,,,window shade,10.8125
+,,,printer,10.3125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.25
+,,,"flagpole, flagstaff",8.421875
+mobilenet_v1_0.75_160_quant,label,0.006029605865478516
+,,,ski,11.84375
+,,,window shade,9.6328125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.4453125
+,,,printer,9.4140625
+,,,"racer, race car, racing car",8.328125
+mobilenet_v1_0.75_160_quant,label,0.006088733673095703
+,,,ski,11.4765625
+,,,printer,10.28125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",10.25
+,,,window shade,9.921875
+,,,"racer, race car, racing car",9.3125
+mobilenet_v1_0.75_160,label,0.06634163856506348
+,,,window shade,9.53125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.46875
+,,,ski,9.3828125
+,,,printer,8.046875
+,,,"racer, race car, racing car",7.9765625
+mobilenet_v1_0.75_160,label,0.0074269771575927734
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.09375
+,,,ski,8.9375
+,,,window shade,8.84375
+,,,"racer, race car, racing car",7.546875
+,,,printer,7.5390625
+mobilenet_v1_0.75_160,label,0.006135463714599609
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.7109375
+,,,ski,9.609375
+,,,window shade,9.2890625
+,,,printer,8.1171875
+,,,"racer, race car, racing car",8.1171875
+mobilenet_v1_0.75_160,label,0.005684852600097656
+,,,ski,10.328125
+,,,window shade,9.390625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.21875
+,,,Windsor tie,7.9765625
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.6289062
+mobilenet_v1_0.75_160,label,0.006161689758300781
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.9765625
+,,,window shade,9.484375
+,,,ski,8.75
+,,,printer,8.296875
+,,,"racer, race car, racing car",8.0859375
+mobilenet_v1_0.75_160,label,0.005797386169433594
+,,,window shade,10.03125
+,,,ski,9.84375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.6640625
+,,,printer,8.1875
+,,,Windsor tie,7.875
+mobilenet_v1_0.75_160,label,0.006690025329589844
+,,,window shade,9.40625
+,,,ski,8.796875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.3984375
+,,,printer,7.7539062
+,,,"racer, race car, racing car",7.6640625
+mobilenet_v1_0.75_160,label,0.0059778690338134766
+,,,ski,10.140625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.8203125
+,,,window shade,9.6640625
+,,,printer,8.828125
+,,,"racer, race car, racing car",8.2109375
+mobilenet_v1_0.75_160,label,0.0064013004302978516
+,,,window shade,9.78125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.5546875
+,,,ski,8.3046875
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.8867188
+,,,"flagpole, flagstaff",7.7929688
+mobilenet_v1_0.75_160,label,0.006702423095703125
+,,,window shade,10.1796875
+,,,ski,9.9375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.3046875
+,,,"racer, race car, racing car",8.3828125
+,,,printer,8.1171875
+mobilenet_v1_0.75_160,label,0.012659788131713867
+,,,ski,10.078125
+,,,window shade,9.6015625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.46875
+,,,"racer, race car, racing car",7.84375
+,,,printer,7.6640625
+mobilenet_v1_0.75_160,label,0.006342887878417969
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",10.0
+,,,ski,9.421875
+,,,window shade,9.1484375
+,,,printer,8.578125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.3671875
+mobilenet_v1_0.75_160,label,0.005940437316894531
+,,,window shade,9.859375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.2265625
+,,,ski,9.09375
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.8867188
+,,,"racer, race car, racing car",7.734375
+mobilenet_v1_0.75_160,label,0.006055116653442383
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.0546875
+,,,window shade,8.734375
+,,,ski,8.6328125
+,,,printer,7.4101562
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.21875
+mobilenet_v1_0.75_160,label,0.008212089538574219
+,,,window shade,9.703125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.21875
+,,,ski,9.1171875
+,,,printer,8.65625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.8398438
+mobilenet_v1_0.75_160,label,0.006384849548339844
+,,,window shade,9.34375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.1171875
+,,,ski,8.5625
+,,,printer,8.3671875
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.7773438
+mobilenet_v1_0.75_160,label,0.005791425704956055
+,,,window shade,9.7890625
+,,,ski,9.5
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.3828125
+,,,"racer, race car, racing car",8.1875
+,,,printer,7.9921875
+mobilenet_v1_0.75_160,label,0.006163835525512695
+,,,window shade,9.765625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.3359375
+,,,ski,8.734375
+,,,printer,8.3671875
+,,,"racer, race car, racing car",8.015625
+mobilenet_v1_0.75_160,label,0.006033658981323242
+,,,ski,9.84375
+,,,window shade,9.5625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.1875
+,,,printer,8.2890625
+,,,"racer, race car, racing car",8.0703125
+mobilenet_v1_0.75_160,label,0.006296396255493164
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",9.3984375
+,,,window shade,9.078125
+,,,ski,8.59375
+,,,printer,7.9101562
+,,,"racer, race car, racing car",7.8515625
+mobilenet_v1_0.75_128_quant,label,0.007287263870239258
+,,,"dishwasher, dish washer, dishwashing machine",10.8046875
+,,,"jinrikisha, ricksha, rickshaw",10.2578125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.890625
+,,,espresso maker,9.2421875
+,,,bow,9.0390625
+mobilenet_v1_0.75_128_quant,label,0.006898164749145508
+,,,"dishwasher, dish washer, dishwashing machine",10.90625
+,,,"jinrikisha, ricksha, rickshaw",10.8515625
+,,,printer,9.9140625
+,,,espresso maker,9.5546875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.234375
+mobilenet_v1_0.75_128_quant,label,0.0058443546295166016
+,,,"jinrikisha, ricksha, rickshaw",10.6484375
+,,,"dishwasher, dish washer, dishwashing machine",10.5234375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.65625
+,,,printer,9.1953125
+,,,bow,9.0234375
+mobilenet_v1_0.75_128_quant,label,0.006985902786254883
+,,,"dishwasher, dish washer, dishwashing machine",10.5546875
+,,,"jinrikisha, ricksha, rickshaw",10.1015625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.671875
+,,,printer,9.3203125
+,,,bow,8.7578125
+mobilenet_v1_0.75_128_quant,label,0.008033514022827148
+,,,"jinrikisha, ricksha, rickshaw",12.296875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",10.34375
+,,,"dishwasher, dish washer, dishwashing machine",10.328125
+,,,printer,10.0390625
+,,,"racer, race car, racing car",9.90625
+mobilenet_v1_0.75_128_quant,label,0.007866144180297852
+,,,"jinrikisha, ricksha, rickshaw",10.6328125
+,,,"dishwasher, dish washer, dishwashing machine",9.8984375
+,,,printer,9.7265625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.03125
+,,,espresso maker,8.609375
+mobilenet_v1_0.75_128_quant,label,0.006939888000488281
+,,,"dishwasher, dish washer, dishwashing machine",10.703125
+,,,"jinrikisha, ricksha, rickshaw",10.1015625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.9609375
+,,,espresso maker,9.3984375
+,,,printer,8.46875
+mobilenet_v1_0.75_128_quant,label,0.005738019943237305
+,,,"dishwasher, dish washer, dishwashing machine",10.890625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",10.625
+,,,espresso maker,10.625
+,,,"jinrikisha, ricksha, rickshaw",10.5546875
+,,,printer,10.0859375
+mobilenet_v1_0.75_128_quant,label,0.006059885025024414
+,,,"dishwasher, dish washer, dishwashing machine",11.015625
+,,,"jinrikisha, ricksha, rickshaw",9.8515625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.2578125
+,,,"hard disc, hard disk, fixed disk",8.1796875
+,,,espresso maker,8.0390625
+mobilenet_v1_0.75_128_quant,label,0.006131172180175781
+,,,"dishwasher, dish washer, dishwashing machine",11.421875
+,,,printer,10.6484375
+,,,"jinrikisha, ricksha, rickshaw",9.9609375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.8046875
+,,,stone wall,9.703125
+mobilenet_v1_0.75_128_quant,label,0.00536346435546875
+,,,"dishwasher, dish washer, dishwashing machine",10.7578125
+,,,"jinrikisha, ricksha, rickshaw",10.359375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.953125
+,,,printer,8.7890625
+,,,stone wall,8.2734375
+mobilenet_v1_0.75_128_quant,label,0.005659580230712891
+,,,"dishwasher, dish washer, dishwashing machine",10.2421875
+,,,"jinrikisha, ricksha, rickshaw",8.78125
+,,,printer,8.6796875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.453125
+,,,"racer, race car, racing car",8.2421875
+mobilenet_v1_0.75_128_quant,label,0.0057642459869384766
+,,,"dishwasher, dish washer, dishwashing machine",10.9765625
+,,,"jinrikisha, ricksha, rickshaw",10.8984375
+,,,printer,9.6640625
+,,,"racer, race car, racing car",9.3203125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.171875
+mobilenet_v1_0.75_128_quant,label,0.005276203155517578
+,,,"jinrikisha, ricksha, rickshaw",11.6953125
+,,,printer,10.0703125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.828125
+,,,"dishwasher, dish washer, dishwashing machine",9.640625
+,,,espresso maker,9.4140625
+mobilenet_v1_0.75_128_quant,label,0.005365133285522461
+,,,"dishwasher, dish washer, dishwashing machine",11.7890625
+,,,"jinrikisha, ricksha, rickshaw",10.5390625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.5625
+,,,stone wall,9.03125
+,,,printer,8.796875
+mobilenet_v1_0.75_128_quant,label,0.005650758743286133
+,,,"dishwasher, dish washer, dishwashing machine",11.515625
+,,,printer,11.28125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",10.15625
+,,,"jinrikisha, ricksha, rickshaw",10.0
+,,,bow,8.8515625
+mobilenet_v1_0.75_128_quant,label,0.0061380863189697266
+,,,"dishwasher, dish washer, dishwashing machine",10.6484375
+,,,"racer, race car, racing car",9.453125
+,,,"jinrikisha, ricksha, rickshaw",9.3671875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.0625
+,,,printer,8.5546875
+mobilenet_v1_0.75_128_quant,label,0.00597691535949707
+,,,"dishwasher, dish washer, dishwashing machine",12.0703125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",10.109375
+,,,"jinrikisha, ricksha, rickshaw",9.6484375
+,,,stone wall,8.6953125
+,,,"hard disc, hard disk, fixed disk",8.015625
+mobilenet_v1_0.75_128_quant,label,0.007933616638183594
+,,,"jinrikisha, ricksha, rickshaw",11.0546875
+,,,printer,10.2109375
+,,,"dishwasher, dish washer, dishwashing machine",9.6328125
+,,,espresso maker,9.1171875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.0859375
+mobilenet_v1_0.75_128_quant,label,0.007945775985717773
+,,,"dishwasher, dish washer, dishwashing machine",9.6484375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.3984375
+,,,"jinrikisha, ricksha, rickshaw",8.9921875
+,,,printer,8.9765625
+,,,"hard disc, hard disk, fixed disk",8.8125
+mobilenet_v1_0.75_128,label,0.011087179183959961
+,,,wine bottle,8.9609375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.4765625
+,,,printer,8.109375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.5507812
+,,,"hard disc, hard disk, fixed disk",7.2773438
+mobilenet_v1_0.75_128,label,0.007147073745727539
+,,,wine bottle,7.84375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.203125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.7539062
+,,,printer,6.7304688
+,,,"dishwasher, dish washer, dishwashing machine",6.578125
+mobilenet_v1_0.75_128,label,0.006573200225830078
+,,,wine bottle,8.6171875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.5546875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.0703125
+,,,printer,6.8085938
+,,,sombrero,6.640625
+mobilenet_v1_0.75_128,label,0.006537675857543945
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.5859375
+,,,wine bottle,8.5
+,,,"hard disc, hard disk, fixed disk",7.875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.6289062
+,,,printer,7.4921875
+mobilenet_v1_0.75_128,label,0.005243778228759766
+,,,wine bottle,8.4140625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.7382812
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.5273438
+,,,printer,7.4921875
+,,,"dishwasher, dish washer, dishwashing machine",6.8984375
+mobilenet_v1_0.75_128,label,0.005330562591552734
+,,,wine bottle,8.5703125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.15625
+,,,printer,7.96875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.7617188
+,,,"dishwasher, dish washer, dishwashing machine",7.640625
+mobilenet_v1_0.75_128,label,0.005817890167236328
+,,,wine bottle,9.3203125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.4140625
+,,,"dishwasher, dish washer, dishwashing machine",8.3515625
+,,,printer,8.0390625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.0
+mobilenet_v1_0.75_128,label,0.005660057067871094
+,,,wine bottle,9.0
+,,,"dishwasher, dish washer, dishwashing machine",8.15625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.0703125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.4335938
+,,,printer,7.3125
+mobilenet_v1_0.75_128,label,0.005995988845825195
+,,,wine bottle,8.5625
+,,,printer,8.3984375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.0078125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.796875
+,,,"hard disc, hard disk, fixed disk",7.765625
+mobilenet_v1_0.75_128,label,0.005302906036376953
+,,,wine bottle,8.5390625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.8398438
+,,,printer,7.609375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.4726562
+,,,"hard disc, hard disk, fixed disk",7.3867188
+mobilenet_v1_0.75_128,label,0.0056879520416259766
+,,,wine bottle,8.546875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.03125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.640625
+,,,printer,7.4375
+,,,"dishwasher, dish washer, dishwashing machine",7.2734375
+mobilenet_v1_0.75_128,label,0.00568079948425293
+,,,wine bottle,8.2890625
+,,,printer,7.3671875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.078125
+,,,"hard disc, hard disk, fixed disk",6.75
+,,,"dishwasher, dish washer, dishwashing machine",6.4882812
+mobilenet_v1_0.75_128,label,0.0057408809661865234
+,,,wine bottle,8.8046875
+,,,printer,7.3828125
+,,,"hard disc, hard disk, fixed disk",7.0859375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.890625
+,,,ski,6.4101562
+mobilenet_v1_0.75_128,label,0.00545954704284668
+,,,wine bottle,9.3125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",8.140625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.1015625
+,,,printer,8.09375
+,,,"hard disc, hard disk, fixed disk",7.5117188
+mobilenet_v1_0.75_128,label,0.005719184875488281
+,,,wine bottle,7.8671875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.6054688
+,,,printer,7.3984375
+,,,"dishwasher, dish washer, dishwashing machine",6.9140625
+,,,"hard disc, hard disk, fixed disk",6.9101562
+mobilenet_v1_0.75_128,label,0.005828142166137695
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.6835938
+,,,wine bottle,7.6210938
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.1054688
+,,,printer,6.6484375
+,,,"hard disc, hard disk, fixed disk",6.6445312
+mobilenet_v1_0.75_128,label,0.005582332611083984
+,,,wine bottle,8.1640625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.8203125
+,,,"dishwasher, dish washer, dishwashing machine",7.6484375
+,,,"hard disc, hard disk, fixed disk",7.4023438
+,,,printer,7.3671875
+mobilenet_v1_0.75_128,label,0.006688356399536133
+,,,wine bottle,8.3125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.6601562
+,,,printer,7.6601562
+,,,"hard disc, hard disk, fixed disk",7.4101562
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.2734375
+mobilenet_v1_0.75_128,label,0.0056209564208984375
+,,,wine bottle,8.015625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.4609375
+,,,printer,7.2578125
+,,,"dishwasher, dish washer, dishwashing machine",6.875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.7851562
+mobilenet_v1_0.75_128,label,0.006212949752807617
+,,,wine bottle,8.7109375
+,,,printer,8.65625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.9179688
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.5859375
+,,,"hard disc, hard disk, fixed disk",7.0039062
+mobilenet_v1_0.25_224_quant,label,0.005334615707397461
+,,,window shade,5.671875
+,,,ski,5.3164062
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.3085938
+,,,toaster,5.1328125
+,,,"binoculars, field glasses, opera glasses",4.9414062
+mobilenet_v1_0.25_224_quant,label,0.006714344024658203
+,,,window shade,5.5703125
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.0859375
+,,,ski,4.7304688
+,,,"hook, claw",4.6132812
+,,,toaster,4.5390625
+mobilenet_v1_0.25_224_quant,label,0.01038217544555664
+,,,window shade,5.9453125
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.546875
+,,,ski,4.796875
+,,,"binoculars, field glasses, opera glasses",4.7734375
+,,,espresso maker,4.65625
+mobilenet_v1_0.25_224_quant,label,0.007752895355224609
+,,,window shade,5.375
+,,,ski,4.9492188
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.8671875
+,,,"binoculars, field glasses, opera glasses",4.4804688
+,,,espresso maker,4.3203125
+mobilenet_v1_0.25_224_quant,label,0.005596160888671875
+,,,window shade,5.640625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.9453125
+,,,ski,4.9140625
+,,,"flagpole, flagstaff",4.421875
+,,,"dishwasher, dish washer, dishwashing machine",4.3945312
+mobilenet_v1_0.25_224_quant,label,0.00547480583190918
+,,,window shade,6.2421875
+,,,ski,5.515625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.3984375
+,,,"flagpole, flagstaff",5.1289062
+,,,toaster,5.1171875
+mobilenet_v1_0.25_224_quant,label,0.005338430404663086
+,,,window shade,5.390625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.390625
+,,,ski,4.8242188
+,,,toaster,4.6132812
+,,,"binoculars, field glasses, opera glasses",4.4921875
+mobilenet_v1_0.25_224_quant,label,0.004964590072631836
+,,,window shade,5.515625
+,,,ski,4.84375
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.7382812
+,,,"binoculars, field glasses, opera glasses",4.6835938
+,,,"flagpole, flagstaff",4.6210938
+mobilenet_v1_0.25_224_quant,label,0.0051877498626708984
+,,,window shade,5.703125
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.234375
+,,,ski,5.203125
+,,,"binoculars, field glasses, opera glasses",5.1210938
+,,,espresso maker,5.09375
+mobilenet_v1_0.25_224_quant,label,0.005300283432006836
+,,,window shade,5.921875
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.4140625
+,,,ski,5.1757812
+,,,"flagpole, flagstaff",5.0742188
+,,,"binoculars, field glasses, opera glasses",4.9765625
+mobilenet_v1_0.25_224_quant,label,0.005380153656005859
+,,,window shade,5.53125
+,,,ski,5.0585938
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.84375
+,,,"binoculars, field glasses, opera glasses",4.6796875
+,,,"streetcar, tram, tramcar, trolley, trolley car",4.6445312
+mobilenet_v1_0.25_224_quant,label,0.005347251892089844
+,,,window shade,5.828125
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.5
+,,,"flagpole, flagstaff",5.0898438
+,,,ski,5.03125
+,,,toaster,4.9726562
+mobilenet_v1_0.25_224_quant,label,0.005572795867919922
+,,,window shade,5.2578125
+,,,ski,4.9960938
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.828125
+,,,"binoculars, field glasses, opera glasses",4.6367188
+,,,toaster,4.5625
+mobilenet_v1_0.25_224_quant,label,0.0058133602142333984
+,,,window shade,6.046875
+,,,ski,5.2148438
+,,,"flagpole, flagstaff",5.1484375
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.0664062
+,,,toaster,4.828125
+mobilenet_v1_0.25_224_quant,label,0.005666971206665039
+,,,window shade,6.015625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.2460938
+,,,"flagpole, flagstaff",5.0664062
+,,,ski,4.828125
+,,,electric guitar,4.7382812
+mobilenet_v1_0.25_224_quant,label,0.005146026611328125
+,,,window shade,5.515625
+,,,ski,5.0742188
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.6835938
+,,,"binoculars, field glasses, opera glasses",4.6445312
+,,,espresso maker,4.5117188
+mobilenet_v1_0.25_224_quant,label,0.005182504653930664
+,,,window shade,5.9765625
+,,,"flagpole, flagstaff",5.2421875
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.2304688
+,,,ski,5.1640625
+,,,radiator,5.1132812
+mobilenet_v1_0.25_224_quant,label,0.005084514617919922
+,,,window shade,6.0625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.4609375
+,,,ski,5.3945312
+,,,"binoculars, field glasses, opera glasses",5.0195312
+,,,"flagpole, flagstaff",4.8867188
+mobilenet_v1_0.25_224_quant,label,0.005736351013183594
+,,,window shade,5.7890625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.3359375
+,,,"flagpole, flagstaff",5.1015625
+,,,"binoculars, field glasses, opera glasses",5.0820312
+,,,ski,4.9921875
+mobilenet_v1_0.25_224_quant,label,0.005228519439697266
+,,,window shade,5.734375
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",5.0703125
+,,,ski,4.9296875
+,,,toaster,4.6875
+,,,electric guitar,4.5390625
+mobilenet_v1_0.25_224,label,0.023456096649169922
+,,,window shade,6.5859375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.4609375
+,,,"loupe, jeweler's loupe",4.8945312
+,,,"hook, claw",4.5078125
+,,,toaster,4.40625
+mobilenet_v1_0.25_224,label,0.007477521896362305
+,,,window shade,6.390625
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.4765625
+,,,"loupe, jeweler's loupe",4.6171875
+,,,"hook, claw",4.40625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.3203125
+mobilenet_v1_0.25_224,label,0.010098457336425781
+,,,window shade,6.3984375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.125
+,,,"loupe, jeweler's loupe",4.703125
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.65625
+,,,"hook, claw",4.4296875
+mobilenet_v1_0.25_224,label,0.007589101791381836
+,,,window shade,6.3828125
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.5078125
+,,,"loupe, jeweler's loupe",4.765625
+,,,"hook, claw",4.4296875
+,,,ski,4.34375
+mobilenet_v1_0.25_224,label,0.0054318904876708984
+,,,window shade,6.6484375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.546875
+,,,"loupe, jeweler's loupe",4.8046875
+,,,toaster,4.625
+,,,"hook, claw",4.5625
+mobilenet_v1_0.25_224,label,0.005773782730102539
+,,,window shade,6.921875
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.5859375
+,,,"loupe, jeweler's loupe",4.8007812
+,,,"ground beetle, carabid beetle",4.6132812
+,,,toaster,4.609375
+mobilenet_v1_0.25_224,label,0.00559234619140625
+,,,window shade,6.734375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.2890625
+,,,"loupe, jeweler's loupe",4.7578125
+,,,"hook, claw",4.546875
+,,,toaster,4.546875
+mobilenet_v1_0.25_224,label,0.00702357292175293
+,,,window shade,6.625
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.0390625
+,,,toaster,4.65625
+,,,"loupe, jeweler's loupe",4.546875
+,,,"hook, claw",4.546875
+mobilenet_v1_0.25_224,label,0.005460262298583984
+,,,window shade,6.234375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.1953125
+,,,toaster,4.6054688
+,,,"loupe, jeweler's loupe",4.5820312
+,,,"hook, claw",4.2734375
+mobilenet_v1_0.25_224,label,0.005059242248535156
+,,,window shade,6.84375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.421875
+,,,"loupe, jeweler's loupe",4.8085938
+,,,"hook, claw",4.75
+,,,"ground beetle, carabid beetle",4.3476562
+mobilenet_v1_0.25_224,label,0.005285501480102539
+,,,window shade,7.296875
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.015625
+,,,"loupe, jeweler's loupe",5.1992188
+,,,toaster,4.7539062
+,,,"hook, claw",4.6484375
+mobilenet_v1_0.25_224,label,0.0051174163818359375
+,,,window shade,6.4023438
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.1015625
+,,,"loupe, jeweler's loupe",4.890625
+,,,toaster,4.8476562
+,,,"hook, claw",4.578125
+mobilenet_v1_0.25_224,label,0.006071567535400391
+,,,window shade,6.53125
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.59375
+,,,"loupe, jeweler's loupe",4.7734375
+,,,toaster,4.703125
+,,,"hook, claw",4.59375
+mobilenet_v1_0.25_224,label,0.0058841705322265625
+,,,window shade,6.59375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.46875
+,,,"loupe, jeweler's loupe",4.9375
+,,,"hook, claw",4.515625
+,,,toaster,4.4921875
+mobilenet_v1_0.25_224,label,0.010987520217895508
+,,,window shade,6.671875
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.4453125
+,,,"loupe, jeweler's loupe",5.0078125
+,,,toaster,4.875
+,,,"hook, claw",4.6171875
+mobilenet_v1_0.25_224,label,0.007538557052612305
+,,,window shade,6.5546875
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.46875
+,,,"loupe, jeweler's loupe",4.8789062
+,,,ski,4.4648438
+,,,"hook, claw",4.4375
+mobilenet_v1_0.25_224,label,0.007874727249145508
+,,,window shade,6.5585938
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.609375
+,,,toaster,5.1367188
+,,,"loupe, jeweler's loupe",5.125
+,,,"hook, claw",4.6484375
+mobilenet_v1_0.25_224,label,0.0054018497467041016
+,,,window shade,6.8515625
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.671875
+,,,"loupe, jeweler's loupe",4.8828125
+,,,toaster,4.6601562
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.5820312
+mobilenet_v1_0.25_224,label,0.005195140838623047
+,,,window shade,6.4375
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.1328125
+,,,"loupe, jeweler's loupe",4.3164062
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.3125
+,,,"hook, claw",4.2734375
+mobilenet_v1_0.25_224,label,0.005074024200439453
+,,,window shade,6.9453125
+,,,"streetcar, tram, tramcar, trolley, trolley car",5.140625
+,,,"loupe, jeweler's loupe",4.7578125
+,,,"hook, claw",4.5546875
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.515625
+mobilenet_v1_0.25_192_quant,label,0.007188320159912109
+,,,"dishwasher, dish washer, dishwashing machine",5.453125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.2460938
+,,,"pool table, billiard table, snooker table",4.15625
+,,,"drilling platform, offshore rig",4.0390625
+,,,"worm fence, snake fence, snake-rail fence, Virginia fence",4.0273438
+mobilenet_v1_0.25_192_quant,label,0.007185220718383789
+,,,conch,4.3554688
+,,,"dishwasher, dish washer, dishwashing machine",4.3515625
+,,,"drilling platform, offshore rig",3.8320312
+,,,espresso maker,3.6601562
+,,,"parachute, chute",3.609375
+mobilenet_v1_0.25_192_quant,label,0.006367206573486328
+,,,"dishwasher, dish washer, dishwashing machine",4.4570312
+,,,espresso maker,3.7929688
+,,,"drilling platform, offshore rig",3.7519531
+,,,conch,3.734375
+,,,"parachute, chute",3.6015625
+mobilenet_v1_0.25_192_quant,label,0.006460428237915039
+,,,"dishwasher, dish washer, dishwashing machine",4.5898438
+,,,conch,4.25
+,,,espresso maker,4.1914062
+,,,"drilling platform, offshore rig",4.15625
+,,,"parachute, chute",3.7578125
+mobilenet_v1_0.25_192_quant,label,0.006295680999755859
+,,,"dishwasher, dish washer, dishwashing machine",4.5507812
+,,,conch,4.109375
+,,,"drilling platform, offshore rig",4.0703125
+,,,espresso maker,3.9296875
+,,,"parachute, chute",3.796875
+mobilenet_v1_0.25_192_quant,label,0.0053484439849853516
+,,,"dishwasher, dish washer, dishwashing machine",3.9902344
+,,,"drilling platform, offshore rig",3.7832031
+,,,espresso maker,3.71875
+,,,conch,3.6054688
+,,,"parachute, chute",3.5429688
+mobilenet_v1_0.25_192_quant,label,0.005036115646362305
+,,,"dishwasher, dish washer, dishwashing machine",5.8085938
+,,,"pool table, billiard table, snooker table",4.4140625
+,,,"drilling platform, offshore rig",4.3320312
+,,,stone wall,4.2382812
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.1601562
+mobilenet_v1_0.25_192_quant,label,0.005046844482421875
+,,,conch,4.2617188
+,,,"dishwasher, dish washer, dishwashing machine",4.2460938
+,,,vending machine,3.7070312
+,,,"drilling platform, offshore rig",3.6621094
+,,,"parachute, chute",3.6367188
+mobilenet_v1_0.25_192_quant,label,0.004645586013793945
+,,,"dishwasher, dish washer, dishwashing machine",4.9609375
+,,,"drilling platform, offshore rig",4.28125
+,,,conch,3.8671875
+,,,window shade,3.7578125
+,,,espresso maker,3.7460938
+mobilenet_v1_0.25_192_quant,label,0.004779338836669922
+,,,"dishwasher, dish washer, dishwashing machine",4.421875
+,,,espresso maker,4.1875
+,,,"drilling platform, offshore rig",4.0507812
+,,,conch,4.0039062
+,,,rugby ball,3.7890625
+mobilenet_v1_0.25_192_quant,label,0.005296468734741211
+,,,"dishwasher, dish washer, dishwashing machine",4.7695312
+,,,conch,4.5625
+,,,"drilling platform, offshore rig",4.2773438
+,,,espresso maker,3.953125
+,,,"binoculars, field glasses, opera glasses",3.6679688
+mobilenet_v1_0.25_192_quant,label,0.0054171085357666016
+,,,"dishwasher, dish washer, dishwashing machine",3.765625
+,,,conch,3.7265625
+,,,"drilling platform, offshore rig",3.5917969
+,,,espresso maker,3.4335938
+,,,window shade,3.3496094
+mobilenet_v1_0.25_192_quant,label,0.005369424819946289
+,,,"dishwasher, dish washer, dishwashing machine",4.9921875
+,,,conch,3.9648438
+,,,"parachute, chute",3.8378906
+,,,"drilling platform, offshore rig",3.8144531
+,,,"bathtub, bathing tub, bath, tub",3.7890625
+mobilenet_v1_0.25_192_quant,label,0.004955768585205078
+,,,conch,4.3671875
+,,,"dishwasher, dish washer, dishwashing machine",4.3515625
+,,,espresso maker,3.6445312
+,,,"parachute, chute",3.5390625
+,,,"drilling platform, offshore rig",3.5234375
+mobilenet_v1_0.25_192_quant,label,0.004734992980957031
+,,,"dishwasher, dish washer, dishwashing machine",5.4765625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.0820312
+,,,"parachute, chute",4.0195312
+,,,"pool table, billiard table, snooker table",3.9960938
+,,,conch,3.921875
+mobilenet_v1_0.25_192_quant,label,0.005188703536987305
+,,,"dishwasher, dish washer, dishwashing machine",4.375
+,,,"drilling platform, offshore rig",4.3359375
+,,,"parachute, chute",3.6152344
+,,,conch,3.5664062
+,,,espresso maker,3.5664062
+mobilenet_v1_0.25_192_quant,label,0.004786968231201172
+,,,"dishwasher, dish washer, dishwashing machine",3.9140625
+,,,conch,3.78125
+,,,espresso maker,3.7773438
+,,,"drilling platform, offshore rig",3.6523438
+,,,rugby ball,3.546875
+mobilenet_v1_0.25_192_quant,label,0.017433881759643555
+,,,conch,4.0507812
+,,,espresso maker,4.0195312
+,,,"drilling platform, offshore rig",3.8769531
+,,,"dishwasher, dish washer, dishwashing machine",3.8515625
+,,,"parachute, chute",3.5097656
+mobilenet_v1_0.25_192_quant,label,0.005305051803588867
+,,,"dishwasher, dish washer, dishwashing machine",4.2148438
+,,,conch,3.6015625
+,,,"parachute, chute",3.4765625
+,,,"drilling platform, offshore rig",3.4277344
+,,,vending machine,3.4121094
+mobilenet_v1_0.25_192_quant,label,0.0050241947174072266
+,,,"dishwasher, dish washer, dishwashing machine",4.5625
+,,,"drilling platform, offshore rig",4.3359375
+,,,espresso maker,3.8085938
+,,,"bicycle-built-for-two, tandem bicycle, tandem",3.6152344
+,,,conch,3.6132812
+mobilenet_v1_0.25_192,label,0.0615239143371582
+,,,"dishwasher, dish washer, dishwashing machine",4.1601562
+,,,window shade,3.8027344
+,,,conch,3.3945312
+,,,"parachute, chute",3.1542969
+,,,vending machine,3.1347656
+mobilenet_v1_0.25_192,label,0.006264448165893555
+,,,"dishwasher, dish washer, dishwashing machine",3.7832031
+,,,window shade,3.4648438
+,,,conch,3.1464844
+,,,ski,3.1425781
+,,,vending machine,3.078125
+mobilenet_v1_0.25_192,label,0.00577545166015625
+,,,window shade,3.9394531
+,,,"dishwasher, dish washer, dishwashing machine",3.7578125
+,,,toaster,3.4257812
+,,,ski,3.3222656
+,,,"streetcar, tram, tramcar, trolley, trolley car",3.1035156
+mobilenet_v1_0.25_192,label,0.005515336990356445
+,,,"dishwasher, dish washer, dishwashing machine",4.1757812
+,,,window shade,3.3984375
+,,,ski,3.0703125
+,,,vending machine,3.0664062
+,,,espresso maker,3.0410156
+mobilenet_v1_0.25_192,label,0.005991697311401367
+,,,"dishwasher, dish washer, dishwashing machine",4.1914062
+,,,window shade,3.4394531
+,,,ski,3.3574219
+,,,vending machine,3.2929688
+,,,toaster,3.1328125
+mobilenet_v1_0.25_192,label,0.012579202651977539
+,,,"dishwasher, dish washer, dishwashing machine",4.140625
+,,,window shade,4.0234375
+,,,conch,3.453125
+,,,ski,3.3417969
+,,,toaster,3.3066406
+mobilenet_v1_0.25_192,label,0.007224321365356445
+,,,"dishwasher, dish washer, dishwashing machine",3.5683594
+,,,ski,3.5214844
+,,,window shade,3.4160156
+,,,conch,3.40625
+,,,toaster,3.1386719
+mobilenet_v1_0.25_192,label,0.005524158477783203
+,,,"dishwasher, dish washer, dishwashing machine",4.0
+,,,window shade,3.8632812
+,,,ski,3.4628906
+,,,conch,3.328125
+,,,vending machine,3.046875
+mobilenet_v1_0.25_192,label,0.0054247379302978516
+,,,"dishwasher, dish washer, dishwashing machine",3.9863281
+,,,window shade,3.6503906
+,,,ski,3.3984375
+,,,vending machine,3.2851562
+,,,conch,3.1621094
+mobilenet_v1_0.25_192,label,0.0066030025482177734
+,,,window shade,3.5742188
+,,,"dishwasher, dish washer, dishwashing machine",3.5117188
+,,,conch,3.3671875
+,,,espresso maker,3.0722656
+,,,vending machine,2.9804688
+mobilenet_v1_0.25_192,label,0.009015798568725586
+,,,window shade,4.265625
+,,,conch,3.7382812
+,,,"dishwasher, dish washer, dishwashing machine",3.6738281
+,,,ski,3.2441406
+,,,"streetcar, tram, tramcar, trolley, trolley car",3.1425781
+mobilenet_v1_0.25_192,label,0.005686759948730469
+,,,"dishwasher, dish washer, dishwashing machine",4.2851562
+,,,window shade,4.1796875
+,,,ski,3.4765625
+,,,conch,3.2695312
+,,,toaster,3.2636719
+mobilenet_v1_0.25_192,label,0.006567239761352539
+,,,window shade,3.578125
+,,,"dishwasher, dish washer, dishwashing machine",3.4609375
+,,,conch,3.3476562
+,,,vending machine,3.1875
+,,,ski,2.9804688
+mobilenet_v1_0.25_192,label,0.008600950241088867
+,,,window shade,3.5683594
+,,,conch,3.3515625
+,,,"dishwasher, dish washer, dishwashing machine",3.3105469
+,,,vending machine,3.0703125
+,,,Windsor tie,2.8535156
+mobilenet_v1_0.25_192,label,0.00648045539855957
+,,,"dishwasher, dish washer, dishwashing machine",4.0
+,,,window shade,3.6132812
+,,,conch,3.171875
+,,,vending machine,3.0429688
+,,,"parachute, chute",2.9648438
+mobilenet_v1_0.25_192,label,0.005212306976318359
+,,,"dishwasher, dish washer, dishwashing machine",3.8554688
+,,,window shade,3.7792969
+,,,conch,3.328125
+,,,vending machine,3.0664062
+,,,ski,3.0527344
+mobilenet_v1_0.25_192,label,0.004694223403930664
+,,,"dishwasher, dish washer, dishwashing machine",4.1054688
+,,,window shade,3.7226562
+,,,vending machine,3.2773438
+,,,ski,3.2539062
+,,,toaster,3.1933594
+mobilenet_v1_0.25_192,label,0.004725217819213867
+,,,window shade,3.9746094
+,,,conch,3.7070312
+,,,"dishwasher, dish washer, dishwashing machine",3.6113281
+,,,toaster,3.3730469
+,,,"streetcar, tram, tramcar, trolley, trolley car",3.3261719
+mobilenet_v1_0.25_192,label,0.005066871643066406
+,,,"dishwasher, dish washer, dishwashing machine",3.9511719
+,,,window shade,3.5488281
+,,,conch,3.1992188
+,,,ski,3.1601562
+,,,vending machine,3.1367188
+mobilenet_v1_0.25_192,label,0.008469581604003906
+,,,"dishwasher, dish washer, dishwashing machine",3.7285156
+,,,window shade,3.4277344
+,,,ski,3.3183594
+,,,conch,3.171875
+,,,vending machine,2.9921875
+mobilenet_v1_0.25_160_quant,label,0.005335807800292969
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005269050598144531
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.004898786544799805
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.0059967041015625
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.006192207336425781
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.00466465950012207
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005024433135986328
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.004796743392944336
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.0052585601806640625
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.0051746368408203125
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005286693572998047
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005259037017822266
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.004930257797241211
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005183696746826172
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.0051212310791015625
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.004605531692504883
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.00482940673828125
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005345344543457031
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.0049822330474853516
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_160_quant,label,0.005215883255004883
+,,,"wallet, billfold, notecase, pocketbook",3.1347656
+,,,library,3.0859375
+,,,table lamp,3.0253906
+,,,conch,2.9296875
+,,,Band Aid,2.9082031
+mobilenet_v1_0.25_128_quant,label,0.005750179290771484
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.5078125
+,,,espresso maker,5.9179688
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.5703125
+,,,window shade,5.4765625
+,,,ski,5.1796875
+mobilenet_v1_0.25_128_quant,label,0.007109165191650391
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.2148438
+,,,espresso maker,6.4726562
+,,,window shade,6.3046875
+,,,pencil sharpener,5.984375
+,,,"flagpole, flagstaff",5.9179688
+mobilenet_v1_0.25_128_quant,label,0.010262250900268555
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.796875
+,,,window shade,6.3828125
+,,,espresso maker,6.3359375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.296875
+,,,wine bottle,6.2578125
+mobilenet_v1_0.25_128_quant,label,0.00962066650390625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.734375
+,,,window shade,7.171875
+,,,"flagpole, flagstaff",6.6328125
+,,,espresso maker,6.5898438
+,,,pencil sharpener,6.3632812
+mobilenet_v1_0.25_128_quant,label,0.005994558334350586
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.65625
+,,,espresso maker,6.6445312
+,,,window shade,6.5351562
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.5195312
+,,,ski,6.4375
+mobilenet_v1_0.25_128_quant,label,0.006753683090209961
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.0898438
+,,,espresso maker,6.3164062
+,,,window shade,5.9882812
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.8007812
+,,,pencil sharpener,5.75
+mobilenet_v1_0.25_128_quant,label,0.006960153579711914
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.8554688
+,,,window shade,6.1640625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.9296875
+,,,espresso maker,5.9101562
+,,,wine bottle,5.7851562
+mobilenet_v1_0.25_128_quant,label,0.00946187973022461
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.1640625
+,,,"nematode, nematode worm, roundworm",6.8125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.7226562
+,,,espresso maker,6.578125
+,,,pencil sharpener,6.4570312
+mobilenet_v1_0.25_128_quant,label,0.00649571418762207
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.140625
+,,,window shade,6.734375
+,,,espresso maker,6.1523438
+,,,"flagpole, flagstaff",5.9921875
+,,,wine bottle,5.9648438
+mobilenet_v1_0.25_128_quant,label,0.005055665969848633
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.6679688
+,,,espresso maker,6.578125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.2148438
+,,,pencil sharpener,6.1328125
+,,,window shade,5.921875
+mobilenet_v1_0.25_128_quant,label,0.005167722702026367
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.1445312
+,,,espresso maker,6.2695312
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.9804688
+,,,window shade,5.9296875
+,,,pencil sharpener,5.8359375
+mobilenet_v1_0.25_128_quant,label,0.004893302917480469
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.0859375
+,,,"nematode, nematode worm, roundworm",6.1484375
+,,,espresso maker,6.0703125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.9492188
+,,,window shade,5.890625
+mobilenet_v1_0.25_128_quant,label,0.004967212677001953
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.4726562
+,,,espresso maker,6.4765625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.2695312
+,,,window shade,6.1914062
+,,,pencil sharpener,5.9882812
+mobilenet_v1_0.25_128_quant,label,0.006341695785522461
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.4375
+,,,espresso maker,6.453125
+,,,pencil sharpener,6.1757812
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.0976562
+,,,window shade,5.953125
+mobilenet_v1_0.25_128_quant,label,0.005702495574951172
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.9179688
+,,,espresso maker,6.3984375
+,,,pencil sharpener,6.1132812
+,,,window shade,6.0898438
+,,,"nematode, nematode worm, roundworm",5.796875
+mobilenet_v1_0.25_128_quant,label,0.010301828384399414
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.5742188
+,,,window shade,6.0898438
+,,,espresso maker,5.8164062
+,,,wine bottle,5.4257812
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.40625
+mobilenet_v1_0.25_128_quant,label,0.006038188934326172
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.8828125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.8515625
+,,,espresso maker,5.828125
+,,,window shade,5.4609375
+,,,wine bottle,5.2695312
+mobilenet_v1_0.25_128_quant,label,0.004904985427856445
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.7382812
+,,,"nematode, nematode worm, roundworm",6.6171875
+,,,espresso maker,6.53125
+,,,pencil sharpener,6.4726562
+,,,"flagpole, flagstaff",6.2109375
+mobilenet_v1_0.25_128_quant,label,0.0059468746185302734
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.671875
+,,,espresso maker,5.9296875
+,,,window shade,5.9101562
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.5585938
+,,,"hard disc, hard disk, fixed disk",5.0976562
+mobilenet_v1_0.25_128_quant,label,0.005761623382568359
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.0585938
+,,,espresso maker,6.3828125
+,,,window shade,6.1171875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.9179688
+,,,pencil sharpener,5.7890625
+mobilenet_v1_0.25_128,label,0.0075299739837646484
+,,,"cleaver, meat cleaver, chopper",6.078125
+,,,"submarine, pigboat, sub, U-boat",5.9140625
+,,,window shade,4.5078125
+,,,"grocery store, grocery, food market, market",4.4179688
+,,,"doormat, welcome mat",4.359375
+mobilenet_v1_0.25_128,label,0.00609278678894043
+,,,"cleaver, meat cleaver, chopper",6.3945312
+,,,window shade,5.2734375
+,,,"submarine, pigboat, sub, U-boat",5.171875
+,,,"flagpole, flagstaff",4.8984375
+,,,"grocery store, grocery, food market, market",4.8007812
+mobilenet_v1_0.25_128,label,0.007529258728027344
+,,,"cleaver, meat cleaver, chopper",5.9140625
+,,,"submarine, pigboat, sub, U-boat",4.96875
+,,,"doormat, welcome mat",4.5742188
+,,,window shade,4.5625
+,,,"flagpole, flagstaff",4.53125
+mobilenet_v1_0.25_128,label,0.005454063415527344
+,,,"cleaver, meat cleaver, chopper",6.1914062
+,,,"submarine, pigboat, sub, U-boat",5.53125
+,,,window shade,5.1015625
+,,,"grocery store, grocery, food market, market",4.9375
+,,,barn,4.6601562
+mobilenet_v1_0.25_128,label,0.005631208419799805
+,,,"cleaver, meat cleaver, chopper",7.8320312
+,,,"submarine, pigboat, sub, U-boat",7.078125
+,,,mosquito net,5.171875
+,,,"grocery store, grocery, food market, market",5.0820312
+,,,"doormat, welcome mat",4.9804688
+mobilenet_v1_0.25_128,label,0.005293607711791992
+,,,"cleaver, meat cleaver, chopper",6.1484375
+,,,"submarine, pigboat, sub, U-boat",5.5039062
+,,,window shade,5.015625
+,,,"grocery store, grocery, food market, market",4.6054688
+,,,"flagpole, flagstaff",4.578125
+mobilenet_v1_0.25_128,label,0.006612062454223633
+,,,"cleaver, meat cleaver, chopper",6.3984375
+,,,"submarine, pigboat, sub, U-boat",5.78125
+,,,"flagpole, flagstaff",4.8984375
+,,,window shade,4.8671875
+,,,"doormat, welcome mat",4.7070312
+mobilenet_v1_0.25_128,label,0.005858421325683594
+,,,"cleaver, meat cleaver, chopper",5.0703125
+,,,window shade,4.890625
+,,,"submarine, pigboat, sub, U-boat",4.7695312
+,,,Windsor tie,4.234375
+,,,"grocery store, grocery, food market, market",4.1992188
+mobilenet_v1_0.25_128,label,0.005006551742553711
+,,,"cleaver, meat cleaver, chopper",6.4570312
+,,,"submarine, pigboat, sub, U-boat",5.8554688
+,,,"doormat, welcome mat",4.9726562
+,,,window shade,4.9492188
+,,,mosquito net,4.7460938
+mobilenet_v1_0.25_128,label,0.005274057388305664
+,,,"cleaver, meat cleaver, chopper",6.6875
+,,,"submarine, pigboat, sub, U-boat",5.9140625
+,,,mosquito net,4.6054688
+,,,window shade,4.4765625
+,,,"doormat, welcome mat",4.4492188
+mobilenet_v1_0.25_128,label,0.004839420318603516
+,,,"cleaver, meat cleaver, chopper",5.9921875
+,,,"submarine, pigboat, sub, U-boat",5.4101562
+,,,window shade,4.9375
+,,,"flagpole, flagstaff",4.6523438
+,,,"doormat, welcome mat",4.625
+mobilenet_v1_0.25_128,label,0.005082845687866211
+,,,"cleaver, meat cleaver, chopper",6.3359375
+,,,"submarine, pigboat, sub, U-boat",5.609375
+,,,"grocery store, grocery, food market, market",4.953125
+,,,window shade,4.9296875
+,,,Windsor tie,4.6484375
+mobilenet_v1_0.25_128,label,0.005513191223144531
+,,,"cleaver, meat cleaver, chopper",6.9335938
+,,,"submarine, pigboat, sub, U-boat",5.578125
+,,,"grocery store, grocery, food market, market",5.2265625
+,,,"flagpole, flagstaff",5.2148438
+,,,window shade,5.2109375
+mobilenet_v1_0.25_128,label,0.0053844451904296875
+,,,"cleaver, meat cleaver, chopper",6.796875
+,,,"submarine, pigboat, sub, U-boat",6.25
+,,,"flagpole, flagstaff",5.3867188
+,,,window shade,5.171875
+,,,Windsor tie,5.1601562
+mobilenet_v1_0.25_128,label,0.005935192108154297
+,,,"cleaver, meat cleaver, chopper",6.4960938
+,,,"submarine, pigboat, sub, U-boat",5.4453125
+,,,"grocery store, grocery, food market, market",5.0820312
+,,,window shade,4.8671875
+,,,Windsor tie,4.671875
+mobilenet_v1_0.25_128,label,0.0051898956298828125
+,,,"cleaver, meat cleaver, chopper",6.7070312
+,,,"submarine, pigboat, sub, U-boat",5.609375
+,,,window shade,4.921875
+,,,"doormat, welcome mat",4.7773438
+,,,"flagpole, flagstaff",4.7109375
+mobilenet_v1_0.25_128,label,0.005369901657104492
+,,,"cleaver, meat cleaver, chopper",6.4648438
+,,,"submarine, pigboat, sub, U-boat",5.7695312
+,,,window shade,5.046875
+,,,"grocery store, grocery, food market, market",4.9570312
+,,,"flagpole, flagstaff",4.9140625
+mobilenet_v1_0.25_128,label,0.005293369293212891
+,,,"cleaver, meat cleaver, chopper",6.6484375
+,,,"submarine, pigboat, sub, U-boat",5.625
+,,,"grocery store, grocery, food market, market",4.78125
+,,,"flagpole, flagstaff",4.7773438
+,,,window shade,4.7734375
+mobilenet_v1_0.25_128,label,0.00575566291809082
+,,,"cleaver, meat cleaver, chopper",6.1875
+,,,window shade,5.2578125
+,,,"submarine, pigboat, sub, U-boat",5.2382812
+,,,"flagpole, flagstaff",5.2109375
+,,,"doormat, welcome mat",4.8359375
+mobilenet_v1_0.25_128,label,0.005307435989379883
+,,,"cleaver, meat cleaver, chopper",6.328125
+,,,"submarine, pigboat, sub, U-boat",5.859375
+,,,window shade,4.890625
+,,,"grocery store, grocery, food market, market",4.7851562
+,,,Windsor tie,4.4804688
+mobilenet_v1_0.5_224_quant,label,0.005952358245849609
+,,,window shade,5.1289062
+,,,espresso maker,4.875
+,,,"flagpole, flagstaff",4.8320312
+,,,vending machine,4.59375
+,,,"jeep, landrover",4.546875
+mobilenet_v1_0.5_224_quant,label,0.005385637283325195
+,,,window shade,5.8945312
+,,,espresso maker,5.7421875
+,,,"flagpole, flagstaff",5.7070312
+,,,"binoculars, field glasses, opera glasses",5.0
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.8984375
+mobilenet_v1_0.5_224_quant,label,0.005597114562988281
+,,,window shade,5.5976562
+,,,espresso maker,4.9375
+,,,"flagpole, flagstaff",4.890625
+,,,"jeep, landrover",4.828125
+,,,maypole,4.7265625
+mobilenet_v1_0.5_224_quant,label,0.005095481872558594
+,,,"flagpole, flagstaff",5.40625
+,,,espresso maker,5.40625
+,,,window shade,5.3398438
+,,,vending machine,5.3203125
+,,,"mailbox, letter box",5.109375
+mobilenet_v1_0.5_224_quant,label,0.005689859390258789
+,,,espresso maker,5.9492188
+,,,window shade,5.6953125
+,,,"binoculars, field glasses, opera glasses",5.1679688
+,,,"lawn mower, mower",4.9140625
+,,,chainlink fence,4.8789062
+mobilenet_v1_0.5_224_quant,label,0.005115032196044922
+,,,window shade,5.7070312
+,,,"worm fence, snake fence, snake-rail fence, Virginia fence",5.6679688
+,,,"mailbox, letter box",5.640625
+,,,espresso maker,5.625
+,,,"jeep, landrover",5.3632812
+mobilenet_v1_0.5_224_quant,label,0.005359172821044922
+,,,"flagpole, flagstaff",5.6367188
+,,,window shade,5.5390625
+,,,espresso maker,5.0820312
+,,,vending machine,4.8125
+,,,"mailbox, letter box",4.5546875
+mobilenet_v1_0.5_224_quant,label,0.005143404006958008
+,,,window shade,5.6601562
+,,,espresso maker,5.4804688
+,,,vending machine,5.1796875
+,,,"mailbox, letter box",5.1484375
+,,,"flagpole, flagstaff",5.1367188
+mobilenet_v1_0.5_224_quant,label,0.0052869319915771484
+,,,window shade,6.1484375
+,,,espresso maker,5.9609375
+,,,"flagpole, flagstaff",5.7578125
+,,,vending machine,5.2265625
+,,,"jeep, landrover",4.875
+mobilenet_v1_0.5_224_quant,label,0.005375385284423828
+,,,window shade,5.9765625
+,,,espresso maker,5.5546875
+,,,"flagpole, flagstaff",5.4335938
+,,,"lawn mower, mower",4.9726562
+,,,vending machine,4.8710938
+mobilenet_v1_0.5_224_quant,label,0.005707740783691406
+,,,vending machine,5.4375
+,,,window shade,5.4335938
+,,,"jeep, landrover",5.2617188
+,,,"flagpole, flagstaff",5.1757812
+,,,espresso maker,5.1015625
+mobilenet_v1_0.5_224_quant,label,0.004956245422363281
+,,,window shade,6.1640625
+,,,espresso maker,5.8828125
+,,,"flagpole, flagstaff",5.7695312
+,,,vending machine,4.9375
+,,,"binoculars, field glasses, opera glasses",4.9375
+mobilenet_v1_0.5_224_quant,label,0.00479888916015625
+,,,espresso maker,5.5625
+,,,window shade,5.4179688
+,,,"flagpole, flagstaff",5.2773438
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.9921875
+,,,"lawn mower, mower",4.8125
+mobilenet_v1_0.5_224_quant,label,0.005570888519287109
+,,,window shade,5.3125
+,,,espresso maker,5.2695312
+,,,"flagpole, flagstaff",4.9882812
+,,,vending machine,4.875
+,,,chainlink fence,4.5507812
+mobilenet_v1_0.5_224_quant,label,0.0053408145904541016
+,,,espresso maker,5.5390625
+,,,vending machine,5.2265625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.21875
+,,,window shade,5.1835938
+,,,"worm fence, snake fence, snake-rail fence, Virginia fence",5.1015625
+mobilenet_v1_0.5_224_quant,label,0.005555868148803711
+,,,window shade,6.1992188
+,,,"flagpole, flagstaff",5.5820312
+,,,espresso maker,5.484375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.9492188
+,,,ski,4.90625
+mobilenet_v1_0.5_224_quant,label,0.004864215850830078
+,,,window shade,5.7929688
+,,,"flagpole, flagstaff",5.09375
+,,,espresso maker,4.8984375
+,,,vending machine,4.515625
+,,,"lawn mower, mower",4.4609375
+mobilenet_v1_0.5_224_quant,label,0.005262613296508789
+,,,window shade,6.578125
+,,,"flagpole, flagstaff",5.828125
+,,,espresso maker,5.5
+,,,"jeep, landrover",5.34375
+,,,vending machine,5.2421875
+mobilenet_v1_0.5_224_quant,label,0.0053637027740478516
+,,,window shade,5.8007812
+,,,"flagpole, flagstaff",5.1054688
+,,,vending machine,4.96875
+,,,espresso maker,4.8320312
+,,,"ballpoint, ballpoint pen, ballpen, Biro",4.5898438
+mobilenet_v1_0.5_224_quant,label,0.0053195953369140625
+,,,window shade,6.4921875
+,,,"flagpole, flagstaff",5.6367188
+,,,espresso maker,5.1953125
+,,,"jeep, landrover",5.0078125
+,,,vending machine,4.640625
+mobilenet_v1_0.5_224,label,0.005852222442626953
+,,,spatula,5.4648438
+,,,"sea anemone, anemone",4.75
+,,,window shade,4.421875
+,,,conch,4.2109375
+,,,stingray,4.1875
+mobilenet_v1_0.5_224,label,0.0050351619720458984
+,,,spatula,5.9023438
+,,,window shade,5.265625
+,,,vending machine,5.0585938
+,,,"flagpole, flagstaff",4.7421875
+,,,"mailbox, letter box",4.4023438
+mobilenet_v1_0.5_224,label,0.005053281784057617
+,,,spatula,6.7382812
+,,,window shade,4.796875
+,,,mitten,4.625
+,,,conch,4.546875
+,,,"sea anemone, anemone",4.4453125
+mobilenet_v1_0.5_224,label,0.0049669742584228516
+,,,spatula,5.6601562
+,,,window shade,4.6367188
+,,,stingray,4.5429688
+,,,vending machine,4.3476562
+,,,"flagpole, flagstaff",4.1445312
+mobilenet_v1_0.5_224,label,0.004557132720947266
+,,,spatula,6.5859375
+,,,window shade,5.6875
+,,,"flagpole, flagstaff",5.421875
+,,,maypole,4.6054688
+,,,"sea anemone, anemone",4.4882812
+mobilenet_v1_0.5_224,label,0.004785776138305664
+,,,spatula,6.0
+,,,window shade,4.3632812
+,,,mitten,4.171875
+,,,"flagpole, flagstaff",3.828125
+,,,maypole,3.7109375
+mobilenet_v1_0.5_224,label,0.005098104476928711
+,,,spatula,5.6054688
+,,,window shade,5.4921875
+,,,"flagpole, flagstaff",5.2734375
+,,,"sea anemone, anemone",4.4296875
+,,,vending machine,4.1171875
+mobilenet_v1_0.5_224,label,0.004926919937133789
+,,,spatula,6.1445312
+,,,window shade,4.9023438
+,,,"flagpole, flagstaff",4.578125
+,,,"mailbox, letter box",4.2734375
+,,,vending machine,4.21875
+mobilenet_v1_0.5_224,label,0.004965782165527344
+,,,spatula,5.1289062
+,,,window shade,4.53125
+,,,"mailbox, letter box",4.4921875
+,,,vending machine,4.40625
+,,,"sea anemone, anemone",4.2421875
+mobilenet_v1_0.5_224,label,0.004984617233276367
+,,,spatula,6.1523438
+,,,window shade,5.1289062
+,,,"flagpole, flagstaff",4.3710938
+,,,"sea anemone, anemone",4.2773438
+,,,stingray,4.125
+mobilenet_v1_0.5_224,label,0.004713296890258789
+,,,spatula,5.8632812
+,,,window shade,4.984375
+,,,"flagpole, flagstaff",4.6914062
+,,,vending machine,4.0625
+,,,"sea anemone, anemone",4.0585938
+mobilenet_v1_0.5_224,label,0.004736900329589844
+,,,spatula,6.4179688
+,,,window shade,5.25
+,,,"flagpole, flagstaff",5.1953125
+,,,maypole,4.4570312
+,,,vending machine,4.3203125
+mobilenet_v1_0.5_224,label,0.004677772521972656
+,,,spatula,6.9492188
+,,,window shade,5.2460938
+,,,"flagpole, flagstaff",4.890625
+,,,mitten,4.8203125
+,,,"sea anemone, anemone",4.6992188
+mobilenet_v1_0.5_224,label,0.004539012908935547
+,,,spatula,5.6523438
+,,,window shade,5.421875
+,,,"flagpole, flagstaff",5.0195312
+,,,conch,4.4921875
+,,,"sea anemone, anemone",4.3203125
+mobilenet_v1_0.5_224,label,0.0047571659088134766
+,,,spatula,5.7617188
+,,,window shade,5.3710938
+,,,"flagpole, flagstaff",4.640625
+,,,"sea anemone, anemone",4.5859375
+,,,"mailbox, letter box",4.109375
+mobilenet_v1_0.5_224,label,0.0047719478607177734
+,,,spatula,5.7070312
+,,,window shade,5.3164062
+,,,"flagpole, flagstaff",4.59375
+,,,"sea anemone, anemone",4.3515625
+,,,stingray,4.03125
+mobilenet_v1_0.5_224,label,0.004664182662963867
+,,,spatula,5.890625
+,,,window shade,5.1171875
+,,,"flagpole, flagstaff",4.9023438
+,,,vending machine,4.1367188
+,,,mitten,4.0664062
+mobilenet_v1_0.5_224,label,0.004700422286987305
+,,,spatula,5.7695312
+,,,window shade,4.9726562
+,,,"flagpole, flagstaff",4.6953125
+,,,conch,4.3398438
+,,,stingray,4.0820312
+mobilenet_v1_0.5_224,label,0.005669593811035156
+,,,spatula,5.7382812
+,,,window shade,5.3085938
+,,,stingray,4.6132812
+,,,"flagpole, flagstaff",4.4921875
+,,,"sea anemone, anemone",4.4179688
+mobilenet_v1_0.5_224,label,0.004838705062866211
+,,,spatula,5.6992188
+,,,window shade,4.9375
+,,,"flagpole, flagstaff",4.6679688
+,,,"electric ray, crampfish, numbfish, torpedo",4.2617188
+,,,"sea anemone, anemone",4.1914062
+mobilenet_v1_0.5_192_quant,label,0.008036613464355469
+,,,window shade,9.1953125
+,,,espresso maker,7.3710938
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.9921875
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.8984375
+,,,"jinrikisha, ricksha, rickshaw",6.5429688
+mobilenet_v1_0.5_192_quant,label,0.01029515266418457
+,,,window shade,9.703125
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.6992188
+,,,"hook, claw",7.3203125
+,,,espresso maker,7.0351562
+,,,screwdriver,6.9609375
+mobilenet_v1_0.5_192_quant,label,0.006434917449951172
+,,,window shade,8.671875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.40625
+,,,espresso maker,8.0703125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.9453125
+,,,ping-pong ball,7.0976562
+mobilenet_v1_0.5_192_quant,label,0.006388187408447266
+,,,window shade,9.0
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.2109375
+,,,"drilling platform, offshore rig",8.0
+,,,"jinrikisha, ricksha, rickshaw",7.953125
+,,,espresso maker,7.9296875
+mobilenet_v1_0.5_192_quant,label,0.006467580795288086
+,,,espresso maker,7.7578125
+,,,window shade,7.6757812
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.4140625
+,,,"chain saw, chainsaw",7.0390625
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.8398438
+mobilenet_v1_0.5_192_quant,label,0.007816553115844727
+,,,window shade,8.203125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.4375
+,,,espresso maker,7.3867188
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.7617188
+,,,"chain saw, chainsaw",6.4140625
+mobilenet_v1_0.5_192_quant,label,0.005789518356323242
+,,,window shade,8.7578125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.0078125
+,,,espresso maker,7.7460938
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.078125
+,,,"drilling platform, offshore rig",7.0
+mobilenet_v1_0.5_192_quant,label,0.005960941314697266
+,,,window shade,8.5234375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.8515625
+,,,espresso maker,7.5625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.0234375
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.9101562
+mobilenet_v1_0.5_192_quant,label,0.0062754154205322266
+,,,window shade,8.7578125
+,,,espresso maker,7.4570312
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.2539062
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.0585938
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.9296875
+mobilenet_v1_0.5_192_quant,label,0.00585627555847168
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.4765625
+,,,espresso maker,8.46875
+,,,window shade,8.296875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.2265625
+,,,ping-pong ball,7.1640625
+mobilenet_v1_0.5_192_quant,label,0.006330728530883789
+,,,window shade,8.84375
+,,,espresso maker,7.6757812
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.2734375
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.25
+,,,"hook, claw",7.171875
+mobilenet_v1_0.5_192_quant,label,0.006844282150268555
+,,,window shade,8.875
+,,,espresso maker,7.9804688
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.5273438
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.2109375
+,,,"jinrikisha, ricksha, rickshaw",7.0859375
+mobilenet_v1_0.5_192_quant,label,0.006403446197509766
+,,,window shade,9.1796875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.0546875
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.703125
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.671875
+,,,espresso maker,7.5898438
+mobilenet_v1_0.5_192_quant,label,0.005698204040527344
+,,,window shade,8.390625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.4765625
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.2851562
+,,,espresso maker,7.0546875
+,,,"flatworm, platyhelminth",6.609375
+mobilenet_v1_0.5_192_quant,label,0.005700349807739258
+,,,window shade,9.015625
+,,,espresso maker,7.21875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.1796875
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.9960938
+,,,"saltshaker, salt shaker",6.7304688
+mobilenet_v1_0.5_192_quant,label,0.005500316619873047
+,,,window shade,9.0078125
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.0664062
+,,,espresso maker,6.6523438
+,,,"flagpole, flagstaff",6.3789062
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.28125
+mobilenet_v1_0.5_192_quant,label,0.006058931350708008
+,,,espresso maker,8.625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.59375
+,,,window shade,8.2734375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",7.6328125
+,,,"jinrikisha, ricksha, rickshaw",7.3398438
+mobilenet_v1_0.5_192_quant,label,0.006489992141723633
+,,,window shade,9.2265625
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.7109375
+,,,espresso maker,7.1679688
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.0039062
+,,,chainlink fence,6.9960938
+mobilenet_v1_0.5_192_quant,label,0.005797386169433594
+,,,window shade,9.3515625
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.40625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.3359375
+,,,espresso maker,7.2773438
+,,,"drilling platform, offshore rig",6.9335938
+mobilenet_v1_0.5_192_quant,label,0.0064771175384521484
+,,,window shade,9.3515625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.390625
+,,,espresso maker,7.8945312
+,,,"streetcar, tram, tramcar, trolley, trolley car",7.3476562
+,,,"jinrikisha, ricksha, rickshaw",7.28125
+mobilenet_v1_0.5_192,label,0.007501363754272461
+,,,window shade,8.5859375
+,,,"chain saw, chainsaw",6.3710938
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.0820312
+,,,espresso maker,6.0234375
+,,,"flatworm, platyhelminth",5.8671875
+mobilenet_v1_0.5_192,label,0.006848335266113281
+,,,window shade,7.890625
+,,,"chain saw, chainsaw",7.2148438
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.1875
+,,,espresso maker,6.1289062
+,,,printer,5.9882812
+mobilenet_v1_0.5_192,label,0.006421089172363281
+,,,window shade,9.125
+,,,"chain saw, chainsaw",6.8945312
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.8945312
+,,,"microwave, microwave oven",5.8671875
+,,,"hook, claw",5.8632812
+mobilenet_v1_0.5_192,label,0.006459474563598633
+,,,window shade,8.0078125
+,,,"chain saw, chainsaw",7.234375
+,,,"flatworm, platyhelminth",6.859375
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.3828125
+,,,"sea cucumber, holothurian",5.984375
+mobilenet_v1_0.5_192,label,0.0057201385498046875
+,,,window shade,8.4296875
+,,,"chain saw, chainsaw",7.5742188
+,,,espresso maker,6.4882812
+,,,printer,6.375
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.3515625
+mobilenet_v1_0.5_192,label,0.006278276443481445
+,,,window shade,8.90625
+,,,"chain saw, chainsaw",7.5742188
+,,,"flatworm, platyhelminth",6.640625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.4921875
+,,,space shuttle,6.2304688
+mobilenet_v1_0.5_192,label,0.006224632263183594
+,,,window shade,7.421875
+,,,"chain saw, chainsaw",7.203125
+,,,espresso maker,6.546875
+,,,"flatworm, platyhelminth",6.3046875
+,,,"microwave, microwave oven",6.1679688
+mobilenet_v1_0.5_192,label,0.006618499755859375
+,,,window shade,8.2109375
+,,,"chain saw, chainsaw",6.7226562
+,,,espresso maker,6.2265625
+,,,"hook, claw",6.1875
+,,,printer,6.0273438
+mobilenet_v1_0.5_192,label,0.006499528884887695
+,,,window shade,7.8945312
+,,,"chain saw, chainsaw",6.7617188
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.4648438
+,,,printer,6.140625
+,,,"microwave, microwave oven",5.6796875
+mobilenet_v1_0.5_192,label,0.006539106369018555
+,,,window shade,9.015625
+,,,"chain saw, chainsaw",7.2617188
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.8320312
+,,,printer,6.2265625
+,,,espresso maker,5.8945312
+mobilenet_v1_0.5_192,label,0.006249189376831055
+,,,window shade,8.453125
+,,,"chain saw, chainsaw",6.8828125
+,,,printer,6.0859375
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.0195312
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.8828125
+mobilenet_v1_0.5_192,label,0.006516456604003906
+,,,window shade,8.265625
+,,,"chain saw, chainsaw",8.1328125
+,,,printer,6.3828125
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.3242188
+,,,espresso maker,6.1132812
+mobilenet_v1_0.5_192,label,0.006262302398681641
+,,,window shade,9.0859375
+,,,"chain saw, chainsaw",7.0546875
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.9375
+,,,tarantula,5.9609375
+,,,"microwave, microwave oven",5.9492188
+mobilenet_v1_0.5_192,label,0.006673336029052734
+,,,window shade,8.0625
+,,,"chain saw, chainsaw",7.2382812
+,,,printer,6.3085938
+,,,espresso maker,6.1757812
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.0976562
+mobilenet_v1_0.5_192,label,0.006182432174682617
+,,,window shade,7.9882812
+,,,"chain saw, chainsaw",7.2617188
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.4375
+,,,espresso maker,5.6289062
+,,,"microwave, microwave oven",5.6171875
+mobilenet_v1_0.5_192,label,0.0065441131591796875
+,,,window shade,8.2578125
+,,,"chain saw, chainsaw",7.9804688
+,,,espresso maker,6.7617188
+,,,"flatworm, platyhelminth",6.640625
+,,,"microwave, microwave oven",6.5546875
+mobilenet_v1_0.5_192,label,0.006705522537231445
+,,,window shade,8.265625
+,,,"chain saw, chainsaw",7.2304688
+,,,espresso maker,6.28125
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.2460938
+,,,printer,5.96875
+mobilenet_v1_0.5_192,label,0.00662994384765625
+,,,window shade,9.40625
+,,,"chain saw, chainsaw",7.7773438
+,,,espresso maker,6.7617188
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.7265625
+,,,"flatworm, platyhelminth",6.3671875
+mobilenet_v1_0.5_192,label,0.006453275680541992
+,,,window shade,8.609375
+,,,"chain saw, chainsaw",7.4023438
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.8007812
+,,,espresso maker,6.3320312
+,,,"microwave, microwave oven",6.2226562
+mobilenet_v1_0.5_192,label,0.006414890289306641
+,,,window shade,8.1953125
+,,,"chain saw, chainsaw",7.2304688
+,,,"streetcar, tram, tramcar, trolley, trolley car",6.4609375
+,,,"microwave, microwave oven",6.2578125
+,,,espresso maker,6.0429688
+mobilenet_v1_0.5_160_quant,label,0.005799293518066406
+,,,ping-pong ball,7.4257812
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.3828125
+,,,ski,7.1796875
+,,,espresso maker,7.0585938
+,,,pencil sharpener,6.484375
+mobilenet_v1_0.5_160_quant,label,0.005739927291870117
+,,,espresso maker,6.8867188
+,,,ski,6.6796875
+,,,toaster,6.2773438
+,,,pencil sharpener,6.2617188
+,,,"flagpole, flagstaff",6.1875
+mobilenet_v1_0.5_160_quant,label,0.00574040412902832
+,,,ski,6.6328125
+,,,espresso maker,6.4023438
+,,,ping-pong ball,5.9648438
+,,,toaster,5.9296875
+,,,"flagpole, flagstaff",5.828125
+mobilenet_v1_0.5_160_quant,label,0.005236625671386719
+,,,espresso maker,6.1132812
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.8789062
+,,,ski,5.8671875
+,,,"flagpole, flagstaff",5.71875
+,,,ping-pong ball,5.6367188
+mobilenet_v1_0.5_160_quant,label,0.00578761100769043
+,,,espresso maker,7.3945312
+,,,ping-pong ball,7.2265625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.171875
+,,,ski,6.9375
+,,,pencil sharpener,6.890625
+mobilenet_v1_0.5_160_quant,label,0.0057735443115234375
+,,,ski,7.0820312
+,,,"flagpole, flagstaff",6.6328125
+,,,espresso maker,6.59375
+,,,ping-pong ball,6.4335938
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.2226562
+mobilenet_v1_0.5_160_quant,label,0.0054972171783447266
+,,,espresso maker,7.0976562
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.8789062
+,,,ping-pong ball,6.5585938
+,,,ski,6.4023438
+,,,"hook, claw",6.2890625
+mobilenet_v1_0.5_160_quant,label,0.0050618648529052734
+,,,ski,6.3203125
+,,,"flagpole, flagstaff",5.9179688
+,,,espresso maker,5.9023438
+,,,ping-pong ball,5.6679688
+,,,window shade,5.6523438
+mobilenet_v1_0.5_160_quant,label,0.005090236663818359
+,,,ski,6.9140625
+,,,espresso maker,6.2070312
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.0351562
+,,,"flagpole, flagstaff",5.9609375
+,,,toaster,5.6992188
+mobilenet_v1_0.5_160_quant,label,0.0054628849029541016
+,,,espresso maker,6.6992188
+,,,ski,6.3398438
+,,,ping-pong ball,6.2617188
+,,,"bicycle-built-for-two, tandem bicycle, tandem",5.984375
+,,,"flagpole, flagstaff",5.8984375
+mobilenet_v1_0.5_160_quant,label,0.005765676498413086
+,,,espresso maker,6.390625
+,,,ski,6.3359375
+,,,ping-pong ball,6.0273438
+,,,plate,5.6367188
+,,,toaster,5.5820312
+mobilenet_v1_0.5_160_quant,label,0.005440950393676758
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.84375
+,,,ski,6.828125
+,,,espresso maker,6.7382812
+,,,ping-pong ball,6.4257812
+,,,"flagpole, flagstaff",6.2265625
+mobilenet_v1_0.5_160_quant,label,0.004740238189697266
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.3320312
+,,,espresso maker,7.1171875
+,,,ski,6.9804688
+,,,ping-pong ball,6.8242188
+,,,pencil sharpener,6.1289062
+mobilenet_v1_0.5_160_quant,label,0.0050618648529052734
+,,,ski,6.9492188
+,,,espresso maker,6.703125
+,,,ping-pong ball,6.6679688
+,,,plate,6.5898438
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.4570312
+mobilenet_v1_0.5_160_quant,label,0.0063266754150390625
+,,,espresso maker,6.9882812
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.671875
+,,,ski,6.59375
+,,,ping-pong ball,6.3632812
+,,,plate,6.0039062
+mobilenet_v1_0.5_160_quant,label,0.004840373992919922
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.0117188
+,,,espresso maker,6.7773438
+,,,ping-pong ball,6.1835938
+,,,ski,6.1445312
+,,,"hook, claw",6.1445312
+mobilenet_v1_0.5_160_quant,label,0.006253719329833984
+,,,ski,6.4179688
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.34375
+,,,espresso maker,6.3007812
+,,,ping-pong ball,6.2617188
+,,,pencil sharpener,5.6328125
+mobilenet_v1_0.5_160_quant,label,0.004862070083618164
+,,,espresso maker,7.1601562
+,,,ski,7.0625
+,,,ping-pong ball,6.9570312
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.8359375
+,,,pencil sharpener,6.7382812
+mobilenet_v1_0.5_160_quant,label,0.0055048465728759766
+,,,espresso maker,7.125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.0507812
+,,,ski,6.6796875
+,,,ping-pong ball,6.53125
+,,,"hook, claw",6.171875
+mobilenet_v1_0.5_160_quant,label,0.004871368408203125
+,,,ski,7.03125
+,,,ping-pong ball,6.9335938
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.9257812
+,,,espresso maker,6.8242188
+,,,"hook, claw",6.4882812
+mobilenet_v1_0.5_160,label,0.007974863052368164
+,,,space shuttle,7.140625
+,,,"laptop, laptop computer",7.1289062
+,,,espresso maker,6.7890625
+,,,toaster,6.7773438
+,,,"hook, claw",6.7148438
+mobilenet_v1_0.5_160,label,0.005494117736816406
+,,,espresso maker,6.7109375
+,,,"hook, claw",6.6679688
+,,,"laptop, laptop computer",6.5078125
+,,,"dishwasher, dish washer, dishwashing machine",6.421875
+,,,toaster,6.046875
+mobilenet_v1_0.5_160,label,0.005594015121459961
+,,,space shuttle,6.796875
+,,,"hook, claw",6.7890625
+,,,"laptop, laptop computer",6.7773438
+,,,espresso maker,6.5585938
+,,,ski,6.3046875
+mobilenet_v1_0.5_160,label,0.005205631256103516
+,,,espresso maker,7.3046875
+,,,space shuttle,6.9765625
+,,,"dishwasher, dish washer, dishwashing machine",6.8085938
+,,,"hook, claw",6.65625
+,,,"laptop, laptop computer",6.6523438
+mobilenet_v1_0.5_160,label,0.005274057388305664
+,,,"dishwasher, dish washer, dishwashing machine",8.0390625
+,,,"laptop, laptop computer",7.9609375
+,,,"hook, claw",7.703125
+,,,espresso maker,7.0898438
+,,,"grasshopper, hopper",7.0039062
+mobilenet_v1_0.5_160,label,0.005899906158447266
+,,,"laptop, laptop computer",7.1015625
+,,,espresso maker,6.9296875
+,,,"hook, claw",6.5
+,,,syringe,6.4960938
+,,,"grasshopper, hopper",6.4921875
+mobilenet_v1_0.5_160,label,0.0060002803802490234
+,,,"laptop, laptop computer",7.2265625
+,,,"hook, claw",7.1054688
+,,,espresso maker,7.0234375
+,,,space shuttle,6.7578125
+,,,"grasshopper, hopper",6.734375
+mobilenet_v1_0.5_160,label,0.007670164108276367
+,,,"dishwasher, dish washer, dishwashing machine",7.953125
+,,,"laptop, laptop computer",7.3554688
+,,,espresso maker,7.0390625
+,,,ping-pong ball,6.9765625
+,,,"hook, claw",6.9375
+mobilenet_v1_0.5_160,label,0.00573420524597168
+,,,"laptop, laptop computer",7.5390625
+,,,space shuttle,7.296875
+,,,espresso maker,6.8867188
+,,,"hook, claw",6.8515625
+,,,"grasshopper, hopper",6.8007812
+mobilenet_v1_0.5_160,label,0.0054473876953125
+,,,"laptop, laptop computer",7.5
+,,,"dishwasher, dish washer, dishwashing machine",7.2851562
+,,,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",6.7617188
+,,,"grasshopper, hopper",6.7304688
+,,,espresso maker,6.59375
+mobilenet_v1_0.5_160,label,0.0065801143646240234
+,,,"laptop, laptop computer",7.4492188
+,,,"dishwasher, dish washer, dishwashing machine",7.0390625
+,,,space shuttle,6.890625
+,,,espresso maker,6.8359375
+,,,"hook, claw",6.78125
+mobilenet_v1_0.5_160,label,0.0055353641510009766
+,,,"hook, claw",6.7265625
+,,,"grasshopper, hopper",6.5859375
+,,,espresso maker,6.421875
+,,,"laptop, laptop computer",6.421875
+,,,"hoopskirt, crinoline",6.2109375
+mobilenet_v1_0.5_160,label,0.005780935287475586
+,,,"laptop, laptop computer",7.5820312
+,,,"dishwasher, dish washer, dishwashing machine",7.34375
+,,,espresso maker,7.171875
+,,,"hook, claw",6.9453125
+,,,space shuttle,6.8203125
+mobilenet_v1_0.5_160,label,0.005124807357788086
+,,,"laptop, laptop computer",7.8125
+,,,"hook, claw",7.0703125
+,,,space shuttle,7.015625
+,,,"grasshopper, hopper",6.953125
+,,,espresso maker,6.9023438
+mobilenet_v1_0.5_160,label,0.005469560623168945
+,,,"hook, claw",6.859375
+,,,espresso maker,6.46875
+,,,"laptop, laptop computer",6.3984375
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",6.3242188
+,,,space shuttle,6.140625
+mobilenet_v1_0.5_160,label,0.0053026676177978516
+,,,"grasshopper, hopper",7.6445312
+,,,"laptop, laptop computer",7.6171875
+,,,espresso maker,7.2578125
+,,,"hook, claw",7.1914062
+,,,"dishwasher, dish washer, dishwashing machine",6.8828125
+mobilenet_v1_0.5_160,label,0.006138801574707031
+,,,"laptop, laptop computer",7.6640625
+,,,space shuttle,7.59375
+,,,espresso maker,7.5585938
+,,,"dishwasher, dish washer, dishwashing machine",7.2734375
+,,,"hook, claw",7.0273438
+mobilenet_v1_0.5_160,label,0.005711793899536133
+,,,"dishwasher, dish washer, dishwashing machine",7.3984375
+,,,"laptop, laptop computer",7.2421875
+,,,"hook, claw",6.9375
+,,,space shuttle,6.8203125
+,,,espresso maker,6.6289062
+mobilenet_v1_0.5_160,label,0.005574703216552734
+,,,"hook, claw",6.8828125
+,,,"laptop, laptop computer",6.7539062
+,,,espresso maker,6.6953125
+,,,space shuttle,6.6796875
+,,,"grasshopper, hopper",6.6523438
+mobilenet_v1_0.5_160,label,0.00603175163269043
+,,,espresso maker,6.9960938
+,,,"laptop, laptop computer",6.796875
+,,,"grasshopper, hopper",6.4414062
+,,,"hook, claw",6.4179688
+,,,space shuttle,6.2734375
+mobilenet_v1_0.5_128_quant,label,0.011387109756469727
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.4765625
+,,,"dishwasher, dish washer, dishwashing machine",8.421875
+,,,"flatworm, platyhelminth",7.734375
+,,,ping-pong ball,6.2421875
+,,,geyser,6.2109375
+mobilenet_v1_0.5_128_quant,label,0.005559206008911133
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.125
+,,,"dishwasher, dish washer, dishwashing machine",7.7695312
+,,,"flatworm, platyhelminth",6.28125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.1679688
+,,,espresso maker,6.09375
+mobilenet_v1_0.5_128_quant,label,0.005324125289916992
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.03125
+,,,"dishwasher, dish washer, dishwashing machine",6.8398438
+,,,"jinrikisha, ricksha, rickshaw",5.984375
+,,,conch,5.734375
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.7265625
+mobilenet_v1_0.5_128_quant,label,0.0056073665618896484
+,,,"flatworm, platyhelminth",7.578125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.5234375
+,,,"dishwasher, dish washer, dishwashing machine",7.1796875
+,,,conch,5.8007812
+,,,espresso maker,5.7929688
+mobilenet_v1_0.5_128_quant,label,0.005547285079956055
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.5390625
+,,,"dishwasher, dish washer, dishwashing machine",7.6484375
+,,,ping-pong ball,6.3789062
+,,,espresso maker,6.3125
+,,,"jinrikisha, ricksha, rickshaw",5.9257812
+mobilenet_v1_0.5_128_quant,label,0.005220651626586914
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.578125
+,,,"dishwasher, dish washer, dishwashing machine",7.265625
+,,,espresso maker,7.0234375
+,,,"hard disc, hard disk, fixed disk",6.640625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.5625
+mobilenet_v1_0.5_128_quant,label,0.005635261535644531
+,,,"bicycle-built-for-two, tandem bicycle, tandem",9.4453125
+,,,"dishwasher, dish washer, dishwashing machine",8.8203125
+,,,"flatworm, platyhelminth",7.0703125
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.96875
+,,,ping-pong ball,6.796875
+mobilenet_v1_0.5_128_quant,label,0.005650997161865234
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.1914062
+,,,"flatworm, platyhelminth",6.5078125
+,,,espresso maker,6.3359375
+,,,"dishwasher, dish washer, dishwashing machine",6.1953125
+,,,ski,5.5585938
+mobilenet_v1_0.5_128_quant,label,0.005455732345581055
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.859375
+,,,"dishwasher, dish washer, dishwashing machine",7.6445312
+,,,"flatworm, platyhelminth",7.125
+,,,espresso maker,6.7734375
+,,,ping-pong ball,6.6757812
+mobilenet_v1_0.5_128_quant,label,0.005495548248291016
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.5859375
+,,,"dishwasher, dish washer, dishwashing machine",7.1445312
+,,,"flatworm, platyhelminth",6.2265625
+,,,"jinrikisha, ricksha, rickshaw",5.90625
+,,,espresso maker,5.8554688
+mobilenet_v1_0.5_128_quant,label,0.005534172058105469
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.3984375
+,,,"dishwasher, dish washer, dishwashing machine",6.6132812
+,,,"jinrikisha, ricksha, rickshaw",6.2109375
+,,,espresso maker,5.9921875
+,,,ski,5.7226562
+mobilenet_v1_0.5_128_quant,label,0.0062389373779296875
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.625
+,,,"flatworm, platyhelminth",7.4453125
+,,,"dishwasher, dish washer, dishwashing machine",6.7460938
+,,,espresso maker,6.0429688
+,,,conch,5.9101562
+mobilenet_v1_0.5_128_quant,label,0.005754232406616211
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.5078125
+,,,"flatworm, platyhelminth",6.0507812
+,,,"dishwasher, dish washer, dishwashing machine",6.0039062
+,,,espresso maker,5.3828125
+,,,conch,5.3789062
+mobilenet_v1_0.5_128_quant,label,0.005745649337768555
+,,,"bicycle-built-for-two, tandem bicycle, tandem",8.84375
+,,,"dishwasher, dish washer, dishwashing machine",7.7890625
+,,,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",6.4453125
+,,,"flatworm, platyhelminth",6.359375
+,,,conch,6.046875
+mobilenet_v1_0.5_128_quant,label,0.0053043365478515625
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.8867188
+,,,"flatworm, platyhelminth",7.4765625
+,,,"dishwasher, dish washer, dishwashing machine",6.4960938
+,,,"jinrikisha, ricksha, rickshaw",6.2695312
+,,,espresso maker,5.9492188
+mobilenet_v1_0.5_128_quant,label,0.0051441192626953125
+,,,"bicycle-built-for-two, tandem bicycle, tandem",6.6132812
+,,,"dishwasher, dish washer, dishwashing machine",5.6210938
+,,,window shade,5.5976562
+,,,conch,5.5351562
+,,,chainlink fence,5.4414062
+mobilenet_v1_0.5_128_quant,label,0.005512714385986328
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.1992188
+,,,"dishwasher, dish washer, dishwashing machine",6.7109375
+,,,"flatworm, platyhelminth",5.8515625
+,,,conch,5.75
+,,,espresso maker,5.5703125
+mobilenet_v1_0.5_128_quant,label,0.006182670593261719
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.53125
+,,,"dishwasher, dish washer, dishwashing machine",6.4140625
+,,,"jinrikisha, ricksha, rickshaw",5.9726562
+,,,"flatworm, platyhelminth",5.796875
+,,,conch,5.7539062
+mobilenet_v1_0.5_128_quant,label,0.005067586898803711
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.8984375
+,,,"dishwasher, dish washer, dishwashing machine",7.1523438
+,,,"flatworm, platyhelminth",6.5234375
+,,,espresso maker,6.03125
+,,,"chain saw, chainsaw",5.9882812
+mobilenet_v1_0.5_128_quant,label,0.006159543991088867
+,,,"bicycle-built-for-two, tandem bicycle, tandem",7.46875
+,,,"dishwasher, dish washer, dishwashing machine",7.2890625
+,,,"jinrikisha, ricksha, rickshaw",5.8007812
+,,,window shade,5.7851562
+,,,"flatworm, platyhelminth",5.7851562
+mobilenet_v1_1.0_224_quant,label,0.010628223419189453
+,,,maypole,7.2148438
+,,,"unicycle, monocycle",6.7734375
+,,,espresso maker,6.71875
+,,,space shuttle,6.7148438
+,,,"wallet, billfold, notecase, pocketbook",6.7109375
+mobilenet_v1_1.0_224_quant,label,0.007403850555419922
+,,,maypole,7.2695312
+,,,stage,7.0273438
+,,,espresso maker,6.9921875
+,,,"unicycle, monocycle",6.9570312
+,,,space shuttle,6.8085938
+mobilenet_v1_1.0_224_quant,label,0.007286548614501953
+,,,"unicycle, monocycle",6.6796875
+,,,espresso maker,6.6640625
+,,,maypole,6.4804688
+,,,"flagpole, flagstaff",6.3359375
+,,,"cliff, drop, drop-off",6.3359375
+mobilenet_v1_1.0_224_quant,label,0.006879568099975586
+,,,maypole,7.1757812
+,,,space shuttle,6.8632812
+,,,"unicycle, monocycle",6.8515625
+,,,stage,6.8398438
+,,,"wallet, billfold, notecase, pocketbook",6.7109375
+mobilenet_v1_1.0_224_quant,label,0.007346630096435547
+,,,"flagpole, flagstaff",6.7617188
+,,,espresso maker,6.703125
+,,,maypole,6.6601562
+,,,"unicycle, monocycle",6.640625
+,,,space shuttle,6.5703125
+mobilenet_v1_1.0_224_quant,label,0.006651639938354492
+,,,maypole,7.421875
+,,,stage,6.7539062
+,,,space shuttle,6.5898438
+,,,"unicycle, monocycle",6.3359375
+,,,espresso maker,6.2890625
+mobilenet_v1_1.0_224_quant,label,0.008723974227905273
+,,,maypole,7.1289062
+,,,espresso maker,6.9023438
+,,,stage,6.9023438
+,,,"cliff, drop, drop-off",6.6132812
+,,,"wallet, billfold, notecase, pocketbook",6.5859375
+mobilenet_v1_1.0_224_quant,label,0.007650136947631836
+,,,stage,6.6601562
+,,,maypole,6.5898438
+,,,"unicycle, monocycle",6.5859375
+,,,"wallet, billfold, notecase, pocketbook",6.40625
+,,,space shuttle,6.1171875
+mobilenet_v1_1.0_224_quant,label,0.008653879165649414
+,,,maypole,6.8789062
+,,,stage,6.8632812
+,,,"flagpole, flagstaff",6.84375
+,,,space shuttle,6.8203125
+,,,espresso maker,6.6953125
+mobilenet_v1_1.0_224_quant,label,0.00728607177734375
+,,,maypole,7.0585938
+,,,stage,7.0351562
+,,,space shuttle,6.9179688
+,,,"unicycle, monocycle",6.7304688
+,,,"wallet, billfold, notecase, pocketbook",6.484375
+mobilenet_v1_1.0_224_quant,label,0.007044076919555664
+,,,"unicycle, monocycle",7.0273438
+,,,stage,6.7460938
+,,,"cliff, drop, drop-off",6.7070312
+,,,screw,6.6601562
+,,,"wallet, billfold, notecase, pocketbook",6.578125
+mobilenet_v1_1.0_224_quant,label,0.006634712219238281
+,,,espresso maker,7.1953125
+,,,stage,6.9257812
+,,,maypole,6.7460938
+,,,"flagpole, flagstaff",6.703125
+,,,window shade,6.6992188
+mobilenet_v1_1.0_224_quant,label,0.00676727294921875
+,,,stage,7.5351562
+,,,maypole,7.1757812
+,,,"cliff, drop, drop-off",6.7148438
+,,,"unicycle, monocycle",6.6445312
+,,,"wallet, billfold, notecase, pocketbook",6.53125
+mobilenet_v1_1.0_224_quant,label,0.00708460807800293
+,,,stage,6.8398438
+,,,"unicycle, monocycle",6.6640625
+,,,"flagpole, flagstaff",6.515625
+,,,window shade,6.4609375
+,,,space shuttle,6.4414062
+mobilenet_v1_1.0_224_quant,label,0.006933450698852539
+,,,stage,6.8085938
+,,,maypole,6.5976562
+,,,"unicycle, monocycle",6.5195312
+,,,"wallet, billfold, notecase, pocketbook",6.4570312
+,,,espresso maker,6.3359375
+mobilenet_v1_1.0_224_quant,label,0.007992267608642578
+,,,stage,6.9101562
+,,,maypole,6.8046875
+,,,"mantis, mantid",6.5976562
+,,,"unicycle, monocycle",6.5546875
+,,,"wallet, billfold, notecase, pocketbook",6.53125
+mobilenet_v1_1.0_224_quant,label,0.008854866027832031
+,,,maypole,6.8867188
+,,,"unicycle, monocycle",6.859375
+,,,stage,6.8398438
+,,,espresso maker,6.4570312
+,,,"laptop, laptop computer",6.4453125
+mobilenet_v1_1.0_224_quant,label,0.006659507751464844
+,,,maypole,7.140625
+,,,"unicycle, monocycle",6.984375
+,,,space shuttle,6.859375
+,,,"cliff, drop, drop-off",6.7617188
+,,,espresso maker,6.6953125
+mobilenet_v1_1.0_224_quant,label,0.00653386116027832
+,,,space shuttle,7.1132812
+,,,maypole,6.9570312
+,,,stage,6.7460938
+,,,"cliff, drop, drop-off",6.6796875
+,,,"unicycle, monocycle",6.6640625
+mobilenet_v1_1.0_224_quant,label,0.006638050079345703
+,,,maypole,7.2382812
+,,,stage,7.0976562
+,,,espresso maker,7.0429688
+,,,"unicycle, monocycle",6.921875
+,,,"cliff, drop, drop-off",6.6132812
+mobilenet_v1_1.0_224,label,0.01951146125793457
+,,,"flagpole, flagstaff",9.4765625
+,,,"laptop, laptop computer",8.21875
+,,,"pop bottle, soda bottle",7.8867188
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.4492188
+,,,nipple,7.3554688
+mobilenet_v1_1.0_224,label,0.007911205291748047
+,,,"flagpole, flagstaff",9.5703125
+,,,space shuttle,7.84375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.7773438
+,,,"pop bottle, soda bottle",7.5546875
+,,,"laptop, laptop computer",7.4609375
+mobilenet_v1_1.0_224,label,0.006199359893798828
+,,,"flagpole, flagstaff",10.40625
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.3984375
+,,,space shuttle,8.390625
+,,,"laptop, laptop computer",8.3203125
+,,,"pop bottle, soda bottle",7.8945312
+mobilenet_v1_1.0_224,label,0.005942106246948242
+,,,"flagpole, flagstaff",9.96875
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.25
+,,,space shuttle,8.0390625
+,,,window shade,7.9960938
+,,,"laptop, laptop computer",7.5703125
+mobilenet_v1_1.0_224,label,0.010268449783325195
+,,,"flagpole, flagstaff",8.5
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.5390625
+,,,window shade,7.5078125
+,,,space shuttle,7.0625
+,,,"pop bottle, soda bottle",7.0546875
+mobilenet_v1_1.0_224,label,0.010226726531982422
+,,,"flagpole, flagstaff",10.453125
+,,,space shuttle,8.203125
+,,,"laptop, laptop computer",8.171875
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.859375
+,,,window shade,7.5039062
+mobilenet_v1_1.0_224,label,0.00755000114440918
+,,,"flagpole, flagstaff",10.296875
+,,,"laptop, laptop computer",8.421875
+,,,"pop bottle, soda bottle",8.265625
+,,,space shuttle,7.7734375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.6367188
+mobilenet_v1_1.0_224,label,0.006183147430419922
+,,,"flagpole, flagstaff",10.3984375
+,,,"pop bottle, soda bottle",8.0859375
+,,,space shuttle,8.0859375
+,,,"laptop, laptop computer",7.984375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.8476562
+mobilenet_v1_1.0_224,label,0.005733013153076172
+,,,"flagpole, flagstaff",9.265625
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.0390625
+,,,"laptop, laptop computer",7.890625
+,,,"pop bottle, soda bottle",7.53125
+,,,stage,7.2109375
+mobilenet_v1_1.0_224,label,0.006230354309082031
+,,,"flagpole, flagstaff",9.6640625
+,,,space shuttle,8.5390625
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.03125
+,,,window shade,8.0078125
+,,,"pop bottle, soda bottle",7.6835938
+mobilenet_v1_1.0_224,label,0.006117343902587891
+,,,"flagpole, flagstaff",9.578125
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.7070312
+,,,nipple,7.5820312
+,,,"pop bottle, soda bottle",7.5039062
+,,,stage,7.484375
+mobilenet_v1_1.0_224,label,0.006472110748291016
+,,,"flagpole, flagstaff",9.546875
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.9101562
+,,,"pop bottle, soda bottle",7.6445312
+,,,space shuttle,7.625
+,,,"laptop, laptop computer",7.5625
+mobilenet_v1_1.0_224,label,0.0063991546630859375
+,,,"flagpole, flagstaff",9.078125
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.046875
+,,,"pop bottle, soda bottle",7.7851562
+,,,stage,7.4101562
+,,,"laptop, laptop computer",7.109375
+mobilenet_v1_1.0_224,label,0.006423234939575195
+,,,"flagpole, flagstaff",9.625
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.9648438
+,,,"pop bottle, soda bottle",7.9570312
+,,,space shuttle,7.9375
+,,,"laptop, laptop computer",7.921875
+mobilenet_v1_1.0_224,label,0.005742788314819336
+,,,"flagpole, flagstaff",9.375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.6484375
+,,,"laptop, laptop computer",8.109375
+,,,"pop bottle, soda bottle",8.0703125
+,,,space shuttle,7.7734375
+mobilenet_v1_1.0_224,label,0.00670313835144043
+,,,"flagpole, flagstaff",9.3984375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.3359375
+,,,"laptop, laptop computer",7.421875
+,,,shovel,7.2070312
+,,,"pop bottle, soda bottle",7.1835938
+mobilenet_v1_1.0_224,label,0.006022453308105469
+,,,"flagpole, flagstaff",9.21875
+,,,"laptop, laptop computer",7.6289062
+,,,"jeep, landrover",7.5039062
+,,,"pop bottle, soda bottle",7.3203125
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.1445312
+mobilenet_v1_1.0_224,label,0.006235361099243164
+,,,"flagpole, flagstaff",10.40625
+,,,"book jacket, dust cover, dust jacket, dust wrapper",8.0703125
+,,,space shuttle,7.9453125
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.7929688
+,,,window shade,7.2421875
+mobilenet_v1_1.0_224,label,0.006366729736328125
+,,,"flagpole, flagstaff",9.09375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",7.7382812
+,,,window shade,7.6523438
+,,,"pop bottle, soda bottle",7.4453125
+,,,"laptop, laptop computer",7.421875
+mobilenet_v1_1.0_224,label,0.0059468746185302734
+,,,"flagpole, flagstaff",10.4609375
+,,,space shuttle,9.3984375
+,,,"book jacket, dust cover, dust jacket, dust wrapper",9.1484375
+,,,"pop bottle, soda bottle",8.109375
+,,,window shade,7.8984375
+mobilenet_v1_1.0_192_quant,label,0.008956193923950195
+,,,window shade,15.578125
+,,,sweatshirt,13.9453125
+,,,"racer, race car, racing car",12.1015625
+,,,"pajama, pyjama, pj's, jammies",11.984375
+,,,"streetcar, tram, tramcar, trolley, trolley car",11.7265625
+mobilenet_v1_1.0_192_quant,label,0.006812095642089844
+,,,window shade,14.09375
+,,,sweatshirt,13.7109375
+,,,"racer, race car, racing car",13.609375
+,,,"pajama, pyjama, pj's, jammies",12.3984375
+,,,ping-pong ball,11.9375
+mobilenet_v1_1.0_192_quant,label,0.005972385406494141
+,,,window shade,14.296875
+,,,sweatshirt,13.7578125
+,,,"racer, race car, racing car",12.6953125
+,,,chainlink fence,12.078125
+,,,"pajama, pyjama, pj's, jammies",11.9140625
+mobilenet_v1_1.0_192_quant,label,0.006679534912109375
+,,,window shade,14.0
+,,,sweatshirt,13.9765625
+,,,"racer, race car, racing car",12.5625
+,,,"pajama, pyjama, pj's, jammies",11.34375
+,,,ping-pong ball,11.328125
+mobilenet_v1_1.0_192_quant,label,0.006115913391113281
+,,,sweatshirt,14.7265625
+,,,window shade,14.03125
+,,,"pajama, pyjama, pj's, jammies",14.0
+,,,"racer, race car, racing car",13.2734375
+,,,stone wall,12.0390625
+mobilenet_v1_1.0_192_quant,label,0.00624847412109375
+,,,sweatshirt,15.0703125
+,,,window shade,14.796875
+,,,"pajama, pyjama, pj's, jammies",13.0
+,,,"racer, race car, racing car",12.6328125
+,,,ping-pong ball,11.84375
+mobilenet_v1_1.0_192_quant,label,0.006356716156005859
+,,,window shade,15.171875
+,,,sweatshirt,14.1484375
+,,,"racer, race car, racing car",12.5234375
+,,,ping-pong ball,12.1484375
+,,,"pajama, pyjama, pj's, jammies",12.0234375
+mobilenet_v1_1.0_192_quant,label,0.007513999938964844
+,,,window shade,14.515625
+,,,sweatshirt,13.96875
+,,,"racer, race car, racing car",13.4140625
+,,,"pajama, pyjama, pj's, jammies",12.453125
+,,,ping-pong ball,11.578125
+mobilenet_v1_1.0_192_quant,label,0.006740570068359375
+,,,sweatshirt,14.2421875
+,,,window shade,14.125
+,,,"racer, race car, racing car",12.7578125
+,,,ping-pong ball,12.140625
+,,,"pajama, pyjama, pj's, jammies",11.9375
+mobilenet_v1_1.0_192_quant,label,0.006921052932739258
+,,,sweatshirt,13.78125
+,,,window shade,13.46875
+,,,"racer, race car, racing car",13.3984375
+,,,stone wall,11.921875
+,,,"pajama, pyjama, pj's, jammies",11.765625
+mobilenet_v1_1.0_192_quant,label,0.006970405578613281
+,,,window shade,15.234375
+,,,"racer, race car, racing car",13.765625
+,,,sweatshirt,13.71875
+,,,"pajama, pyjama, pj's, jammies",13.1328125
+,,,ping-pong ball,12.0625
+mobilenet_v1_1.0_192_quant,label,0.00634312629699707
+,,,window shade,15.1875
+,,,sweatshirt,14.0390625
+,,,"pajama, pyjama, pj's, jammies",13.1171875
+,,,"racer, race car, racing car",12.5078125
+,,,chainlink fence,11.0
+mobilenet_v1_1.0_192_quant,label,0.0061190128326416016
+,,,window shade,15.578125
+,,,sweatshirt,14.3046875
+,,,"racer, race car, racing car",12.3046875
+,,,"pajama, pyjama, pj's, jammies",11.953125
+,,,stone wall,11.359375
+mobilenet_v1_1.0_192_quant,label,0.0063364505767822266
+,,,window shade,14.96875
+,,,sweatshirt,13.6328125
+,,,"racer, race car, racing car",11.984375
+,,,chainlink fence,11.4453125
+,,,ping-pong ball,11.0
+mobilenet_v1_1.0_192_quant,label,0.006156206130981445
+,,,window shade,13.6875
+,,,sweatshirt,13.4609375
+,,,"racer, race car, racing car",13.1328125
+,,,"pajama, pyjama, pj's, jammies",12.796875
+,,,ping-pong ball,12.21875
+mobilenet_v1_1.0_192_quant,label,0.006445884704589844
+,,,window shade,13.734375
+,,,"racer, race car, racing car",13.6015625
+,,,sweatshirt,13.5078125
+,,,"pajama, pyjama, pj's, jammies",13.09375
+,,,ping-pong ball,11.875
+mobilenet_v1_1.0_192_quant,label,0.007036447525024414
+,,,window shade,14.96875
+,,,sweatshirt,13.59375
+,,,"racer, race car, racing car",12.5234375
+,,,ping-pong ball,12.125
+,,,"pajama, pyjama, pj's, jammies",11.9375
+mobilenet_v1_1.0_192_quant,label,0.0062596797943115234
+,,,window shade,15.390625
+,,,sweatshirt,14.8671875
+,,,"racer, race car, racing car",12.59375
+,,,"pajama, pyjama, pj's, jammies",12.03125
+,,,chainlink fence,10.953125
+mobilenet_v1_1.0_192_quant,label,0.006356239318847656
+,,,window shade,14.25
+,,,sweatshirt,14.1953125
+,,,"racer, race car, racing car",12.7421875
+,,,ping-pong ball,12.125
+,,,"streetcar, tram, tramcar, trolley, trolley car",11.8828125
+mobilenet_v1_1.0_192_quant,label,0.0068340301513671875
+,,,sweatshirt,13.515625
+,,,window shade,12.875
+,,,"pajama, pyjama, pj's, jammies",12.578125
+,,,"racer, race car, racing car",12.5546875
+,,,ping-pong ball,10.78125
+mobilenet_v1_1.0_192,label,0.008700847625732422
+,,,window shade,13.7265625
+,,,sweatshirt,11.953125
+,,,chainlink fence,11.2578125
+,,,nipple,11.2109375
+,,,"pajama, pyjama, pj's, jammies",10.5234375
+mobilenet_v1_1.0_192,label,0.006678104400634766
+,,,window shade,13.5390625
+,,,sweatshirt,11.90625
+,,,chainlink fence,10.828125
+,,,"streetcar, tram, tramcar, trolley, trolley car",10.8125
+,,,nipple,10.7578125
+mobilenet_v1_1.0_192,label,0.0062103271484375
+,,,window shade,13.859375
+,,,sweatshirt,11.96875
+,,,"pajama, pyjama, pj's, jammies",10.8984375
+,,,chainlink fence,10.6796875
+,,,nipple,10.5625
+mobilenet_v1_1.0_192,label,0.006921529769897461
+,,,window shade,14.71875
+,,,sweatshirt,11.8359375
+,,,"pajama, pyjama, pj's, jammies",11.7109375
+,,,thimble,10.7578125
+,,,"streetcar, tram, tramcar, trolley, trolley car",10.28125
+mobilenet_v1_1.0_192,label,0.006743431091308594
+,,,window shade,13.8125
+,,,sweatshirt,11.859375
+,,,chainlink fence,10.90625
+,,,nipple,10.4453125
+,,,thimble,10.4375
+mobilenet_v1_1.0_192,label,0.006137371063232422
+,,,window shade,14.953125
+,,,sweatshirt,12.5078125
+,,,"pajama, pyjama, pj's, jammies",11.3125
+,,,chainlink fence,11.140625
+,,,thimble,10.53125
+mobilenet_v1_1.0_192,label,0.006997585296630859
+,,,window shade,14.9453125
+,,,sweatshirt,12.328125
+,,,"pajama, pyjama, pj's, jammies",11.9453125
+,,,chainlink fence,11.171875
+,,,"streetcar, tram, tramcar, trolley, trolley car",10.1875
+mobilenet_v1_1.0_192,label,0.007518291473388672
+,,,window shade,14.1484375
+,,,sweatshirt,11.734375
+,,,"pajama, pyjama, pj's, jammies",11.1171875
+,,,thimble,11.09375
+,,,nipple,10.953125
+mobilenet_v1_1.0_192,label,0.006891965866088867
+,,,window shade,13.7109375
+,,,sweatshirt,11.484375
+,,,thimble,10.984375
+,,,"pajama, pyjama, pj's, jammies",10.859375
+,,,chainlink fence,10.46875
+mobilenet_v1_1.0_192,label,0.0064809322357177734
+,,,window shade,13.7578125
+,,,sweatshirt,11.578125
+,,,"pajama, pyjama, pj's, jammies",11.2890625
+,,,nipple,11.1640625
+,,,chainlink fence,10.671875
+mobilenet_v1_1.0_192,label,0.007387876510620117
+,,,window shade,14.7890625
+,,,sweatshirt,11.765625
+,,,"pajama, pyjama, pj's, jammies",10.90625
+,,,chainlink fence,10.8046875
+,,,"streetcar, tram, tramcar, trolley, trolley car",10.609375
+mobilenet_v1_1.0_192,label,0.006737709045410156
+,,,window shade,13.734375
+,,,nipple,10.9765625
+,,,sweatshirt,10.9296875
+,,,"pajama, pyjama, pj's, jammies",10.6015625
+,,,chainlink fence,10.5234375
+mobilenet_v1_1.0_192,label,0.0065534114837646484
+,,,window shade,13.1796875
+,,,sweatshirt,12.078125
+,,,"pajama, pyjama, pj's, jammies",11.421875
+,,,chainlink fence,11.015625
+,,,nipple,10.8984375
+mobilenet_v1_1.0_192,label,0.006452798843383789
+,,,window shade,13.9296875
+,,,sweatshirt,11.90625
+,,,"streetcar, tram, tramcar, trolley, trolley car",11.03125
+,,,chainlink fence,10.7890625
+,,,nipple,9.9765625
+mobilenet_v1_1.0_192,label,0.007216930389404297
+,,,window shade,14.2109375
+,,,sweatshirt,11.8046875
+,,,chainlink fence,10.796875
+,,,"pajama, pyjama, pj's, jammies",10.765625
+,,,thimble,10.1640625
+mobilenet_v1_1.0_192,label,0.006529092788696289
+,,,window shade,14.84375
+,,,sweatshirt,12.0234375
+,,,"streetcar, tram, tramcar, trolley, trolley car",11.0390625
+,,,chainlink fence,10.734375
+,,,"pajama, pyjama, pj's, jammies",10.6796875
+mobilenet_v1_1.0_192,label,0.006817817687988281
+,,,window shade,13.8203125
+,,,sweatshirt,11.484375
+,,,"pajama, pyjama, pj's, jammies",11.0234375
+,,,nipple,10.59375
+,,,chainlink fence,10.171875
+mobilenet_v1_1.0_192,label,0.0067441463470458984
+,,,window shade,13.125
+,,,sweatshirt,11.78125
+,,,stone wall,10.84375
+,,,"worm fence, snake fence, snake-rail fence, Virginia fence",10.6953125
+,,,nipple,10.5234375
+mobilenet_v1_1.0_192,label,0.008560419082641602
+,,,window shade,14.28125
+,,,"pajama, pyjama, pj's, jammies",11.90625
+,,,sweatshirt,11.8125
+,,,nipple,11.0703125
+,,,chainlink fence,10.671875
+mobilenet_v1_1.0_192,label,0.007798910140991211
+,,,window shade,13.3515625
+,,,sweatshirt,12.25
+,,,"pajama, pyjama, pj's, jammies",12.2265625
+,,,nipple,10.2578125
+,,,chainlink fence,9.8671875
+mobilenet_v1_0.5_128,label,0.00922083854675293
+,,,window shade,5.0273438
+,,,toaster,4.5078125
+,,,"crossword puzzle, crossword",4.265625
+,,,lemon,4.1640625
+,,,"hook, claw",4.0703125
+mobilenet_v1_0.5_128,label,0.006207942962646484
+,,,"crossword puzzle, crossword",4.7382812
+,,,"hook, claw",4.6835938
+,,,shovel,4.5
+,,,toaster,4.40625
+,,,ski,4.1132812
+mobilenet_v1_0.5_128,label,0.005675315856933594
+,,,"crossword puzzle, crossword",4.7539062
+,,,"container ship, containership, container vessel",4.3125
+,,,lemon,4.1054688
+,,,ski,4.078125
+,,,trench coat,4.0507812
+mobilenet_v1_0.5_128,label,0.006258249282836914
+,,,"crossword puzzle, crossword",4.6210938
+,,,toaster,4.4375
+,,,lemon,4.3671875
+,,,"hook, claw",4.234375
+,,,trench coat,4.21875
+mobilenet_v1_0.5_128,label,0.005341291427612305
+,,,"crossword puzzle, crossword",5.5664062
+,,,"bicycle-built-for-two, tandem bicycle, tandem",4.9960938
+,,,ski,4.9570312
+,,,"container ship, containership, container vessel",4.9375
+,,,"jinrikisha, ricksha, rickshaw",4.6367188
+mobilenet_v1_0.5_128,label,0.005499839782714844
+,,,"crossword puzzle, crossword",4.609375
+,,,"hook, claw",4.1914062
+,,,ski,3.8925781
+,,,lemon,3.7929688
+,,,fountain pen,3.7832031
+mobilenet_v1_0.5_128,label,0.00515294075012207
+,,,"hook, claw",4.5664062
+,,,"crossword puzzle, crossword",4.40625
+,,,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",4.328125
+,,,toaster,4.2265625
+,,,shovel,4.1132812
+mobilenet_v1_0.5_128,label,0.005636930465698242
+,,,"crossword puzzle, crossword",5.0664062
+,,,"hook, claw",4.203125
+,,,"container ship, containership, container vessel",4.1796875
+,,,lemon,4.1484375
+,,,toaster,4.0703125
+mobilenet_v1_0.5_128,label,0.0055124759674072266
+,,,window shade,4.4921875
+,,,"crossword puzzle, crossword",4.4648438
+,,,"hook, claw",4.3828125
+,,,"container ship, containership, container vessel",4.3359375
+,,,lemon,4.2382812
+mobilenet_v1_0.5_128,label,0.0066432952880859375
+,,,"crossword puzzle, crossword",4.8125
+,,,window shade,4.4960938
+,,,toaster,4.2890625
+,,,"hook, claw",4.1679688
+,,,lemon,4.109375
+mobilenet_v1_0.5_128,label,0.0053789615631103516
+,,,lemon,4.6484375
+,,,toaster,4.5234375
+,,,"crossword puzzle, crossword",4.5117188
+,,,shovel,4.3867188
+,,,"container ship, containership, container vessel",4.140625
+mobilenet_v1_0.5_128,label,0.006017446517944336
+,,,window shade,4.3125
+,,,"unicycle, monocycle",4.28125
+,,,"hook, claw",4.2734375
+,,,"crossword puzzle, crossword",4.1796875
+,,,"container ship, containership, container vessel",4.171875
+mobilenet_v1_0.5_128,label,0.005258321762084961
+,,,toaster,4.8125
+,,,window shade,4.6796875
+,,,lemon,4.5351562
+,,,"crossword puzzle, crossword",4.2539062
+,,,"container ship, containership, container vessel",4.171875
+mobilenet_v1_0.5_128,label,0.0063436031341552734
+,,,"crossword puzzle, crossword",5.421875
+,,,"container ship, containership, container vessel",4.671875
+,,,lemon,4.5195312
+,,,"hook, claw",4.4609375
+,,,toaster,4.25
+mobilenet_v1_0.5_128,label,0.005006313323974609
+,,,lemon,5.0
+,,,"crossword puzzle, crossword",4.8242188
+,,,"hook, claw",4.8125
+,,,toaster,4.4765625
+,,,drumstick,4.2148438
+mobilenet_v1_0.5_128,label,0.005501985549926758
+,,,"crossword puzzle, crossword",4.4648438
+,,,"hook, claw",4.3476562
+,,,toaster,4.1953125
+,,,lemon,4.1601562
+,,,window shade,4.1601562
+mobilenet_v1_0.5_128,label,0.0059642791748046875
+,,,"crossword puzzle, crossword",4.5351562
+,,,"container ship, containership, container vessel",4.484375
+,,,shovel,4.21875
+,,,espresso maker,4.0625
+,,,space shuttle,4.0546875
+mobilenet_v1_0.5_128,label,0.005373954772949219
+,,,"crossword puzzle, crossword",5.109375
+,,,"container ship, containership, container vessel",4.6171875
+,,,trench coat,4.5039062
+,,,lemon,4.4414062
+,,,"hook, claw",4.359375
+mobilenet_v1_0.5_128,label,0.005697965621948242
+,,,"crossword puzzle, crossword",4.609375
+,,,"hook, claw",4.5273438
+,,,trench coat,4.4804688
+,,,lemon,4.3359375
+,,,espresso maker,4.1757812
+mobilenet_v1_0.5_128,label,0.0055010318756103516
+,,,lemon,5.3867188
+,,,window shade,5.3085938
+,,,"hook, claw",5.109375
+,,,space shuttle,4.9453125
+,,,"crossword puzzle, crossword",4.8867188

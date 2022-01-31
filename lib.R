@@ -240,10 +240,10 @@ remove_dominated <- function(df) {
 		for (j in seq(from=i, to=nrow(df), by=1)) {
 			if (i != j && df[i, "model"] == df[j, "model"]) {
 				if (df[i, "latency"] > df[j, "latency"] &&
-				    df[i, "acc"] < df[j, "acc"]) {
+				    df[i, "acc"] <= df[j, "acc"]) {
 					dominated[i] = 1
 				} else if (df[i, "latency"] < df[j, "latency"] &&
-					     df[i, "acc"] > df[j, "acc"]) {
+					     df[i, "acc"] >= df[j, "acc"]) {
 					dominated[j] = 1
 				}
 			}
