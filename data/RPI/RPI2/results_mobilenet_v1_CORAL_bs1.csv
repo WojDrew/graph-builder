@@ -1,0 +1,6145 @@
+ModelName,Label,InferenceTime,Recognition,Accuracy
+mobilenet_v1_0.5_128_quant,label,0.03197738441618895
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030726429420490534
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.03145702050467229
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030116981594234992
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030426465188771595
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.029477997579796442
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.031558609185809564
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030412876361425204
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.03144832925478736
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.029907210228398755
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.031126246386195412
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.029634319389189964
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.160007
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.030014777476926456
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030959180749423235
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,digital clock,4.0165586
+,,,jack-o'-lantern,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.029956991420516728
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.03142564225551903
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.029668251534024942
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030400008386796913
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.029722595261939537
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,digital clock,4.0165586
+,,,jack-o'-lantern,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.030579562707862648
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.031074205853979707
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.03012516135684306
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.03155174576425145
+,,,nematode,4.8772497
+,,,spotlight,4.733801
+,,,match,4.3034554
+,,,digital clock,4.0165586
+,,,jack-o'-lantern,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.030724346596587182
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.030394037704509155
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,digital clock,4.0165586
+,,,jack-o'-lantern,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.030275522987056283
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.029881672540433647
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.029869939116951898
+,,,nematode,4.8772497
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,lampshade,3.87311
+mobilenet_v1_0.5_128_quant,label,0.030933765116539762
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,digital clock,4.0165586
+,,,jack-o'-lantern,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.030727905692004814
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,3.87311
+mobilenet_v1_0.5_128_quant,label,0.03140310363626192
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.3034554
+,,,jack-o'-lantern,4.0165586
+,,,digital clock,4.0165586
+mobilenet_v1_0.5_128_quant,label,0.031006161841856245
+,,,nematode,5.020698
+,,,spotlight,4.5903525
+,,,match,4.160007
+,,,digital clock,4.0165586
+,,,jack-o'-lantern,4.0165586
+mobilenet_v1_0.25_160,label,0.011355371025648561
+,,,nematode,5.1729846
+,,,match,4.457855
+,,,digital clock,4.106319
+,,,spotlight,4.0119543
+,,,jack-o'-lantern,3.9258459
+mobilenet_v1_0.25_160,label,0.01089822488452994
+,,,nematode,5.18361
+,,,match,4.4568534
+,,,digital clock,4.101834
+,,,spotlight,4.0006666
+,,,jack-o'-lantern,3.9285252
+mobilenet_v1_0.25_160,label,0.011218850854525078
+,,,nematode,5.158434
+,,,match,4.4626946
+,,,digital clock,4.1155324
+,,,spotlight,4.002861
+,,,jack-o'-lantern,3.940931
+mobilenet_v1_0.25_160,label,0.010780756914977548
+,,,nematode,5.1338925
+,,,match,4.443241
+,,,digital clock,4.092359
+,,,spotlight,4.003294
+,,,jack-o'-lantern,3.9277914
+mobilenet_v1_0.25_160,label,0.010784803513296349
+,,,nematode,5.153272
+,,,match,4.4549937
+,,,digital clock,4.087425
+,,,spotlight,3.9789538
+,,,jack-o'-lantern,3.9254987
+mobilenet_v1_0.25_160,label,0.011072093191489989
+,,,nematode,5.163416
+,,,match,4.4564834
+,,,digital clock,4.10701
+,,,spotlight,4.0105987
+,,,jack-o'-lantern,3.9341967
+mobilenet_v1_0.25_160,label,0.011296420092457998
+,,,nematode,5.133696
+,,,match,4.452445
+,,,digital clock,4.08858
+,,,spotlight,3.9867086
+,,,jack-o'-lantern,3.9322617
+mobilenet_v1_0.25_160,label,0.011074762850102097
+,,,nematode,5.1366024
+,,,match,4.4278884
+,,,digital clock,4.0805764
+,,,spotlight,3.9786835
+,,,jack-o'-lantern,3.9136155
+mobilenet_v1_0.25_160,label,0.011207235914097504
+,,,nematode,5.1726356
+,,,match,4.465993
+,,,digital clock,4.110535
+,,,spotlight,4.000505
+,,,jack-o'-lantern,3.9367354
+mobilenet_v1_0.25_160,label,0.011311195604551304
+,,,nematode,5.1571445
+,,,match,4.4462276
+,,,digital clock,4.0908766
+,,,spotlight,3.9999294
+,,,jack-o'-lantern,3.9308841
+mobilenet_v1_0.25_160,label,0.011202168892059031
+,,,nematode,5.164126
+,,,match,4.4659705
+,,,digital clock,4.1284447
+,,,spotlight,4.0135927
+,,,jack-o'-lantern,3.9485252
+mobilenet_v1_0.25_160,label,0.010930319764581881
+,,,nematode,5.161023
+,,,match,4.454433
+,,,digital clock,4.0983076
+,,,spotlight,4.003308
+,,,jack-o'-lantern,3.924361
+mobilenet_v1_0.25_160,label,0.011388074390205994
+,,,nematode,5.1741996
+,,,match,4.4495425
+,,,digital clock,4.0955677
+,,,spotlight,3.9927053
+,,,jack-o'-lantern,3.9252126
+mobilenet_v1_0.25_160,label,0.010924538413631828
+,,,nematode,5.1717057
+,,,match,4.472616
+,,,digital clock,4.118219
+,,,spotlight,4.0050397
+,,,jack-o'-lantern,3.9426568
+mobilenet_v1_0.25_160,label,0.011414723704965529
+,,,nematode,5.188522
+,,,match,4.4610705
+,,,digital clock,4.121268
+,,,spotlight,4.004252
+,,,jack-o'-lantern,3.943415
+mobilenet_v1_0.25_160,label,0.010898735654906344
+,,,nematode,5.138467
+,,,match,4.446715
+,,,digital clock,4.0888658
+,,,spotlight,3.9949064
+,,,jack-o'-lantern,3.9244063
+mobilenet_v1_0.25_160,label,0.011310887708505633
+,,,nematode,5.179192
+,,,match,4.453774
+,,,digital clock,4.098921
+,,,spotlight,3.9833121
+,,,jack-o'-lantern,3.9287674
+mobilenet_v1_0.25_160,label,0.011095759409083448
+,,,nematode,5.122794
+,,,match,4.438748
+,,,digital clock,4.084252
+,,,spotlight,3.9926944
+,,,jack-o'-lantern,3.9298084
+mobilenet_v1_0.25_160,label,0.011076158991747945
+,,,nematode,5.1818857
+,,,match,4.4642334
+,,,digital clock,4.1247025
+,,,spotlight,4.0096903
+,,,jack-o'-lantern,3.951492
+mobilenet_v1_0.25_160,label,0.01083211168163961
+,,,nematode,5.1622987
+,,,match,4.4484167
+,,,digital clock,4.100744
+,,,spotlight,3.998065
+,,,jack-o'-lantern,3.9223878
+mobilenet_v1_0.25_160,label,0.011368229367818821
+,,,nematode,5.137447
+,,,match,4.4633646
+,,,digital clock,4.0989594
+,,,spotlight,4.014108
+,,,jack-o'-lantern,3.9260075
+mobilenet_v1_0.25_160,label,0.010893685173734152
+,,,nematode,5.120591
+,,,match,4.441742
+,,,digital clock,4.0875697
+,,,spotlight,4.0070987
+,,,jack-o'-lantern,3.9367344
+mobilenet_v1_0.25_160,label,0.01109531433569324
+,,,nematode,5.1518135
+,,,match,4.44585
+,,,digital clock,4.0959215
+,,,spotlight,3.994545
+,,,jack-o'-lantern,3.9186475
+mobilenet_v1_0.25_160,label,0.011285407805959602
+,,,nematode,5.1625447
+,,,match,4.448888
+,,,digital clock,4.103618
+,,,spotlight,4.001497
+,,,jack-o'-lantern,3.922928
+mobilenet_v1_0.25_160,label,0.011235248411343825
+,,,nematode,5.151108
+,,,match,4.4437304
+,,,digital clock,4.0985603
+,,,spotlight,4.0001016
+,,,jack-o'-lantern,3.9343092
+mobilenet_v1_0.25_160,label,0.010722951579875227
+,,,nematode,5.15351
+,,,match,4.4641705
+,,,digital clock,4.099186
+,,,spotlight,4.0102296
+,,,jack-o'-lantern,3.9217618
+mobilenet_v1_0.25_160,label,0.01117329421823273
+,,,nematode,5.1731815
+,,,match,4.4649897
+,,,digital clock,4.123819
+,,,spotlight,3.9970598
+,,,jack-o'-lantern,3.9557173
+mobilenet_v1_0.25_160,label,0.010632075513113123
+,,,nematode,5.1691265
+,,,match,4.4481535
+,,,digital clock,4.0905886
+,,,spotlight,3.9821672
+,,,jack-o'-lantern,3.931834
+mobilenet_v1_0.25_160,label,0.010833054521029834
+,,,nematode,5.1639624
+,,,match,4.4695706
+,,,digital clock,4.124097
+,,,spotlight,4.003738
+,,,jack-o'-lantern,3.947355
+mobilenet_v1_0.25_160,label,0.011266278772134907
+,,,nematode,5.1570764
+,,,match,4.445427
+,,,digital clock,4.0916233
+,,,spotlight,3.9915085
+,,,jack-o'-lantern,3.9338834
+mobilenet_v1_0.25_160,label,0.010921048803496241
+,,,nematode,5.151744
+,,,match,4.4423447
+,,,digital clock,4.1084523
+,,,spotlight,4.0076566
+,,,jack-o'-lantern,3.9309762
+mobilenet_v1_0.25_160,label,0.010724635140367507
+,,,nematode,5.1544156
+,,,match,4.4440475
+,,,digital clock,4.087427
+,,,spotlight,3.9881868
+,,,jack-o'-lantern,3.9115794
+mobilenet_v1_0.5_192,label,0.04501392564545363
+,,,nematode,4.864546
+,,,match,4.768903
+,,,digital clock,4.2724767
+,,,spotlight,3.970658
+,,,jack-o'-lantern,3.5764196
+mobilenet_v1_0.5_192,label,0.04345115687142463
+,,,nematode,4.842315
+,,,match,4.799914
+,,,digital clock,4.331133
+,,,spotlight,4.034928
+,,,jack-o'-lantern,3.5857105
+mobilenet_v1_0.5_192,label,0.04409936309343115
+,,,nematode,4.845301
+,,,match,4.7625813
+,,,digital clock,4.2812343
+,,,spotlight,3.9761484
+,,,jack-o'-lantern,3.5376933
+mobilenet_v1_0.5_192,label,0.04340317195346403
+,,,nematode,4.9136286
+,,,match,4.7598734
+,,,digital clock,4.3141274
+,,,spotlight,3.9874752
+,,,jack-o'-lantern,3.5250905
+mobilenet_v1_0.5_192,label,0.041917450038096354
+,,,nematode,4.8931546
+,,,match,4.7445874
+,,,digital clock,4.3113303
+,,,spotlight,3.9889228
+,,,jack-o'-lantern,3.5740817
+mobilenet_v1_0.5_192,label,0.04265243250372266
+,,,nematode,4.8922834
+,,,match,4.7224307
+,,,digital clock,4.297439
+,,,spotlight,3.9828227
+,,,jack-o'-lantern,3.590574
+mobilenet_v1_0.5_192,label,0.04289329621846077
+,,,nematode,4.9266386
+,,,match,4.792163
+,,,digital clock,4.332209
+,,,spotlight,3.990846
+,,,jack-o'-lantern,3.5494614
+mobilenet_v1_0.5_192,label,0.043527469476874976
+,,,nematode,4.9283304
+,,,match,4.8039727
+,,,digital clock,4.319843
+,,,spotlight,3.957246
+,,,jack-o'-lantern,3.564646
+mobilenet_v1_0.5_192,label,0.041926913167312625
+,,,nematode,4.8247633
+,,,match,4.734898
+,,,digital clock,4.3153367
+,,,spotlight,3.9940622
+,,,jack-o'-lantern,3.5895028
+mobilenet_v1_0.5_192,label,0.042524088581346264
+,,,nematode,4.9241943
+,,,match,4.7510667
+,,,digital clock,4.2935004
+,,,spotlight,3.9501367
+,,,jack-o'-lantern,3.5777798
+mobilenet_v1_0.5_192,label,0.04212450358602698
+,,,nematode,4.8737316
+,,,match,4.789639
+,,,digital clock,4.2981544
+,,,spotlight,4.0111365
+,,,lampshade,3.5810986
+mobilenet_v1_0.5_192,label,0.04149425499747158
+,,,nematode,4.9169645
+,,,match,4.8143244
+,,,digital clock,4.319363
+,,,spotlight,3.9952648
+,,,jack-o'-lantern,3.5594707
+mobilenet_v1_0.5_192,label,0.04395396209668956
+,,,nematode,4.918071
+,,,match,4.7865124
+,,,digital clock,4.305411
+,,,spotlight,4.004834
+,,,jack-o'-lantern,3.5956347
+mobilenet_v1_0.5_192,label,0.04354537096738301
+,,,nematode,4.8741636
+,,,match,4.7098145
+,,,digital clock,4.2593417
+,,,spotlight,3.94846
+,,,jack-o'-lantern,3.5408688
+mobilenet_v1_0.5_192,label,0.04362399124902839
+,,,nematode,4.798852
+,,,match,4.7365847
+,,,digital clock,4.2874584
+,,,spotlight,4.000269
+,,,jack-o'-lantern,3.5721226
+mobilenet_v1_0.5_192,label,0.042943488729376825
+,,,nematode,4.9660172
+,,,match,4.768258
+,,,digital clock,4.3145533
+,,,spotlight,3.9548018
+,,,jack-o'-lantern,3.5703108
+mobilenet_v1_0.5_192,label,0.04233621334423291
+,,,nematode,4.8971815
+,,,match,4.75143
+,,,digital clock,4.313123
+,,,spotlight,3.9713
+,,,jack-o'-lantern,3.5670342
+mobilenet_v1_0.5_192,label,0.043685077203225835
+,,,nematode,4.9093904
+,,,match,4.7625976
+,,,digital clock,4.3126793
+,,,spotlight,3.9091773
+,,,jack-o'-lantern,3.5570219
+mobilenet_v1_0.5_192,label,0.042093859878945684
+,,,nematode,4.8978014
+,,,match,4.74068
+,,,digital clock,4.31488
+,,,spotlight,3.9874823
+,,,jack-o'-lantern,3.5644665
+mobilenet_v1_0.5_192,label,0.04435223109484448
+,,,nematode,4.940298
+,,,match,4.812742
+,,,digital clock,4.295562
+,,,spotlight,4.0179453
+,,,jack-o'-lantern,3.5924518
+mobilenet_v1_0.5_192,label,0.04304119644610401
+,,,nematode,4.870282
+,,,match,4.721606
+,,,digital clock,4.2607555
+,,,spotlight,3.9500775
+,,,jack-o'-lantern,3.53521
+mobilenet_v1_0.5_192,label,0.04238991782898383
+,,,nematode,4.9335184
+,,,match,4.8017616
+,,,digital clock,4.297761
+,,,spotlight,3.9876688
+,,,jack-o'-lantern,3.5654025
+mobilenet_v1_0.5_192,label,0.043805557762803045
+,,,nematode,4.879604
+,,,match,4.7300253
+,,,digital clock,4.2809634
+,,,spotlight,3.9406328
+,,,jack-o'-lantern,3.5519533
+mobilenet_v1_0.5_192,label,0.04198739708061241
+,,,nematode,4.8865404
+,,,match,4.7865267
+,,,digital clock,4.335349
+,,,spotlight,4.008446
+,,,jack-o'-lantern,3.560087
+mobilenet_v1_0.5_192,label,0.04169209850382462
+,,,nematode,4.8917494
+,,,match,4.809534
+,,,digital clock,4.339418
+,,,spotlight,3.9747965
+,,,jellyfish,3.5569704
+mobilenet_v1_0.5_192,label,0.042161275037930775
+,,,nematode,4.902114
+,,,match,4.756428
+,,,digital clock,4.3228264
+,,,spotlight,3.94089
+,,,jack-o'-lantern,3.5552275
+mobilenet_v1_0.5_192,label,0.045103918120816267
+,,,nematode,4.95238
+,,,match,4.828226
+,,,digital clock,4.3378463
+,,,spotlight,4.03607
+,,,jack-o'-lantern,3.5882564
+mobilenet_v1_0.5_192,label,0.043047008686416637
+,,,nematode,4.9097557
+,,,match,4.7944064
+,,,digital clock,4.3096843
+,,,spotlight,4.0094967
+,,,jack-o'-lantern,3.5811238
+mobilenet_v1_0.5_192,label,0.04394731419263585
+,,,nematode,4.929087
+,,,match,4.7788305
+,,,digital clock,4.29872
+,,,spotlight,3.9845722
+,,,jack-o'-lantern,3.5765467
+mobilenet_v1_0.5_192,label,0.04528559240104352
+,,,nematode,4.8362064
+,,,match,4.661874
+,,,digital clock,4.2436414
+,,,spotlight,3.9158509
+,,,jack-o'-lantern,3.5451212
+mobilenet_v1_0.5_192,label,0.04406095156005026
+,,,nematode,4.9270897
+,,,match,4.8215513
+,,,digital clock,4.311233
+,,,spotlight,3.9703434
+,,,jack-o'-lantern,3.5544991
+mobilenet_v1_0.5_192,label,0.044254066752317196
+,,,nematode,4.930978
+,,,match,4.8527546
+,,,digital clock,4.3440957
+,,,spotlight,4.005863
+,,,jack-o'-lantern,3.5648344
+mobilenet_v1_0.5_224_quant,label,0.07667098889654217
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.0768749143244963
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07677604808807967
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07613578402348593
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07811310561858896
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07840138261252057
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,spotlight,4.5883346
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07987872854040913
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,lampshade,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07590929521898215
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07771243650562318
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,lampshade,4.4353905
+,,,spotlight,4.4353905
+mobilenet_v1_0.5_224_quant,label,0.07769391162043172
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07997076860885934
+,,,match,4.8942237
+,,,nematode,4.8942237
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07631894224980768
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,spotlight,4.5883346
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07724301084661675
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,spotlight,4.5883346
+,,,digital clock,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.0759922151547584
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07752146246210097
+,,,match,5.0471683
+,,,nematode,4.8942237
+,,,lampshade,4.741279
+,,,spotlight,4.741279
+,,,digital clock,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07690946733633738
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07898890002142538
+,,,nematode,4.8942237
+,,,match,4.8942237
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07740279823014115
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07719843797015873
+,,,match,4.8942237
+,,,nematode,4.8942237
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.0807705545136877
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07654564376005404
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,spotlight,4.5883346
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07487574584126418
+,,,match,5.0471683
+,,,spotlight,4.741279
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07449267921578455
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,lampshade,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07406560198227938
+,,,match,5.0471683
+,,,lampshade,4.741279
+,,,spotlight,4.741279
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07775152424083545
+,,,match,5.0471683
+,,,nematode,4.8942237
+,,,lampshade,4.741279
+,,,digital clock,4.741279
+,,,spotlight,4.741279
+mobilenet_v1_0.5_224_quant,label,0.0769141065469373
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,lampshade,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07482215910991888
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07742981774881359
+,,,match,5.0471683
+,,,nematode,4.8942237
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+,,,lampshade,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07464815519559916
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.07357985556147004
+,,,match,4.8942237
+,,,nematode,4.741279
+,,,spotlight,4.5883346
+,,,digital clock,4.5883346
+,,,lampshade,4.4353905
+mobilenet_v1_0.5_224_quant,label,0.07687847694076172
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,lampshade,4.5883346
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.5_224_quant,label,0.0771835229887531
+,,,match,5.0471683
+,,,nematode,4.741279
+,,,lampshade,4.741279
+,,,digital clock,4.5883346
+,,,spotlight,4.5883346
+mobilenet_v1_0.75_128_quant,label,0.05708750637817617
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.201935
+mobilenet_v1_0.75_128_quant,label,0.054957981777508054
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,front curtain,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05651506060622791
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,spotlight,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.056801024848974355
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.056551284943751404
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05740899313294995
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05930925259530475
+,,,match,5.5525565
+,,,digital clock,4.802211
+,,,nematode,4.802211
+,,,lighter,4.3520036
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.058570653046665866
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05674751341983303
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.059001716979736434
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05718751753440234
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.057772957780830254
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.055840562844503505
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05607529709944448
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.057377976246592265
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05451480965880952
+,,,match,5.5525565
+,,,digital clock,4.802211
+,,,nematode,4.802211
+,,,lighter,4.201935
+,,,spotlight,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05460186342386551
+,,,match,5.5525565
+,,,digital clock,4.802211
+,,,nematode,4.802211
+,,,lighter,4.201935
+,,,spotlight,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05538869663672399
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05748875704362989
+,,,match,5.5525565
+,,,digital clock,4.802211
+,,,nematode,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05837365115836008
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,spotlight,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05943227813984095
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.058367747624668245
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05816950422932751
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.055710077463341896
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05672932151629227
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,spotlight,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05853984245975378
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05850068075775755
+,,,match,5.5525565
+,,,digital clock,4.802211
+,,,nematode,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.0571796207563831
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.058503144033558205
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05898752931738152
+,,,match,5.5525565
+,,,nematode,4.802211
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05632694465018183
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.201935
+,,,candle,4.0518656
+mobilenet_v1_0.75_128_quant,label,0.05945512972967295
+,,,match,5.5525565
+,,,nematode,4.95228
+,,,digital clock,4.802211
+,,,lighter,4.3520036
+,,,jack-o'-lantern,4.0518656
+mobilenet_v1_1.0_224,label,0.17888041995200576
+,,,match,6.8608494
+,,,digital clock,5.0924845
+,,,lighter,5.079462
+,,,spotlight,4.7851477
+,,,jack-o'-lantern,4.6508465
+mobilenet_v1_1.0_224,label,0.176514779648358
+,,,match,6.7762823
+,,,lighter,5.0550714
+,,,digital clock,5.048189
+,,,spotlight,4.7206793
+,,,nematode,4.6493673
+mobilenet_v1_1.0_224,label,0.17465444860629367
+,,,match,6.877383
+,,,lighter,5.066126
+,,,digital clock,5.0399036
+,,,spotlight,4.734678
+,,,jack-o'-lantern,4.6022243
+mobilenet_v1_1.0_224,label,0.18083399616158247
+,,,match,6.8340516
+,,,lighter,5.058147
+,,,digital clock,5.0300093
+,,,spotlight,4.716392
+,,,jack-o'-lantern,4.6072598
+mobilenet_v1_1.0_224,label,0.173874323856659
+,,,match,6.798191
+,,,lighter,5.0920753
+,,,digital clock,5.062995
+,,,spotlight,4.713074
+,,,nematode,4.605222
+mobilenet_v1_1.0_224,label,0.1754692666262634
+,,,match,6.7779093
+,,,lighter,5.0714884
+,,,digital clock,5.0631313
+,,,spotlight,4.7006187
+,,,nematode,4.6106706
+mobilenet_v1_1.0_224,label,0.17011187020423454
+,,,match,6.8440127
+,,,lighter,5.0431094
+,,,digital clock,5.037709
+,,,spotlight,4.7521415
+,,,nematode,4.638627
+mobilenet_v1_1.0_224,label,0.170272587089056
+,,,match,6.8292637
+,,,digital clock,5.0902586
+,,,lighter,5.0809073
+,,,spotlight,4.746202
+,,,jack-o'-lantern,4.629205
+mobilenet_v1_1.0_224,label,0.1775025527802981
+,,,match,6.7933884
+,,,lighter,5.068104
+,,,digital clock,5.0131245
+,,,spotlight,4.7467113
+,,,nematode,4.6185284
+mobilenet_v1_1.0_224,label,0.17839429335419968
+,,,match,6.8813286
+,,,digital clock,5.092105
+,,,lighter,5.0769258
+,,,spotlight,4.7879715
+,,,jack-o'-lantern,4.610174
+mobilenet_v1_1.0_224,label,0.17796962356672721
+,,,match,6.7459283
+,,,lighter,5.040703
+,,,digital clock,4.998396
+,,,spotlight,4.7230697
+,,,nematode,4.600904
+mobilenet_v1_1.0_224,label,0.17120187686968275
+,,,match,6.799584
+,,,digital clock,5.092394
+,,,lighter,5.0715165
+,,,spotlight,4.7129745
+,,,nematode,4.6888776
+mobilenet_v1_1.0_224,label,0.17624320232683086
+,,,match,6.906849
+,,,lighter,5.0975842
+,,,digital clock,5.0303526
+,,,spotlight,4.737162
+,,,nematode,4.6256433
+mobilenet_v1_1.0_224,label,0.17892247442999532
+,,,match,6.7972603
+,,,lighter,5.071131
+,,,digital clock,5.06518
+,,,spotlight,4.7596517
+,,,nematode,4.619852
+mobilenet_v1_1.0_224,label,0.18155341776131376
+,,,match,6.7822623
+,,,lighter,5.1226335
+,,,digital clock,5.0494328
+,,,spotlight,4.7047534
+,,,nematode,4.6528997
+mobilenet_v1_1.0_224,label,0.18094950819613956
+,,,match,6.772614
+,,,lighter,5.107086
+,,,digital clock,5.040885
+,,,spotlight,4.67734
+,,,nematode,4.6529117
+mobilenet_v1_1.0_224,label,0.17104967881344982
+,,,match,6.8427343
+,,,lighter,5.0821886
+,,,digital clock,5.0687513
+,,,spotlight,4.82851
+,,,nematode,4.625836
+mobilenet_v1_1.0_224,label,0.17371027632591288
+,,,match,6.809618
+,,,lighter,5.078228
+,,,digital clock,5.0291004
+,,,spotlight,4.7422376
+,,,jack-o'-lantern,4.609312
+mobilenet_v1_1.0_224,label,0.1748242970456067
+,,,match,6.8190594
+,,,lighter,5.1004596
+,,,digital clock,5.043659
+,,,spotlight,4.7316427
+,,,nematode,4.6422496
+mobilenet_v1_1.0_224,label,0.17780191367663117
+,,,match,6.85806
+,,,lighter,5.1164412
+,,,digital clock,5.0366373
+,,,spotlight,4.7819514
+,,,jack-o'-lantern,4.644155
+mobilenet_v1_1.0_224,label,0.17110936834771587
+,,,match,6.9240274
+,,,lighter,5.112789
+,,,digital clock,5.079877
+,,,spotlight,4.754468
+,,,nematode,4.6203723
+mobilenet_v1_1.0_224,label,0.1792053960776823
+,,,match,6.841045
+,,,digital clock,5.105669
+,,,lighter,5.0670834
+,,,spotlight,4.7889476
+,,,jack-o'-lantern,4.653694
+mobilenet_v1_1.0_224,label,0.17897723595645268
+,,,match,6.8061423
+,,,lighter,5.0859785
+,,,digital clock,5.0396404
+,,,spotlight,4.7296414
+,,,nematode,4.643973
+mobilenet_v1_1.0_224,label,0.17902667825986968
+,,,match,6.8182764
+,,,lighter,5.1153536
+,,,digital clock,5.0507765
+,,,spotlight,4.7475157
+,,,nematode,4.6357427
+mobilenet_v1_1.0_224,label,0.17099150532976892
+,,,match,6.7395115
+,,,digital clock,5.0589085
+,,,lighter,5.04541
+,,,spotlight,4.7046585
+,,,nematode,4.6750116
+mobilenet_v1_1.0_224,label,0.17879349977720568
+,,,match,6.769487
+,,,lighter,5.0819387
+,,,digital clock,5.0519857
+,,,spotlight,4.7518992
+,,,nematode,4.670792
+mobilenet_v1_1.0_224,label,0.17753402003355648
+,,,match,6.778065
+,,,lighter,5.075495
+,,,digital clock,5.0166454
+,,,spotlight,4.7036467
+,,,nematode,4.640477
+mobilenet_v1_1.0_224,label,0.17304334163181243
+,,,match,6.7885456
+,,,lighter,5.109025
+,,,digital clock,5.072528
+,,,spotlight,4.6773434
+,,,nematode,4.620803
+mobilenet_v1_1.0_224,label,0.17459210694261135
+,,,match,6.8671856
+,,,lighter,5.1209974
+,,,digital clock,5.0715055
+,,,spotlight,4.8132663
+,,,jack-o'-lantern,4.622725
+mobilenet_v1_1.0_224,label,0.17978242185072546
+,,,match,6.8380175
+,,,lighter,5.0957594
+,,,digital clock,5.0819073
+,,,spotlight,4.783797
+,,,jack-o'-lantern,4.6774154
+mobilenet_v1_1.0_224,label,0.181206322312198
+,,,match,6.757574
+,,,lighter,5.0484376
+,,,digital clock,5.042178
+,,,spotlight,4.746577
+,,,nematode,4.6536694
+mobilenet_v1_1.0_224,label,0.17502339195985278
+,,,match,6.8559833
+,,,lighter,5.096569
+,,,digital clock,5.0302544
+,,,spotlight,4.706228
+,,,jack-o'-lantern,4.6093416
+mobilenet_v1_0.5_128,label,0.01981926934118635
+,,,nematode,5.154895
+,,,match,4.8469977
+,,,digital clock,4.7995515
+,,,spotlight,4.632813
+,,,lampshade,4.1869807
+mobilenet_v1_0.5_128,label,0.019290181351161357
+,,,nematode,5.1161776
+,,,match,4.8089886
+,,,digital clock,4.7667985
+,,,spotlight,4.608029
+,,,lampshade,4.173752
+mobilenet_v1_0.5_128,label,0.02014245899071549
+,,,nematode,5.145744
+,,,match,4.8371153
+,,,digital clock,4.77643
+,,,spotlight,4.6257815
+,,,lampshade,4.1770024
+mobilenet_v1_0.5_128,label,0.019767344667495163
+,,,nematode,5.1835556
+,,,match,4.845708
+,,,digital clock,4.8092165
+,,,spotlight,4.6444087
+,,,lampshade,4.200644
+mobilenet_v1_0.5_128,label,0.020847977536084333
+,,,nematode,5.14512
+,,,match,4.8434663
+,,,digital clock,4.77995
+,,,spotlight,4.637316
+,,,lampshade,4.1736965
+mobilenet_v1_0.5_128,label,0.020995177641400426
+,,,nematode,5.1176896
+,,,match,4.8039865
+,,,digital clock,4.7854853
+,,,spotlight,4.6273837
+,,,lampshade,4.163589
+mobilenet_v1_0.5_128,label,0.020139894809588946
+,,,nematode,5.118975
+,,,match,4.80267
+,,,digital clock,4.7845945
+,,,spotlight,4.6436396
+,,,lampshade,4.203333
+mobilenet_v1_0.5_128,label,0.020294231640044298
+,,,nematode,5.183555
+,,,match,4.8176804
+,,,digital clock,4.7913284
+,,,spotlight,4.6319942
+,,,lampshade,4.16428
+mobilenet_v1_0.5_128,label,0.020794059703937294
+,,,nematode,5.1359653
+,,,match,4.8329287
+,,,digital clock,4.767036
+,,,spotlight,4.609569
+,,,lampshade,4.160601
+mobilenet_v1_0.5_128,label,0.020377749213541258
+,,,nematode,5.1275196
+,,,match,4.8443494
+,,,digital clock,4.7617073
+,,,spotlight,4.6004634
+,,,lampshade,4.1616836
+mobilenet_v1_0.5_128,label,0.021025605916188413
+,,,nematode,5.1451383
+,,,match,4.815775
+,,,digital clock,4.8041134
+,,,spotlight,4.6317635
+,,,lampshade,4.1850796
+mobilenet_v1_0.5_128,label,0.020610119340813457
+,,,nematode,5.163494
+,,,match,4.80928
+,,,digital clock,4.803682
+,,,spotlight,4.642277
+,,,lampshade,4.1726117
+mobilenet_v1_0.5_128,label,0.02113439115807154
+,,,nematode,5.142608
+,,,match,4.8451905
+,,,digital clock,4.768405
+,,,spotlight,4.608721
+,,,lampshade,4.174933
+mobilenet_v1_0.5_128,label,0.02069162391065583
+,,,nematode,5.1344466
+,,,match,4.8483195
+,,,digital clock,4.7947693
+,,,spotlight,4.6285715
+,,,lampshade,4.194503
+mobilenet_v1_0.5_128,label,0.02127301619174656
+,,,nematode,5.1624184
+,,,match,4.843409
+,,,digital clock,4.782946
+,,,spotlight,4.6240916
+,,,lampshade,4.182497
+mobilenet_v1_0.5_128,label,0.020224753270567945
+,,,nematode,5.1216187
+,,,match,4.840309
+,,,digital clock,4.757919
+,,,spotlight,4.603196
+,,,lampshade,4.178858
+mobilenet_v1_0.5_128,label,0.020084537524179272
+,,,nematode,5.169462
+,,,match,4.857211
+,,,digital clock,4.811019
+,,,spotlight,4.6338334
+,,,lampshade,4.2066298
+mobilenet_v1_0.5_128,label,0.020078854722568814
+,,,nematode,5.130868
+,,,match,4.8418446
+,,,digital clock,4.765638
+,,,spotlight,4.6193104
+,,,lampshade,4.1708436
+mobilenet_v1_0.5_128,label,0.0204023364972251
+,,,nematode,5.134521
+,,,match,4.8022885
+,,,digital clock,4.7791767
+,,,spotlight,4.6192746
+,,,lampshade,4.1637015
+mobilenet_v1_0.5_128,label,0.020069309627421063
+,,,nematode,5.11134
+,,,match,4.8241043
+,,,digital clock,4.739703
+,,,spotlight,4.6018147
+,,,lampshade,4.1586037
+mobilenet_v1_0.5_128,label,0.02094030327847802
+,,,nematode,5.1209245
+,,,match,4.7952695
+,,,digital clock,4.752621
+,,,spotlight,4.6354284
+,,,lampshade,4.1558857
+mobilenet_v1_0.5_128,label,0.020594318134984763
+,,,nematode,5.150683
+,,,match,4.821514
+,,,digital clock,4.7880735
+,,,spotlight,4.637114
+,,,lampshade,4.173459
+mobilenet_v1_0.5_128,label,0.02010921341191866
+,,,nematode,5.1272273
+,,,match,4.8419714
+,,,digital clock,4.7592535
+,,,spotlight,4.61896
+,,,lampshade,4.1699014
+mobilenet_v1_0.5_128,label,0.02032468117992625
+,,,nematode,5.121982
+,,,match,4.7976336
+,,,digital clock,4.75308
+,,,spotlight,4.5984674
+,,,lampshade,4.15747
+mobilenet_v1_0.5_128,label,0.02068250710316121
+,,,nematode,5.126973
+,,,match,4.8262153
+,,,digital clock,4.775844
+,,,spotlight,4.6186295
+,,,lampshade,4.1633983
+mobilenet_v1_0.5_128,label,0.020844646833221306
+,,,nematode,5.1611323
+,,,match,4.8553534
+,,,digital clock,4.8159485
+,,,spotlight,4.635123
+,,,lampshade,4.2057385
+mobilenet_v1_0.5_128,label,0.02051125215721483
+,,,nematode,5.1303706
+,,,match,4.812036
+,,,digital clock,4.775173
+,,,spotlight,4.6133313
+,,,lampshade,4.1704273
+mobilenet_v1_0.5_128,label,0.020873899482742993
+,,,nematode,5.1392365
+,,,match,4.816354
+,,,digital clock,4.8064604
+,,,spotlight,4.646448
+,,,lampshade,4.1963615
+mobilenet_v1_0.5_128,label,0.02107605175587946
+,,,nematode,5.147089
+,,,match,4.81269
+,,,digital clock,4.8052506
+,,,spotlight,4.656572
+,,,lampshade,4.196719
+mobilenet_v1_0.5_128,label,0.020627711829596346
+,,,nematode,5.090388
+,,,match,4.824596
+,,,digital clock,4.7580056
+,,,spotlight,4.5932007
+,,,lampshade,4.1791945
+mobilenet_v1_0.5_128,label,0.02096972475365843
+,,,nematode,5.14037
+,,,match,4.8128376
+,,,digital clock,4.755621
+,,,spotlight,4.6082544
+,,,lampshade,4.1627226
+mobilenet_v1_0.5_128,label,0.02030353275954706
+,,,nematode,5.129578
+,,,match,4.815133
+,,,digital clock,4.7565317
+,,,spotlight,4.616735
+,,,lampshade,4.1628284
+mobilenet_v1_0.75_128,label,0.04175854561401394
+,,,match,5.090713
+,,,nematode,4.7709904
+,,,digital clock,4.5192895
+,,,jack-o'-lantern,3.8890781
+,,,candle,3.7299926
+mobilenet_v1_0.75_128,label,0.0428908952602461
+,,,match,5.0558906
+,,,nematode,4.762145
+,,,digital clock,4.511966
+,,,jack-o'-lantern,3.902569
+,,,candle,3.7159505
+mobilenet_v1_0.75_128,label,0.03993535096391601
+,,,match,5.0624957
+,,,nematode,4.748031
+,,,digital clock,4.4887137
+,,,jack-o'-lantern,3.8903642
+,,,candle,3.7234433
+mobilenet_v1_0.75_128,label,0.04105501612015206
+,,,match,5.0825562
+,,,nematode,4.7474217
+,,,digital clock,4.5193076
+,,,jack-o'-lantern,3.9349852
+,,,candle,3.7802722
+mobilenet_v1_0.75_128,label,0.04178416750410028
+,,,match,5.083761
+,,,nematode,4.7406845
+,,,digital clock,4.51231
+,,,jack-o'-lantern,3.907557
+,,,candle,3.7308261
+mobilenet_v1_0.75_128,label,0.04263427681760146
+,,,match,5.0772953
+,,,nematode,4.7533493
+,,,digital clock,4.5148787
+,,,jack-o'-lantern,3.917507
+,,,candle,3.7452252
+mobilenet_v1_0.75_128,label,0.04055096546693392
+,,,match,5.078467
+,,,nematode,4.7522326
+,,,digital clock,4.514295
+,,,jack-o'-lantern,3.9104984
+,,,candle,3.7447839
+mobilenet_v1_0.75_128,label,0.04247867654257155
+,,,match,5.061557
+,,,nematode,4.7468224
+,,,digital clock,4.5039835
+,,,jack-o'-lantern,3.9045238
+,,,candle,3.7421644
+mobilenet_v1_0.75_128,label,0.042774451094149755
+,,,match,5.0636463
+,,,nematode,4.7436094
+,,,digital clock,4.4971986
+,,,jack-o'-lantern,3.9063754
+,,,candle,3.7325978
+mobilenet_v1_0.75_128,label,0.042401753949207935
+,,,match,5.0610924
+,,,nematode,4.7356553
+,,,digital clock,4.509985
+,,,jack-o'-lantern,3.8932035
+,,,candle,3.7359138
+mobilenet_v1_0.75_128,label,0.041048716153352365
+,,,match,5.0635195
+,,,nematode,4.736408
+,,,digital clock,4.4999585
+,,,jack-o'-lantern,3.8944688
+,,,candle,3.731211
+mobilenet_v1_0.75_128,label,0.040729133779517215
+,,,match,5.0795074
+,,,nematode,4.724719
+,,,digital clock,4.5017543
+,,,jack-o'-lantern,3.9059894
+,,,candle,3.7338011
+mobilenet_v1_0.75_128,label,0.039651425353962134
+,,,match,5.064456
+,,,nematode,4.7493873
+,,,digital clock,4.510085
+,,,jack-o'-lantern,3.9256396
+,,,candle,3.7332792
+mobilenet_v1_0.75_128,label,0.03967790466514057
+,,,match,5.0942144
+,,,nematode,4.7403
+,,,digital clock,4.5067053
+,,,jack-o'-lantern,3.9104207
+,,,candle,3.7447574
+mobilenet_v1_0.75_128,label,0.04192733053621506
+,,,match,5.0818
+,,,nematode,4.748768
+,,,digital clock,4.506699
+,,,jack-o'-lantern,3.8853278
+,,,candle,3.728096
+mobilenet_v1_0.75_128,label,0.04025050454452181
+,,,match,5.085494
+,,,nematode,4.734586
+,,,digital clock,4.500925
+,,,jack-o'-lantern,3.8820255
+,,,candle,3.737458
+mobilenet_v1_0.75_128,label,0.039386273889537256
+,,,match,5.067482
+,,,nematode,4.7368593
+,,,digital clock,4.5068607
+,,,jack-o'-lantern,3.9049022
+,,,candle,3.738985
+mobilenet_v1_0.75_128,label,0.0404631048863053
+,,,match,5.0741763
+,,,nematode,4.7318344
+,,,digital clock,4.5018864
+,,,jack-o'-lantern,3.9079347
+,,,candle,3.7425532
+mobilenet_v1_0.75_128,label,0.04095627146585002
+,,,match,5.085061
+,,,nematode,4.735298
+,,,digital clock,4.5098968
+,,,jack-o'-lantern,3.909184
+,,,candle,3.7240956
+mobilenet_v1_0.75_128,label,0.03961005135526684
+,,,match,5.0719786
+,,,nematode,4.742127
+,,,digital clock,4.4831038
+,,,jack-o'-lantern,3.894139
+,,,candle,3.7299523
+mobilenet_v1_0.75_128,label,0.041551912244818565
+,,,match,5.0759773
+,,,nematode,4.722693
+,,,digital clock,4.490509
+,,,jack-o'-lantern,3.90245
+,,,candle,3.7352774
+mobilenet_v1_0.75_128,label,0.039920314934503126
+,,,match,5.082436
+,,,nematode,4.757288
+,,,digital clock,4.5083427
+,,,jack-o'-lantern,3.9046369
+,,,candle,3.739831
+mobilenet_v1_0.75_128,label,0.03955418856862806
+,,,match,5.086027
+,,,nematode,4.7348785
+,,,digital clock,4.5004587
+,,,jack-o'-lantern,3.8871026
+,,,candle,3.7211056
+mobilenet_v1_0.75_128,label,0.03979703159129155
+,,,match,5.0794683
+,,,nematode,4.745131
+,,,digital clock,4.5091834
+,,,jack-o'-lantern,3.912033
+,,,candle,3.7429647
+mobilenet_v1_0.75_128,label,0.039668533989383435
+,,,match,5.058713
+,,,nematode,4.754109
+,,,digital clock,4.502117
+,,,jack-o'-lantern,3.9001212
+,,,candle,3.7330658
+mobilenet_v1_0.75_128,label,0.04056008022320475
+,,,match,5.0773396
+,,,nematode,4.7312436
+,,,digital clock,4.5058665
+,,,jack-o'-lantern,3.8941703
+,,,candle,3.7348826
+mobilenet_v1_0.75_128,label,0.04059401183922142
+,,,match,5.1077957
+,,,nematode,4.7223563
+,,,digital clock,4.492667
+,,,jack-o'-lantern,3.8970127
+,,,candle,3.740087
+mobilenet_v1_0.75_128,label,0.04251959763707595
+,,,match,5.0820227
+,,,nematode,4.7565036
+,,,digital clock,4.5245423
+,,,jack-o'-lantern,3.9035778
+,,,candle,3.750125
+mobilenet_v1_0.75_128,label,0.04285864675259875
+,,,match,5.0731134
+,,,nematode,4.7491727
+,,,digital clock,4.515993
+,,,jack-o'-lantern,3.9151459
+,,,candle,3.731624
+mobilenet_v1_0.75_128,label,0.04147724079642098
+,,,match,5.078892
+,,,nematode,4.7394714
+,,,digital clock,4.4990935
+,,,jack-o'-lantern,3.8977058
+,,,candle,3.7432096
+mobilenet_v1_0.75_128,label,0.04080594985668654
+,,,match,5.074112
+,,,nematode,4.7523656
+,,,digital clock,4.5047407
+,,,jack-o'-lantern,3.8970912
+,,,candle,3.7360082
+mobilenet_v1_0.75_128,label,0.04098350507474148
+,,,match,5.07903
+,,,nematode,4.770515
+,,,digital clock,4.50089
+,,,jack-o'-lantern,3.8906085
+,,,candle,3.7364874
+mobilenet_v1_1.0_128,label,0.0682465430773046
+,,,match,5.2498074
+,,,nematode,5.0839596
+,,,digital clock,4.947002
+,,,spotlight,4.9337583
+,,,candle,4.6228914
+mobilenet_v1_1.0_128,label,0.06521317263425568
+,,,match,5.247612
+,,,nematode,5.196526
+,,,digital clock,4.898129
+,,,spotlight,4.8632197
+,,,candle,4.608684
+mobilenet_v1_1.0_128,label,0.06782370036611035
+,,,match,5.1919312
+,,,nematode,5.127584
+,,,spotlight,4.886363
+,,,digital clock,4.85957
+,,,candle,4.6337304
+mobilenet_v1_1.0_128,label,0.06738411606094759
+,,,match,5.237684
+,,,nematode,5.1194572
+,,,spotlight,4.890465
+,,,digital clock,4.8722677
+,,,candle,4.6146464
+mobilenet_v1_1.0_128,label,0.06666009492899262
+,,,match,5.2403016
+,,,nematode,5.0924025
+,,,spotlight,4.88035
+,,,digital clock,4.851311
+,,,candle,4.5729136
+mobilenet_v1_1.0_128,label,0.06752486817225743
+,,,match,5.2622824
+,,,nematode,5.1973195
+,,,spotlight,4.980749
+,,,digital clock,4.879199
+,,,candle,4.658391
+mobilenet_v1_1.0_128,label,0.06530027749600306
+,,,match,5.180151
+,,,nematode,5.1340866
+,,,spotlight,4.8830376
+,,,digital clock,4.8362994
+,,,candle,4.6154547
+mobilenet_v1_1.0_128,label,0.06474301176327867
+,,,match,5.1979795
+,,,nematode,5.1797447
+,,,spotlight,4.8954105
+,,,digital clock,4.849512
+,,,candle,4.6337214
+mobilenet_v1_1.0_128,label,0.06421573721975188
+,,,nematode,5.220222
+,,,match,5.1671724
+,,,digital clock,4.8731685
+,,,spotlight,4.8663774
+,,,candle,4.6284595
+mobilenet_v1_1.0_128,label,0.06671668682013417
+,,,match,5.2130036
+,,,nematode,5.203265
+,,,spotlight,4.943391
+,,,digital clock,4.907737
+,,,candle,4.6129417
+mobilenet_v1_1.0_128,label,0.06691578423021902
+,,,match,5.249933
+,,,nematode,5.114809
+,,,digital clock,4.89056
+,,,spotlight,4.880324
+,,,candle,4.6070037
+mobilenet_v1_1.0_128,label,0.06659966312000057
+,,,match,5.2053313
+,,,nematode,5.103008
+,,,spotlight,4.8586106
+,,,digital clock,4.853013
+,,,candle,4.6224794
+mobilenet_v1_1.0_128,label,0.0656351885474379
+,,,match,5.198723
+,,,nematode,5.1341267
+,,,spotlight,4.8856435
+,,,digital clock,4.8366957
+,,,candle,4.6284723
+mobilenet_v1_1.0_128,label,0.06665262175087858
+,,,match,5.1956105
+,,,nematode,5.0706654
+,,,spotlight,4.8635836
+,,,digital clock,4.8632283
+,,,candle,4.576574
+mobilenet_v1_1.0_128,label,0.0682076469417709
+,,,match,5.227886
+,,,nematode,5.0701556
+,,,spotlight,4.939915
+,,,digital clock,4.8714447
+,,,candle,4.647911
+mobilenet_v1_1.0_128,label,0.06702993944972332
+,,,match,5.1498413
+,,,nematode,5.1324687
+,,,spotlight,4.8777595
+,,,digital clock,4.8592834
+,,,candle,4.6247606
+mobilenet_v1_1.0_128,label,0.06484094160218361
+,,,match,5.2490797
+,,,nematode,5.1309147
+,,,spotlight,4.962841
+,,,digital clock,4.8955197
+,,,candle,4.6211185
+mobilenet_v1_1.0_128,label,0.06610458399347628
+,,,nematode,5.2605925
+,,,match,5.2015195
+,,,spotlight,4.9226565
+,,,digital clock,4.876971
+,,,candle,4.596258
+mobilenet_v1_1.0_128,label,0.06706242952409014
+,,,match,5.1859255
+,,,nematode,5.1482167
+,,,spotlight,4.8815727
+,,,digital clock,4.838484
+,,,candle,4.6074796
+mobilenet_v1_1.0_128,label,0.06589515743012743
+,,,match,5.2277274
+,,,nematode,5.207069
+,,,spotlight,4.921329
+,,,digital clock,4.9008145
+,,,candle,4.6223807
+mobilenet_v1_1.0_128,label,0.06400698005564166
+,,,match,5.163428
+,,,nematode,5.1035066
+,,,spotlight,4.851797
+,,,digital clock,4.8268223
+,,,candle,4.6235557
+mobilenet_v1_1.0_128,label,0.06431261243005701
+,,,match,5.238655
+,,,nematode,5.2307878
+,,,spotlight,4.956805
+,,,digital clock,4.8948627
+,,,candle,4.648798
+mobilenet_v1_1.0_128,label,0.06519119767299714
+,,,match,5.234195
+,,,nematode,5.124187
+,,,spotlight,4.860887
+,,,digital clock,4.855308
+,,,candle,4.620944
+mobilenet_v1_1.0_128,label,0.06679697282589107
+,,,match,5.245218
+,,,nematode,5.126429
+,,,spotlight,4.8973913
+,,,digital clock,4.872035
+,,,candle,4.600627
+mobilenet_v1_1.0_128,label,0.06555656506960753
+,,,match,5.255564
+,,,nematode,5.230787
+,,,spotlight,4.9793615
+,,,digital clock,4.9369235
+,,,candle,4.627063
+mobilenet_v1_1.0_128,label,0.06790545922816399
+,,,match,5.2548227
+,,,nematode,5.087425
+,,,spotlight,4.900439
+,,,digital clock,4.885504
+,,,candle,4.609508
+mobilenet_v1_1.0_128,label,0.06463120266934551
+,,,match,5.2366576
+,,,nematode,5.121828
+,,,spotlight,4.9407487
+,,,digital clock,4.919447
+,,,candle,4.636296
+mobilenet_v1_1.0_128,label,0.06482917457941155
+,,,match,5.2447515
+,,,nematode,5.134945
+,,,spotlight,4.9663687
+,,,digital clock,4.8826895
+,,,candle,4.6147914
+mobilenet_v1_1.0_128,label,0.06584045541816039
+,,,match,5.2247844
+,,,nematode,5.011545
+,,,digital clock,4.846035
+,,,spotlight,4.831719
+,,,jack-o'-lantern,4.5501876
+mobilenet_v1_1.0_128,label,0.06522294753646357
+,,,match,5.2359047
+,,,nematode,5.0375667
+,,,digital clock,4.8196964
+,,,spotlight,4.79814
+,,,candle,4.6100097
+mobilenet_v1_1.0_128,label,0.06437364636006711
+,,,match,5.2410502
+,,,nematode,5.1822286
+,,,spotlight,4.900422
+,,,digital clock,4.9000087
+,,,candle,4.595705
+mobilenet_v1_1.0_128,label,0.06394011416052524
+,,,match,5.2058845
+,,,nematode,5.080369
+,,,spotlight,4.870015
+,,,digital clock,4.861432
+,,,candle,4.621163
+mobilenet_v1_0.25_192,label,0.015431544606269056
+,,,nematode,5.504347
+,,,match,4.5434523
+,,,spotlight,4.3835893
+,,,digital clock,4.3453236
+,,,jack-o'-lantern,3.9360552
+mobilenet_v1_0.25_192,label,0.015890338742368167
+,,,nematode,5.4885674
+,,,match,4.5334263
+,,,spotlight,4.379561
+,,,digital clock,4.3457394
+,,,jack-o'-lantern,3.9278512
+mobilenet_v1_0.25_192,label,0.01573028282302853
+,,,nematode,5.4910784
+,,,match,4.547641
+,,,spotlight,4.376315
+,,,digital clock,4.3464546
+,,,jack-o'-lantern,3.930046
+mobilenet_v1_0.25_192,label,0.016170546516584634
+,,,nematode,5.5093327
+,,,match,4.547864
+,,,spotlight,4.3876157
+,,,digital clock,4.3511653
+,,,jack-o'-lantern,3.940844
+mobilenet_v1_0.25_192,label,0.016107402583594662
+,,,nematode,5.5114365
+,,,match,4.55301
+,,,spotlight,4.37274
+,,,digital clock,4.3532195
+,,,jack-o'-lantern,3.9385972
+mobilenet_v1_0.25_192,label,0.015694871086126123
+,,,nematode,5.492008
+,,,match,4.5304403
+,,,spotlight,4.379165
+,,,digital clock,4.347853
+,,,jack-o'-lantern,3.9305005
+mobilenet_v1_0.25_192,label,0.016052639401244972
+,,,nematode,5.5262365
+,,,match,4.5454955
+,,,spotlight,4.39838
+,,,digital clock,4.350635
+,,,jack-o'-lantern,3.9481478
+mobilenet_v1_0.25_192,label,0.015485120017409057
+,,,nematode,5.502285
+,,,match,4.5560203
+,,,spotlight,4.3817267
+,,,digital clock,4.348772
+,,,jack-o'-lantern,3.9372368
+mobilenet_v1_0.25_192,label,0.015687561835695175
+,,,nematode,5.505089
+,,,match,4.5648475
+,,,spotlight,4.3801637
+,,,digital clock,4.3394322
+,,,jack-o'-lantern,3.929728
+mobilenet_v1_0.25_192,label,0.015942867760862116
+,,,nematode,5.4992957
+,,,match,4.5464745
+,,,spotlight,4.3710938
+,,,digital clock,4.34919
+,,,jack-o'-lantern,3.940391
+mobilenet_v1_0.25_192,label,0.015548761642138875
+,,,nematode,5.484249
+,,,match,4.5411534
+,,,spotlight,4.3725996
+,,,digital clock,4.34352
+,,,jack-o'-lantern,3.9305067
+mobilenet_v1_0.25_192,label,0.015947797221580358
+,,,nematode,5.4472213
+,,,match,4.536002
+,,,spotlight,4.3500996
+,,,digital clock,4.32828
+,,,jack-o'-lantern,3.9268532
+mobilenet_v1_0.25_192,label,0.01563372405461006
+,,,nematode,5.493737
+,,,match,4.549678
+,,,spotlight,4.378313
+,,,digital clock,4.357867
+,,,jack-o'-lantern,3.9255638
+mobilenet_v1_0.25_192,label,0.01579871159185225
+,,,nematode,5.4878163
+,,,match,4.5380645
+,,,spotlight,4.3721128
+,,,digital clock,4.335371
+,,,jack-o'-lantern,3.9361386
+mobilenet_v1_0.25_192,label,0.016001648822831605
+,,,nematode,5.4958396
+,,,match,4.552851
+,,,spotlight,4.388196
+,,,digital clock,4.349916
+,,,jack-o'-lantern,3.9384308
+mobilenet_v1_0.25_192,label,0.016097990137195952
+,,,nematode,5.488722
+,,,match,4.544103
+,,,spotlight,4.3842707
+,,,digital clock,4.3480062
+,,,jack-o'-lantern,3.92835
+mobilenet_v1_0.25_192,label,0.015243550937449621
+,,,nematode,5.4770274
+,,,match,4.5261474
+,,,spotlight,4.368247
+,,,digital clock,4.348107
+,,,jack-o'-lantern,3.9450788
+mobilenet_v1_0.25_192,label,0.015317084591864915
+,,,nematode,5.48614
+,,,match,4.5347314
+,,,spotlight,4.3621492
+,,,digital clock,4.336012
+,,,jack-o'-lantern,3.9155092
+mobilenet_v1_0.25_192,label,0.015638130222464665
+,,,nematode,5.453247
+,,,match,4.514729
+,,,spotlight,4.362941
+,,,digital clock,4.344114
+,,,jack-o'-lantern,3.9357214
+mobilenet_v1_0.25_192,label,0.015559013216588763
+,,,nematode,5.5001173
+,,,match,4.5323834
+,,,spotlight,4.376741
+,,,digital clock,4.337228
+,,,jack-o'-lantern,3.9490294
+mobilenet_v1_0.25_192,label,0.01596056709213247
+,,,nematode,5.46511
+,,,match,4.5359216
+,,,spotlight,4.3685575
+,,,digital clock,4.334298
+,,,jack-o'-lantern,3.9413085
+mobilenet_v1_0.25_192,label,0.01623606203794223
+,,,nematode,5.495679
+,,,match,4.546248
+,,,spotlight,4.3783484
+,,,digital clock,4.3573513
+,,,jack-o'-lantern,3.939343
+mobilenet_v1_0.25_192,label,0.015458935112960847
+,,,nematode,5.4757786
+,,,match,4.54056
+,,,spotlight,4.3576174
+,,,digital clock,4.343549
+,,,jack-o'-lantern,3.909226
+mobilenet_v1_0.25_192,label,0.015550535331961317
+,,,nematode,5.4720483
+,,,match,4.530471
+,,,spotlight,4.3716435
+,,,digital clock,4.33747
+,,,jack-o'-lantern,3.9310098
+mobilenet_v1_0.25_192,label,0.01564709228135331
+,,,nematode,5.4804406
+,,,match,4.5450397
+,,,spotlight,4.373487
+,,,digital clock,4.349132
+,,,jack-o'-lantern,3.9168081
+mobilenet_v1_0.25_192,label,0.015733912912152863
+,,,nematode,5.4927607
+,,,match,4.5283084
+,,,spotlight,4.367832
+,,,digital clock,4.347776
+,,,jack-o'-lantern,3.9410014
+mobilenet_v1_0.25_192,label,0.01560138695019844
+,,,nematode,5.5163345
+,,,match,4.5676694
+,,,spotlight,4.386403
+,,,digital clock,4.358368
+,,,jack-o'-lantern,3.9276805
+mobilenet_v1_0.25_192,label,0.016207175469225375
+,,,nematode,5.4954677
+,,,match,4.5593204
+,,,spotlight,4.3976626
+,,,digital clock,4.342634
+,,,jack-o'-lantern,3.929151
+mobilenet_v1_0.25_192,label,0.01550979344659693
+,,,nematode,5.516496
+,,,match,4.547678
+,,,spotlight,4.381644
+,,,digital clock,4.3508716
+,,,jack-o'-lantern,3.9347954
+mobilenet_v1_0.25_192,label,0.01633512626262419
+,,,nematode,5.5009685
+,,,match,4.539955
+,,,spotlight,4.389094
+,,,digital clock,4.347482
+,,,jack-o'-lantern,3.9268336
+mobilenet_v1_0.25_192,label,0.016183811487074817
+,,,nematode,5.510578
+,,,match,4.5474257
+,,,spotlight,4.378178
+,,,digital clock,4.3515244
+,,,jack-o'-lantern,3.9289098
+mobilenet_v1_0.25_192,label,0.015763144220319866
+,,,nematode,5.471378
+,,,match,4.53811
+,,,spotlight,4.3876367
+,,,digital clock,4.335263
+,,,jack-o'-lantern,3.9378266
+mobilenet_v1_0.25_128,label,0.007275468741365595
+,,,nematode,5.234325
+,,,spotlight,4.6117563
+,,,digital clock,4.6037183
+,,,match,4.355085
+,,,jack-o'-lantern,4.1060038
+mobilenet_v1_0.25_128,label,0.007348778767543173
+,,,nematode,5.2659206
+,,,spotlight,4.632122
+,,,digital clock,4.629692
+,,,match,4.3709445
+,,,jack-o'-lantern,4.13575
+mobilenet_v1_0.25_128,label,0.007193424426193231
+,,,nematode,5.2091665
+,,,spotlight,4.613514
+,,,digital clock,4.5940742
+,,,match,4.3486166
+,,,jack-o'-lantern,4.1253653
+mobilenet_v1_0.25_128,label,0.007339089741904462
+,,,nematode,5.186119
+,,,spotlight,4.5874867
+,,,digital clock,4.5506763
+,,,match,4.3138943
+,,,jack-o'-lantern,4.071433
+mobilenet_v1_0.25_128,label,0.007270495059289874
+,,,nematode,5.258853
+,,,digital clock,4.642194
+,,,spotlight,4.641957
+,,,match,4.3623624
+,,,jack-o'-lantern,4.1243343
+mobilenet_v1_0.25_128,label,0.007089790305116402
+,,,nematode,5.252468
+,,,spotlight,4.6248145
+,,,digital clock,4.5961075
+,,,match,4.3599596
+,,,jack-o'-lantern,4.1434193
+mobilenet_v1_0.25_128,label,0.006973078660847352
+,,,nematode,5.220819
+,,,spotlight,4.6047144
+,,,digital clock,4.5869503
+,,,match,4.3446794
+,,,jack-o'-lantern,4.118889
+mobilenet_v1_0.25_128,label,0.00698516038894655
+,,,nematode,5.2618337
+,,,digital clock,4.633253
+,,,spotlight,4.6294494
+,,,match,4.3623962
+,,,jack-o'-lantern,4.1405973
+mobilenet_v1_0.25_128,label,0.0072340112833998976
+,,,nematode,5.251809
+,,,spotlight,4.629968
+,,,digital clock,4.6251345
+,,,match,4.359791
+,,,jack-o'-lantern,4.1236725
+mobilenet_v1_0.25_128,label,0.00731854791452847
+,,,nematode,5.244802
+,,,spotlight,4.6187963
+,,,digital clock,4.591508
+,,,match,4.3607974
+,,,jack-o'-lantern,4.1045723
+mobilenet_v1_0.25_128,label,0.007221695373378556
+,,,nematode,5.2380123
+,,,digital clock,4.64357
+,,,spotlight,4.6417003
+,,,match,4.357921
+,,,jack-o'-lantern,4.1052675
+mobilenet_v1_0.25_128,label,0.00719277655892643
+,,,nematode,5.218607
+,,,spotlight,4.614116
+,,,digital clock,4.5971417
+,,,match,4.328025
+,,,jack-o'-lantern,4.1082134
+mobilenet_v1_0.25_128,label,0.007006369096571103
+,,,nematode,5.25908
+,,,spotlight,4.6241093
+,,,digital clock,4.601931
+,,,match,4.3669133
+,,,jack-o'-lantern,4.10709
+mobilenet_v1_0.25_128,label,0.007385753926624224
+,,,nematode,5.2473545
+,,,spotlight,4.6234827
+,,,digital clock,4.6014943
+,,,match,4.3493633
+,,,jack-o'-lantern,4.1357164
+mobilenet_v1_0.25_128,label,0.007420690674923521
+,,,nematode,5.2410226
+,,,spotlight,4.622107
+,,,digital clock,4.588757
+,,,match,4.3406568
+,,,jack-o'-lantern,4.0891027
+mobilenet_v1_0.25_128,label,0.007441135422926732
+,,,nematode,5.214711
+,,,spotlight,4.6102433
+,,,digital clock,4.604796
+,,,match,4.3232255
+,,,jack-o'-lantern,4.095976
+mobilenet_v1_0.25_128,label,0.00707894089479053
+,,,nematode,5.2355137
+,,,spotlight,4.599994
+,,,digital clock,4.5999703
+,,,match,4.3394365
+,,,jack-o'-lantern,4.1084204
+mobilenet_v1_0.25_128,label,0.006985348057826509
+,,,nematode,5.2663393
+,,,spotlight,4.641798
+,,,digital clock,4.5968075
+,,,match,4.3637466
+,,,jack-o'-lantern,4.138686
+mobilenet_v1_0.25_128,label,0.007378567766371382
+,,,nematode,5.2303457
+,,,spotlight,4.6314893
+,,,digital clock,4.6210966
+,,,match,4.3668094
+,,,jack-o'-lantern,4.14493
+mobilenet_v1_0.25_128,label,0.007212239739636752
+,,,nematode,5.257425
+,,,spotlight,4.6186185
+,,,digital clock,4.603974
+,,,match,4.360591
+,,,jack-o'-lantern,4.112095
+mobilenet_v1_0.25_128,label,0.0071111602129602285
+,,,nematode,5.222972
+,,,spotlight,4.626751
+,,,digital clock,4.6134944
+,,,match,4.359346
+,,,jack-o'-lantern,4.1958885
+mobilenet_v1_0.25_128,label,0.007176892528098289
+,,,nematode,5.233575
+,,,spotlight,4.6034083
+,,,digital clock,4.5949616
+,,,match,4.321618
+,,,jack-o'-lantern,4.1060753
+mobilenet_v1_0.25_128,label,0.006942078027175069
+,,,nematode,5.229061
+,,,spotlight,4.602137
+,,,digital clock,4.550447
+,,,match,4.3349056
+,,,jack-o'-lantern,4.11784
+mobilenet_v1_0.25_128,label,0.006919888740834813
+,,,nematode,5.257513
+,,,spotlight,4.6371403
+,,,digital clock,4.634965
+,,,match,4.357525
+,,,jack-o'-lantern,4.1056566
+mobilenet_v1_0.25_128,label,0.007261974446688312
+,,,nematode,5.255499
+,,,spotlight,4.6426725
+,,,digital clock,4.6387296
+,,,match,4.3691287
+,,,jack-o'-lantern,4.105052
+mobilenet_v1_0.25_128,label,0.00738372711311483
+,,,nematode,5.248195
+,,,spotlight,4.606011
+,,,digital clock,4.5752225
+,,,match,4.3242955
+,,,jack-o'-lantern,4.141529
+mobilenet_v1_0.25_128,label,0.007218369561449448
+,,,nematode,5.2149887
+,,,spotlight,4.610902
+,,,digital clock,4.5702977
+,,,match,4.329999
+,,,jack-o'-lantern,4.147458
+mobilenet_v1_0.25_128,label,0.007049987731916205
+,,,nematode,5.2366056
+,,,spotlight,4.6131005
+,,,digital clock,4.584082
+,,,match,4.3406596
+,,,jack-o'-lantern,4.0987005
+mobilenet_v1_0.25_128,label,0.00726187928493301
+,,,nematode,5.225672
+,,,spotlight,4.6016116
+,,,digital clock,4.5854506
+,,,match,4.323956
+,,,jack-o'-lantern,4.099313
+mobilenet_v1_0.25_128,label,0.007384091874807811
+,,,nematode,5.2059197
+,,,spotlight,4.6049037
+,,,digital clock,4.5707726
+,,,match,4.3390255
+,,,jack-o'-lantern,4.102622
+mobilenet_v1_0.25_128,label,0.007305030194026982
+,,,nematode,5.241729
+,,,spotlight,4.634164
+,,,digital clock,4.62794
+,,,match,4.3659387
+,,,jack-o'-lantern,4.140441
+mobilenet_v1_0.25_128,label,0.007135074139970756
+,,,nematode,5.2511177
+,,,spotlight,4.6163144
+,,,digital clock,4.606426
+,,,match,4.3242974
+,,,jack-o'-lantern,4.095192
+mobilenet_v1_0.75_192_quant,label,0.10749746007616029
+,,,nematode,6.397215
+,,,match,5.773096
+,,,digital clock,5.461037
+,,,spotlight,5.3050075
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.1034759493423146
+,,,nematode,6.397215
+,,,match,5.617067
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,lighter,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10923344526827249
+,,,nematode,6.241185
+,,,match,5.617067
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10919991171766638
+,,,nematode,6.397215
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10948958872990164
+,,,nematode,6.241185
+,,,match,5.617067
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10555353018178815
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10429688867852344
+,,,nematode,6.397215
+,,,match,5.773096
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10465695837990496
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10349026456177614
+,,,nematode,6.397215
+,,,match,5.617067
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.11049867033698214
+,,,nematode,6.397215
+,,,match,5.617067
+,,,digital clock,5.461037
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10378261302686051
+,,,nematode,6.397215
+,,,match,5.773096
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.1064375468928334
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10867522367937245
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10865415045448674
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.1044651399020777
+,,,nematode,6.241185
+,,,match,5.773096
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10654856144785539
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10235157798641324
+,,,nematode,6.397215
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.1084272833863159
+,,,nematode,6.397215
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10619020446574846
+,,,nematode,6.397215
+,,,match,5.773096
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10714481885771789
+,,,nematode,6.397215
+,,,match,5.617067
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10638046461690902
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.1089623936772366
+,,,nematode,6.241185
+,,,match,5.773096
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10543794927817596
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10963037977199962
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10602343813686547
+,,,nematode,6.241185
+,,,match,5.773096
+,,,digital clock,5.461037
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10285776217448668
+,,,nematode,6.397215
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10848251790355758
+,,,nematode,6.397215
+,,,match,5.773096
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,lighter,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10726395917074037
+,,,nematode,6.397215
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10571482754502204
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10387738001638408
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.107610593329675
+,,,nematode,6.241185
+,,,match,5.617067
+,,,digital clock,5.3050075
+,,,spotlight,5.1489778
+,,,jack-o'-lantern,4.992948
+mobilenet_v1_0.75_192_quant,label,0.10616942936320606
+,,,nematode,6.241185
+,,,match,5.773096
+,,,spotlight,5.3050075
+,,,digital clock,5.3050075
+,,,lighter,4.992948
+mobilenet_v1_1.0_160,label,0.09486401716235228
+,,,match,6.222815
+,,,digital clock,5.070738
+,,,lighter,4.9389553
+,,,nematode,4.7500386
+,,,spotlight,4.4529624
+mobilenet_v1_1.0_160,label,0.09836138548142029
+,,,match,6.257104
+,,,digital clock,5.118729
+,,,lighter,4.9662805
+,,,nematode,4.8013225
+,,,spotlight,4.483854
+mobilenet_v1_1.0_160,label,0.09343816076854089
+,,,match,6.332359
+,,,digital clock,5.118451
+,,,lighter,4.9455338
+,,,nematode,4.8215284
+,,,spotlight,4.5175724
+mobilenet_v1_1.0_160,label,0.09884428463763
+,,,match,6.2721624
+,,,digital clock,5.0812235
+,,,lighter,4.922474
+,,,nematode,4.8289227
+,,,spotlight,4.4961824
+mobilenet_v1_1.0_160,label,0.0954418066993155
+,,,match,6.32025
+,,,digital clock,5.102245
+,,,lighter,4.9955063
+,,,nematode,4.82836
+,,,spotlight,4.5202956
+mobilenet_v1_1.0_160,label,0.09470034644736038
+,,,match,6.26137
+,,,digital clock,5.130416
+,,,lighter,4.9553676
+,,,nematode,4.8365717
+,,,spotlight,4.549194
+mobilenet_v1_1.0_160,label,0.09642774056275243
+,,,match,6.26731
+,,,digital clock,5.0923314
+,,,lighter,4.961266
+,,,nematode,4.8092403
+,,,spotlight,4.503754
+mobilenet_v1_1.0_160,label,0.09814711535950195
+,,,match,6.3047037
+,,,digital clock,5.0835524
+,,,lighter,4.932181
+,,,nematode,4.8400946
+,,,spotlight,4.516648
+mobilenet_v1_1.0_160,label,0.09545726937020783
+,,,match,6.271919
+,,,digital clock,5.10799
+,,,lighter,4.926791
+,,,nematode,4.852471
+,,,spotlight,4.4640694
+mobilenet_v1_1.0_160,label,0.0974260991636112
+,,,match,6.2603035
+,,,digital clock,5.090885
+,,,lighter,4.9335017
+,,,nematode,4.8438845
+,,,spotlight,4.4479628
+mobilenet_v1_1.0_160,label,0.09803649204721182
+,,,match,6.3321548
+,,,digital clock,5.117468
+,,,lighter,4.952849
+,,,nematode,4.9395413
+,,,spotlight,4.5137553
+mobilenet_v1_1.0_160,label,0.09919807821209767
+,,,match,6.320004
+,,,digital clock,5.1067653
+,,,lighter,4.952734
+,,,nematode,4.8703947
+,,,spotlight,4.4730744
+mobilenet_v1_1.0_160,label,0.09682914202274474
+,,,match,6.3123765
+,,,digital clock,5.127091
+,,,lighter,4.9537787
+,,,nematode,4.889192
+,,,spotlight,4.5025215
+mobilenet_v1_1.0_160,label,0.09668931530307676
+,,,match,6.323599
+,,,digital clock,5.1063857
+,,,lighter,4.974761
+,,,nematode,4.8637986
+,,,spotlight,4.534366
+mobilenet_v1_1.0_160,label,0.09760379791405598
+,,,match,6.305138
+,,,digital clock,5.0860763
+,,,lighter,4.9572663
+,,,nematode,4.861168
+,,,spotlight,4.535196
+mobilenet_v1_1.0_160,label,0.09394319413129859
+,,,match,6.2828255
+,,,digital clock,5.1001134
+,,,lighter,4.9522758
+,,,nematode,4.856414
+,,,spotlight,4.5343814
+mobilenet_v1_1.0_160,label,0.09641044117276848
+,,,match,6.271737
+,,,digital clock,5.087373
+,,,lighter,4.931588
+,,,nematode,4.837921
+,,,spotlight,4.469847
+mobilenet_v1_1.0_160,label,0.09317753560049773
+,,,match,6.2021384
+,,,digital clock,5.07925
+,,,lighter,4.9128866
+,,,nematode,4.811511
+,,,spotlight,4.4592953
+mobilenet_v1_1.0_160,label,0.09786214154472911
+,,,match,6.2799244
+,,,digital clock,5.1052694
+,,,nematode,4.962924
+,,,lighter,4.91728
+,,,spotlight,4.502473
+mobilenet_v1_1.0_160,label,0.09603613655128555
+,,,match,6.305206
+,,,digital clock,5.1200995
+,,,lighter,4.973982
+,,,nematode,4.8569555
+,,,spotlight,4.5255938
+mobilenet_v1_1.0_160,label,0.09760400074034944
+,,,match,6.342038
+,,,digital clock,5.1422625
+,,,lighter,4.9454813
+,,,nematode,4.911821
+,,,spotlight,4.5075912
+mobilenet_v1_1.0_160,label,0.09653024676548176
+,,,match,6.2569385
+,,,digital clock,5.0720186
+,,,lighter,4.9155526
+,,,nematode,4.7720213
+,,,spotlight,4.4887323
+mobilenet_v1_1.0_160,label,0.09492558752117754
+,,,match,6.3245926
+,,,digital clock,5.1302114
+,,,lighter,4.926454
+,,,nematode,4.9174747
+,,,spotlight,4.510677
+mobilenet_v1_1.0_160,label,0.09581471735889541
+,,,match,6.2772775
+,,,digital clock,5.087873
+,,,lighter,4.9325767
+,,,nematode,4.8269067
+,,,spotlight,4.4892006
+mobilenet_v1_1.0_160,label,0.09798271302240806
+,,,match,6.1916294
+,,,digital clock,5.0743756
+,,,lighter,4.9324107
+,,,nematode,4.732901
+,,,spotlight,4.4879255
+mobilenet_v1_1.0_160,label,0.09416714640413151
+,,,match,6.2779727
+,,,digital clock,5.099528
+,,,lighter,4.9364038
+,,,nematode,4.884664
+,,,spotlight,4.5276856
+mobilenet_v1_1.0_160,label,0.09412721687009432
+,,,match,6.3278255
+,,,digital clock,5.104357
+,,,lighter,4.951225
+,,,nematode,4.7818713
+,,,spotlight,4.493361
+mobilenet_v1_1.0_160,label,0.09900435481123532
+,,,match,6.3470893
+,,,digital clock,5.140054
+,,,lighter,5.0171714
+,,,nematode,4.8729563
+,,,spotlight,4.5859604
+mobilenet_v1_1.0_160,label,0.09494475166545811
+,,,match,6.3605113
+,,,digital clock,5.142137
+,,,lighter,4.9773755
+,,,nematode,4.9618087
+,,,spotlight,4.562575
+mobilenet_v1_1.0_160,label,0.0967964955368668
+,,,match,6.2502937
+,,,digital clock,5.081249
+,,,lighter,4.9248705
+,,,nematode,4.8181496
+,,,spotlight,4.468325
+mobilenet_v1_1.0_160,label,0.0938061440631606
+,,,match,6.3277955
+,,,digital clock,5.097867
+,,,lighter,4.9705772
+,,,nematode,4.8064666
+,,,spotlight,4.497673
+mobilenet_v1_1.0_160,label,0.09918655205622255
+,,,match,6.244049
+,,,digital clock,5.0907426
+,,,lighter,4.9575005
+,,,nematode,4.795268
+,,,spotlight,4.4715295
+mobilenet_v1_0.5_192_quant,label,0.058555020216185714
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,4.028637
+mobilenet_v1_0.5_192_quant,label,0.05978072892606431
+,,,nematode,5.222307
+,,,match,4.625472
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05997580801124311
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.058590616565039576
+,,,nematode,5.073098
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,jack-o'-lantern,4.028637
+,,,spotlight,4.028637
+mobilenet_v1_0.5_192_quant,label,0.05917416289873944
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06035728181170639
+,,,nematode,5.222307
+,,,match,4.625472
+,,,digital clock,4.177846
+,,,spotlight,3.8794284
+,,,jack-o'-lantern,3.7302196
+mobilenet_v1_0.5_192_quant,label,0.05862537682546951
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06185643828026293
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.058384783185828154
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05860713474907264
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.0596306585060249
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05960071308287663
+,,,nematode,5.073098
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05810180219530504
+,,,nematode,5.073098
+,,,match,4.625472
+,,,digital clock,4.177846
+,,,spotlight,3.8794284
+,,,jack-o'-lantern,3.7302196
+mobilenet_v1_0.5_192_quant,label,0.05899738138139039
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.177846
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05935455310328696
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.177846
+,,,jack-o'-lantern,4.028637
+mobilenet_v1_0.5_192_quant,label,0.06107413448442412
+,,,nematode,5.3715158
+,,,match,4.9238896
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06094029568441748
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.058387245601030265
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.177846
+,,,spotlight,3.8794284
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06093860449926486
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06162373861731078
+,,,nematode,5.073098
+,,,match,4.625472
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05872340285515352
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06020216915435011
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06083284411179917
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,4.028637
+mobilenet_v1_0.5_192_quant,label,0.06106905552519888
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05953094297859307
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.05825624022848854
+,,,nematode,5.073098
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.0585205304224853
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,jack-o'-lantern,4.028637
+,,,spotlight,4.028637
+mobilenet_v1_0.5_192_quant,label,0.060982078589639284
+,,,nematode,5.222307
+,,,match,4.625472
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.060282745032384885
+,,,nematode,5.222307
+,,,match,4.625472
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.06118601518102542
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.057989937304338164
+,,,nematode,5.073098
+,,,match,4.774681
+,,,digital clock,4.177846
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.5_192_quant,label,0.058287843713753305
+,,,nematode,5.222307
+,,,match,4.774681
+,,,digital clock,4.3270545
+,,,spotlight,4.028637
+,,,jack-o'-lantern,3.8794284
+mobilenet_v1_0.75_160_quant,label,0.08036545660265701
+,,,match,5.34015
+,,,nematode,5.1875744
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07729451715484274
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07839837814413099
+,,,match,5.1875744
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.0803345909618378
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07760839360402255
+,,,match,5.34015
+,,,nematode,4.882423
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08059545150113288
+,,,match,5.34015
+,,,digital clock,4.882423
+,,,nematode,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07689203505208257
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.0786389477152504
+,,,match,5.34015
+,,,digital clock,4.882423
+,,,nematode,4.882423
+,,,spotlight,4.27212
+,,,wing,3.661817
+mobilenet_v1_0.75_160_quant,label,0.07889678522191071
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.0821711750362761
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.0821884902809126
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.0805834224704137
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08039786680100672
+,,,match,5.492726
+,,,digital clock,5.0349984
+,,,nematode,5.0349984
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07909705028555233
+,,,match,5.1875744
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08151434351958993
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07874889985788755
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08066769456347248
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07834483861694694
+,,,match,5.34015
+,,,nematode,5.1875744
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07728593023615067
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07915270933296609
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08238509860077395
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07913927281797759
+,,,match,5.34015
+,,,nematode,4.882423
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07966493068882766
+,,,match,5.34015
+,,,digital clock,4.882423
+,,,nematode,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07712380324280425
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.4246955
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08086960251348091
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.08086635311524312
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07849809650433771
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07863296466708389
+,,,match,5.1875744
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07851649591017777
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07989742335701513
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.07758525138439802
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_160_quant,label,0.0819546315942301
+,,,match,5.34015
+,,,nematode,5.0349984
+,,,digital clock,4.882423
+,,,spotlight,4.27212
+,,,lighter,3.8143928
+mobilenet_v1_0.75_224_quant,label,0.14078823597976037
+,,,match,5.609416
+,,,nematode,4.96834
+,,,digital clock,4.1669946
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.1379512312268423
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.14006706481631942
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.1367848044998072
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.14298987760650214
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.14261894952164741
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.14354344326326182
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13622365899154815
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.1433327530452053
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13595539313849353
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.14246020419248415
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.1363401813058653
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13624925571918686
+,,,match,5.929954
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13983948114692524
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.14312658104605247
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.14227034808436906
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13721279257430422
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13816699512828876
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.13571851273028157
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.1343740819463361
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.1387261055583683
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13722074433100126
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.14162123513984157
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.1370269300667155
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,spotlight,4.327264
+,,,digital clock,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.1355189899772586
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.1368464658074912
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.1387569769245182
+,,,match,5.769685
+,,,nematode,4.96834
+,,,spotlight,4.327264
+,,,digital clock,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.13535944536851194
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.14215491087201748
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.1409477363796391
+,,,match,5.769685
+,,,nematode,4.96834
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,3.8464565
+mobilenet_v1_0.75_224_quant,label,0.13877718160025998
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,digital clock,4.327264
+,,,spotlight,4.1669946
+,,,lampshade,4.0067253
+mobilenet_v1_0.75_224_quant,label,0.13827436717338507
+,,,match,5.769685
+,,,nematode,5.1286087
+,,,digital clock,4.327264
+,,,spotlight,4.327264
+,,,lampshade,4.0067253
+mobilenet_v1_0.25_224_quant,label,0.02905993272423437
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.441949
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.028656398151151025
+,,,nematode,5.3016806
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.030771477095230638
+,,,nematode,5.444969
+,,,match,4.8718147
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.029370143828226388
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.441949
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.029133535440536422
+,,,nematode,5.444969
+,,,match,4.8718147
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.02918281979607429
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.029177516229031
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.441949
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.029561184391773517
+,,,nematode,5.444969
+,,,match,4.8718147
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.02905550965762925
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.030379727163158413
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.5852375
+,,,digital clock,4.441949
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.02953085018513935
+,,,nematode,5.3016806
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.029436752678860163
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.441949
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.030293549134650898
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.030239480738854296
+,,,nematode,5.3016806
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.441949
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.029063140964455312
+,,,nematode,5.3016806
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.441949
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.03005328890219836
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.03046047042180476
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.028962019919996782
+,,,nematode,5.3016806
+,,,match,4.728526
+,,,spotlight,4.5852375
+,,,digital clock,4.441949
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.0288191569033032
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.03035179790215922
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.030054808059881862
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.02868448016656327
+,,,nematode,5.444969
+,,,match,4.8718147
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.030065716465350792
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.029323755824881333
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.5852375
+,,,digital clock,4.441949
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.030206192917755354
+,,,nematode,5.3016806
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.0300461260792208
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.029730375498972023
+,,,nematode,5.444969
+,,,match,4.8718147
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.029421717431218394
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.029366555148679405
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.03001137613385896
+,,,nematode,5.444969
+,,,match,4.728526
+,,,spotlight,4.5852375
+,,,digital clock,4.5852375
+,,,lighter,4.0120826
+mobilenet_v1_0.25_224_quant,label,0.029459357992743424
+,,,nematode,5.444969
+,,,spotlight,4.728526
+,,,match,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_224_quant,label,0.030322893942124732
+,,,nematode,5.588258
+,,,match,4.8718147
+,,,spotlight,4.728526
+,,,digital clock,4.5852375
+,,,lighter,4.155371
+mobilenet_v1_0.25_160_quant,label,0.016038992360483492
+,,,nematode,4.3227825
+,,,spotlight,4.0526085
+,,,match,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016497322606378012
+,,,nematode,4.4578695
+,,,match,4.0526085
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016647840388836432
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01632325235161436
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016134019159253516
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016054892025093127
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01699267541226207
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.1876955
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01649868771009939
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016884866204203874
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.1876955
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016386399923677287
+,,,nematode,4.3227825
+,,,spotlight,4.1876955
+,,,match,4.1876955
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01698893758883526
+,,,nematode,4.3227825
+,,,spotlight,4.1876955
+,,,match,4.1876955
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01673321254010823
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016187665856514617
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016858321149854923
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01634542334205145
+,,,nematode,4.5929565
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01671541341168463
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01662756118837553
+,,,nematode,4.5929565
+,,,spotlight,4.1876955
+,,,match,4.1876955
+,,,lampshade,3.9175217
+,,,digital clock,3.6473477
+mobilenet_v1_0.25_160_quant,label,0.016901106422533712
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01706000977776291
+,,,nematode,4.4578695
+,,,spotlight,4.1876955
+,,,match,4.1876955
+,,,lampshade,4.0526085
+,,,lighter,3.6473477
+mobilenet_v1_0.25_160_quant,label,0.017167423767606393
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.1876955
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01609082727065357
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016617619373868357
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.0162799092182719
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016891693343963805
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01720656754037393
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.1876955
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01622327633635324
+,,,nematode,4.5929565
+,,,spotlight,4.1876955
+,,,match,4.1876955
+,,,lampshade,4.0526085
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01693566785438616
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016535295719919154
+,,,nematode,4.3227825
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016091303083935672
+,,,nematode,4.5929565
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.01656120465769345
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016444294616728302
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.1876955
+,,,lampshade,3.9175217
+,,,digital clock,3.5122607
+mobilenet_v1_0.25_160_quant,label,0.016209726679282336
+,,,nematode,4.4578695
+,,,match,4.1876955
+,,,spotlight,4.0526085
+,,,lampshade,3.9175217
+,,,lighter,3.5122607
+mobilenet_v1_1.0_192_quant,label,0.17105004387883638
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,4.946588
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16785828728371255
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16401649052004758
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.15795268514024166
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.451929
+mobilenet_v1_1.0_192_quant,label,0.1670402926255709
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.451929
+mobilenet_v1_1.0_192_quant,label,0.159848123309312
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1610828745590726
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,lighter,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16212880099629265
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1608938773592053
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.15783426781879695
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1668207879462146
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,4.946588
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16427638846906534
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16327545741659039
+,,,match,5.606133
+,,,nematode,5.606133
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,lighter,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1637337364024272
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,lighter,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16659856387918467
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16808137173289028
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16707968592086492
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16502167134080306
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,4.946588
+,,,jack-o'-lantern,4.6168156
+,,,lighter,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1638851579345326
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.451929
+mobilenet_v1_1.0_192_quant,label,0.16215080429052092
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.451929
+mobilenet_v1_1.0_192_quant,label,0.16850421931258602
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1693409348099725
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.1670023426094829
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16141361484976735
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.15954348088810838
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.451929
+mobilenet_v1_1.0_192_quant,label,0.16040196555722844
+,,,match,5.606133
+,,,nematode,5.606133
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.15934024598882437
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,4.946588
+,,,jack-o'-lantern,4.6168156
+,,,lighter,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16702229077285835
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,4.946588
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16402219928511452
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16391754567229996
+,,,nematode,5.441247
+,,,match,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16760834388099755
+,,,match,5.606133
+,,,nematode,5.441247
+,,,digital clock,5.1114745
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_192_quant,label,0.16069797859389792
+,,,match,5.441247
+,,,nematode,5.441247
+,,,digital clock,4.946588
+,,,jack-o'-lantern,4.6168156
+,,,spotlight,4.287043
+mobilenet_v1_1.0_128_quant,label,0.08733960080243568
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.2830596
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08539446546153653
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08487479005319462
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.09043847590536722
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.4416914
+,,,spotlight,4.124428
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08487051799583452
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08738409109033717
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08643466760842923
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08713449795259635
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.0879806537714658
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.2830596
+,,,lighter,4.124428
+,,,spotlight,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08833592476039419
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.2830596
+,,,spotlight,4.124428
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08993186545688099
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.2830596
+,,,spotlight,4.2830596
+,,,candle,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08949022923856678
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08797607239350322
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08916936142340148
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.2830596
+,,,spotlight,4.124428
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08720362755102831
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08750012876992139
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.2830596
+,,,spotlight,4.2830596
+,,,candle,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08997449390143125
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.2830596
+,,,lighter,4.124428
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08995219209521006
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.4416914
+,,,lighter,4.124428
+,,,spotlight,4.124428
+mobilenet_v1_1.0_128_quant,label,0.0896858709792075
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08605878917543108
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08770125078758674
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,candle,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08776274541030633
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08500937477510045
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08918279685291751
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.2830596
+,,,spotlight,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08861133162103646
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.09030855940447025
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08467829452124494
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,candle,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08710482159889588
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08728319528439807
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,lighter,4.124428
+mobilenet_v1_1.0_128_quant,label,0.09006349990548414
+,,,match,5.2348504
+,,,nematode,4.758955
+,,,digital clock,4.2830596
+,,,spotlight,4.2830596
+,,,candle,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08512643013643827
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,spotlight,4.2830596
+,,,digital clock,4.2830596
+,,,jack-o'-lantern,4.124428
+mobilenet_v1_1.0_128_quant,label,0.08769827699750093
+,,,match,5.2348504
+,,,nematode,4.917587
+,,,digital clock,4.4416914
+,,,spotlight,4.2830596
+,,,candle,4.124428
+mobilenet_v1_1.0_192,label,0.1357527160591507
+,,,match,5.699508
+,,,nematode,5.445298
+,,,digital clock,5.417863
+,,,jack-o'-lantern,4.7633595
+,,,spotlight,4.5671034
+mobilenet_v1_1.0_192,label,0.1336725378574138
+,,,match,5.659252
+,,,digital clock,5.448486
+,,,nematode,5.4173775
+,,,jack-o'-lantern,4.7850995
+,,,spotlight,4.633017
+mobilenet_v1_1.0_192,label,0.1299005993037845
+,,,match,5.6424327
+,,,nematode,5.456498
+,,,digital clock,5.40263
+,,,jack-o'-lantern,4.7064314
+,,,spotlight,4.5879693
+mobilenet_v1_1.0_192,label,0.13046348144049466
+,,,match,5.666311
+,,,nematode,5.4378414
+,,,digital clock,5.3961997
+,,,jack-o'-lantern,4.7880697
+,,,spotlight,4.5168777
+mobilenet_v1_1.0_192,label,0.13139782277816167
+,,,match,5.658487
+,,,digital clock,5.349512
+,,,nematode,5.293432
+,,,jack-o'-lantern,4.813737
+,,,spotlight,4.501162
+mobilenet_v1_1.0_192,label,0.13097300228434516
+,,,match,5.715254
+,,,digital clock,5.441105
+,,,nematode,5.4216156
+,,,jack-o'-lantern,4.792289
+,,,spotlight,4.548446
+mobilenet_v1_1.0_192,label,0.13522988405816458
+,,,match,5.678747
+,,,digital clock,5.393752
+,,,nematode,5.3841724
+,,,jack-o'-lantern,4.7185826
+,,,spotlight,4.5528197
+mobilenet_v1_1.0_192,label,0.13877591034862802
+,,,match,5.659631
+,,,nematode,5.473402
+,,,digital clock,5.4344497
+,,,jack-o'-lantern,4.759931
+,,,spotlight,4.567075
+mobilenet_v1_1.0_192,label,0.1341881924270513
+,,,match,5.622184
+,,,nematode,5.4030294
+,,,digital clock,5.399826
+,,,jack-o'-lantern,4.7829413
+,,,spotlight,4.5506144
+mobilenet_v1_1.0_192,label,0.1298934007083317
+,,,match,5.61877
+,,,digital clock,5.380811
+,,,nematode,5.3734007
+,,,jack-o'-lantern,4.7357297
+,,,spotlight,4.5309453
+mobilenet_v1_1.0_192,label,0.12708721598829217
+,,,match,5.648502
+,,,nematode,5.371299
+,,,digital clock,5.3684344
+,,,jack-o'-lantern,4.734697
+,,,spotlight,4.545008
+mobilenet_v1_1.0_192,label,0.13519852541315752
+,,,match,5.6612234
+,,,nematode,5.418256
+,,,digital clock,5.4014783
+,,,jack-o'-lantern,4.6581964
+,,,spotlight,4.559837
+mobilenet_v1_1.0_192,label,0.13084905731361957
+,,,match,5.646624
+,,,digital clock,5.4072313
+,,,nematode,5.392559
+,,,jack-o'-lantern,4.764312
+,,,spotlight,4.5320582
+mobilenet_v1_1.0_192,label,0.13579825870013496
+,,,match,5.6777577
+,,,nematode,5.4551353
+,,,digital clock,5.4502983
+,,,jack-o'-lantern,4.7871466
+,,,spotlight,4.6014
+mobilenet_v1_1.0_192,label,0.1278100982828182
+,,,match,5.6487427
+,,,digital clock,5.4118114
+,,,nematode,5.377454
+,,,jack-o'-lantern,4.804446
+,,,spotlight,4.567972
+mobilenet_v1_1.0_192,label,0.13101223260150516
+,,,match,5.6816587
+,,,digital clock,5.3915
+,,,nematode,5.3729496
+,,,jack-o'-lantern,4.752798
+,,,spotlight,4.5525823
+mobilenet_v1_1.0_192,label,0.13504373351734877
+,,,match,5.6847196
+,,,nematode,5.4116135
+,,,digital clock,5.372743
+,,,jack-o'-lantern,4.753905
+,,,spotlight,4.516563
+mobilenet_v1_1.0_192,label,0.1363950680757996
+,,,match,5.717135
+,,,digital clock,5.4044676
+,,,nematode,5.378249
+,,,jack-o'-lantern,4.785649
+,,,spotlight,4.5766997
+mobilenet_v1_1.0_192,label,0.1324564799667721
+,,,match,5.7112556
+,,,nematode,5.4353952
+,,,digital clock,5.4282
+,,,jack-o'-lantern,4.7858167
+,,,spotlight,4.6168737
+mobilenet_v1_1.0_192,label,0.13278018222827384
+,,,match,5.678724
+,,,digital clock,5.462403
+,,,nematode,5.4316664
+,,,jack-o'-lantern,4.8025093
+,,,spotlight,4.6291485
+mobilenet_v1_1.0_192,label,0.1307763236093131
+,,,match,5.6385145
+,,,digital clock,5.4224977
+,,,nematode,5.40456
+,,,jack-o'-lantern,4.786963
+,,,spotlight,4.539463
+mobilenet_v1_1.0_192,label,0.1297659979269116
+,,,match,5.723588
+,,,digital clock,5.4602737
+,,,nematode,5.381777
+,,,jack-o'-lantern,4.8032503
+,,,spotlight,4.5918093
+mobilenet_v1_1.0_192,label,0.1325987814780795
+,,,match,5.7080584
+,,,nematode,5.4673605
+,,,digital clock,5.4264083
+,,,jack-o'-lantern,4.709979
+,,,spotlight,4.557943
+mobilenet_v1_1.0_192,label,0.12995022104897588
+,,,match,5.6953735
+,,,digital clock,5.4481673
+,,,nematode,5.4003744
+,,,jack-o'-lantern,4.7804646
+,,,spotlight,4.5988855
+mobilenet_v1_1.0_192,label,0.13432844974966066
+,,,match,5.6734147
+,,,nematode,5.3918447
+,,,digital clock,5.3504643
+,,,jack-o'-lantern,4.7174315
+,,,spotlight,4.5398974
+mobilenet_v1_1.0_192,label,0.13860495157818062
+,,,match,5.650291
+,,,digital clock,5.43139
+,,,nematode,5.4017067
+,,,jack-o'-lantern,4.7980604
+,,,spotlight,4.538373
+mobilenet_v1_1.0_192,label,0.130311469095558
+,,,match,5.689493
+,,,nematode,5.43299
+,,,digital clock,5.407823
+,,,jack-o'-lantern,4.714163
+,,,spotlight,4.5545497
+mobilenet_v1_1.0_192,label,0.13180964024968456
+,,,match,5.6142797
+,,,nematode,5.3878813
+,,,digital clock,5.3774934
+,,,jack-o'-lantern,4.749573
+,,,spotlight,4.582817
+mobilenet_v1_1.0_192,label,0.13421685510380615
+,,,match,5.6521235
+,,,digital clock,5.4334216
+,,,nematode,5.3977947
+,,,jack-o'-lantern,4.8000174
+,,,spotlight,4.538159
+mobilenet_v1_1.0_192,label,0.13675498912294226
+,,,match,5.7143297
+,,,digital clock,5.448482
+,,,nematode,5.444374
+,,,jack-o'-lantern,4.837991
+,,,spotlight,4.587714
+mobilenet_v1_1.0_192,label,0.13579646220171024
+,,,match,5.6357255
+,,,nematode,5.5009174
+,,,digital clock,5.4443808
+,,,jack-o'-lantern,4.8118415
+,,,spotlight,4.5624256
+mobilenet_v1_1.0_192,label,0.13351824459087927
+,,,match,5.66678
+,,,nematode,5.503418
+,,,digital clock,5.4866996
+,,,jack-o'-lantern,4.792539
+,,,pill bottle,4.5562844
+mobilenet_v1_0.5_224,label,0.058667920483172174
+,,,match,5.734612
+,,,nematode,5.263029
+,,,digital clock,4.8430734
+,,,jack-o'-lantern,4.3660607
+,,,spotlight,4.204638
+mobilenet_v1_0.5_224,label,0.05787529414903684
+,,,match,5.826928
+,,,nematode,5.2356515
+,,,digital clock,4.906382
+,,,jack-o'-lantern,4.373399
+,,,spotlight,4.2541256
+mobilenet_v1_0.5_224,label,0.05947464137848536
+,,,match,5.6884656
+,,,nematode,5.283777
+,,,digital clock,4.814536
+,,,jack-o'-lantern,4.369236
+,,,spotlight,4.1457834
+mobilenet_v1_0.5_224,label,0.05954512941283589
+,,,match,5.814316
+,,,nematode,5.2930055
+,,,digital clock,4.880298
+,,,jack-o'-lantern,4.3673167
+,,,spotlight,4.2588663
+mobilenet_v1_0.5_224,label,0.060718040566496455
+,,,match,5.8026104
+,,,nematode,5.336152
+,,,digital clock,4.934002
+,,,jack-o'-lantern,4.3857718
+,,,lampshade,4.190118
+mobilenet_v1_0.5_224,label,0.060306822953526004
+,,,match,5.7522087
+,,,nematode,5.291512
+,,,digital clock,4.8284645
+,,,jack-o'-lantern,4.3911843
+,,,spotlight,4.215944
+mobilenet_v1_0.5_224,label,0.058353298548457805
+,,,match,5.768214
+,,,nematode,5.3382416
+,,,digital clock,4.9063654
+,,,jack-o'-lantern,4.4321375
+,,,spotlight,4.2038846
+mobilenet_v1_0.5_224,label,0.05952116254278721
+,,,match,5.7628355
+,,,nematode,5.3128505
+,,,digital clock,4.889271
+,,,jack-o'-lantern,4.4094763
+,,,spotlight,4.136184
+mobilenet_v1_0.5_224,label,0.05806065645618841
+,,,match,5.9166255
+,,,nematode,5.455835
+,,,digital clock,4.9316287
+,,,jack-o'-lantern,4.398862
+,,,spotlight,4.2893186
+mobilenet_v1_0.5_224,label,0.05916224167034924
+,,,match,5.827186
+,,,nematode,5.3615084
+,,,digital clock,4.906031
+,,,jack-o'-lantern,4.3976955
+,,,spotlight,4.2440844
+mobilenet_v1_0.5_224,label,0.058682144265013024
+,,,match,5.8629627
+,,,nematode,5.3909326
+,,,digital clock,4.926781
+,,,jack-o'-lantern,4.3698616
+,,,spotlight,4.2249856
+mobilenet_v1_0.5_224,label,0.06083890466624639
+,,,match,5.7688103
+,,,nematode,5.2830153
+,,,digital clock,4.882974
+,,,jack-o'-lantern,4.387185
+,,,spotlight,4.183062
+mobilenet_v1_0.5_224,label,0.05740979251869569
+,,,match,5.8258896
+,,,nematode,5.318083
+,,,digital clock,4.907516
+,,,jack-o'-lantern,4.387907
+,,,spotlight,4.2428656
+mobilenet_v1_0.5_224,label,0.05580387933980909
+,,,match,5.717562
+,,,nematode,5.3042135
+,,,digital clock,4.8281374
+,,,jack-o'-lantern,4.344415
+,,,spotlight,4.156532
+mobilenet_v1_0.5_224,label,0.05674589280322567
+,,,match,5.8266745
+,,,nematode,5.3173046
+,,,digital clock,4.910419
+,,,jack-o'-lantern,4.431749
+,,,spotlight,4.2455316
+mobilenet_v1_0.5_224,label,0.05904947600325939
+,,,match,5.7078724
+,,,nematode,5.346907
+,,,digital clock,4.8323474
+,,,jack-o'-lantern,4.371167
+,,,spotlight,4.150139
+mobilenet_v1_0.5_224,label,0.05651662948861961
+,,,match,5.724991
+,,,nematode,5.3213377
+,,,digital clock,4.8348894
+,,,jack-o'-lantern,4.3580513
+,,,spotlight,4.2112045
+mobilenet_v1_0.5_224,label,0.05582913730560797
+,,,match,5.745681
+,,,nematode,5.3211384
+,,,digital clock,4.8416195
+,,,jack-o'-lantern,4.380488
+,,,spotlight,4.2216296
+mobilenet_v1_0.5_224,label,0.05894668871164586
+,,,match,5.7342634
+,,,nematode,5.349473
+,,,digital clock,4.880806
+,,,jack-o'-lantern,4.442203
+,,,spotlight,4.1711783
+mobilenet_v1_0.5_224,label,0.057374338284683
+,,,match,5.733247
+,,,nematode,5.344845
+,,,digital clock,4.8094225
+,,,jack-o'-lantern,4.3807616
+,,,spotlight,4.1713157
+mobilenet_v1_0.5_224,label,0.05870760159757065
+,,,match,5.7862134
+,,,nematode,5.329438
+,,,digital clock,4.8561974
+,,,jack-o'-lantern,4.355341
+,,,spotlight,4.2294326
+mobilenet_v1_0.5_224,label,0.0587548029004268
+,,,match,5.936522
+,,,nematode,5.3174257
+,,,digital clock,4.901986
+,,,jack-o'-lantern,4.3648076
+,,,spotlight,4.2936306
+mobilenet_v1_0.5_224,label,0.05937136365515066
+,,,match,5.8194156
+,,,nematode,5.3406515
+,,,digital clock,4.8848567
+,,,jack-o'-lantern,4.345115
+,,,spotlight,4.2350693
+mobilenet_v1_0.5_224,label,0.05864160914402895
+,,,match,5.8328757
+,,,nematode,5.375739
+,,,digital clock,4.886155
+,,,jack-o'-lantern,4.379608
+,,,spotlight,4.261027
+mobilenet_v1_0.5_224,label,0.05834629998944428
+,,,match,5.720544
+,,,nematode,5.2729845
+,,,digital clock,4.8438225
+,,,jack-o'-lantern,4.355508
+,,,spotlight,4.193768
+mobilenet_v1_0.5_224,label,0.055939991250620276
+,,,match,5.809961
+,,,nematode,5.349368
+,,,digital clock,4.90578
+,,,jack-o'-lantern,4.394181
+,,,spotlight,4.2388177
+mobilenet_v1_0.5_224,label,0.055567448305539786
+,,,match,5.8330297
+,,,nematode,5.3466253
+,,,digital clock,4.8894053
+,,,jack-o'-lantern,4.4168653
+,,,spotlight,4.22847
+mobilenet_v1_0.5_224,label,0.05676468333742148
+,,,match,5.855428
+,,,nematode,5.327773
+,,,digital clock,4.873751
+,,,jack-o'-lantern,4.373693
+,,,spotlight,4.2538776
+mobilenet_v1_0.5_224,label,0.055764594096992234
+,,,match,5.8135786
+,,,nematode,5.3570166
+,,,digital clock,4.8827963
+,,,jack-o'-lantern,4.380422
+,,,spotlight,4.2036963
+mobilenet_v1_0.5_224,label,0.05798992156672803
+,,,match,5.805927
+,,,nematode,5.315839
+,,,digital clock,4.938847
+,,,jack-o'-lantern,4.432988
+,,,spotlight,4.2261677
+mobilenet_v1_0.5_224,label,0.05659854348661909
+,,,match,5.7334714
+,,,nematode,5.306861
+,,,digital clock,4.8404775
+,,,jack-o'-lantern,4.395867
+,,,spotlight,4.2142553
+mobilenet_v1_0.5_224,label,0.057041581153182155
+,,,match,5.7100267
+,,,nematode,5.2590246
+,,,digital clock,4.864796
+,,,jack-o'-lantern,4.3853087
+,,,spotlight,4.2296405
+mobilenet_v1_1.0_160_quant,label,0.12685566384589161
+,,,match,6.147367
+,,,nematode,5.500276
+,,,digital clock,5.338503
+,,,lighter,4.6914115
+,,,spotlight,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.1281048906685112
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.1271560777245967
+,,,match,6.30914
+,,,nematode,5.8238215
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.1230654023019832
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12103012633510246
+,,,match,6.147367
+,,,nematode,5.662049
+,,,digital clock,5.338503
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12484714025095515
+,,,match,6.470913
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,5.0149574
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12201868444498853
+,,,match,6.30914
+,,,digital clock,5.500276
+,,,nematode,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12665988991772906
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12274898365465257
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.1262754939952907
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12351571466724613
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12057840351845907
+,,,match,6.30914
+,,,digital clock,5.500276
+,,,nematode,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12328897014331422
+,,,match,6.147367
+,,,nematode,5.500276
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12228977109841159
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12049964370365698
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.8531847
+mobilenet_v1_1.0_160_quant,label,0.12563976480993136
+,,,match,6.470913
+,,,nematode,5.8238215
+,,,digital clock,5.500276
+,,,spotlight,5.0149574
+,,,candle,4.8531847
+mobilenet_v1_1.0_160_quant,label,0.12375287973254497
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,5.0149574
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12340092676925955
+,,,match,6.30914
+,,,digital clock,5.500276
+,,,nematode,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12505244105354266
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12800740700001204
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12341999787835004
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,5.0149574
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12078666004711436
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12380213383126991
+,,,match,6.147367
+,,,nematode,5.500276
+,,,digital clock,5.338503
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.11997030504977768
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12128754214929349
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.1200853178354869
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12837456477284115
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12680091408064437
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,5.0149574
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12337734103325092
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12551481337297668
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,candle,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.1227029559285726
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_1.0_160_quant,label,0.12235175020165603
+,,,match,6.30914
+,,,nematode,5.662049
+,,,digital clock,5.500276
+,,,spotlight,4.8531847
+,,,lighter,4.6914115
+mobilenet_v1_0.25_192_quant,label,0.02365835634618879
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.023581607307304294
+,,,nematode,5.487669
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02269792026696004
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022164616348859332
+,,,nematode,5.487669
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.021864909984504452
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02264822111711568
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.021990078075629808
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02170473491584166
+,,,nematode,5.487669
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022421916948479528
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022811526942974385
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022333718689153487
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02188227318845406
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022012616602368876
+,,,nematode,5.487669
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02289134559258475
+,,,nematode,5.3469596
+,,,spotlight,4.5027027
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022581128756314343
+,,,nematode,5.487669
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02141743553168139
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02238054086718952
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022286743353229253
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02168824502507329
+,,,nematode,5.487669
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022710632926103907
+,,,nematode,5.487669
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022179915999716585
+,,,nematode,5.487669
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022399826036340064
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.021762740181481607
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lighter,3.658446
+mobilenet_v1_0.25_192_quant,label,0.021760303471176703
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02206256315578768
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02282995889248626
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02276492643996785
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.021882011594212037
+,,,nematode,5.3469596
+,,,match,4.3619933
+,,,spotlight,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022397247339548596
+,,,nematode,5.487669
+,,,spotlight,4.5027027
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022037512850198695
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.02230279860456094
+,,,nematode,5.3469596
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_0.25_192_quant,label,0.022523176698255744
+,,,nematode,5.487669
+,,,spotlight,4.3619933
+,,,match,4.3619933
+,,,digital clock,3.9398649
+,,,lampshade,3.658446
+mobilenet_v1_1.0_224_quant,label,0.21456207231993335
+,,,match,6.47787
+,,,nematode,5.6473737
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.209313823016506
+,,,match,6.47787
+,,,lighter,5.4812746
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2074744855472543
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.20762080711690858
+,,,match,6.47787
+,,,nematode,5.4812746
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2176716070103765
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.6473737
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.209160455267665
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2099258663347354
+,,,match,6.47787
+,,,nematode,5.4812746
+,,,lighter,5.4812746
+,,,digital clock,5.149076
+,,,spotlight,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.21394685696859408
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.22129578784193607
+,,,match,6.47787
+,,,nematode,5.4812746
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.22155121237125827
+,,,match,6.47787
+,,,nematode,5.6473737
+,,,lighter,5.6473737
+,,,digital clock,5.149076
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.20761570696587636
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,candle,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.220554934283136
+,,,match,6.47787
+,,,nematode,5.4812746
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2078112665008095
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.6473737
+,,,digital clock,5.149076
+,,,candle,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.20848322808515005
+,,,match,6.47787
+,,,nematode,5.6473737
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21891515653217614
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21090797037065012
+,,,match,6.643969
+,,,nematode,5.6473737
+,,,lighter,5.6473737
+,,,digital clock,5.149076
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21191774805997923
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21960357925779686
+,,,match,6.47787
+,,,lighter,5.4812746
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21020306128867564
+,,,match,6.47787
+,,,nematode,5.6473737
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21298607831313063
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.22062126148737013
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21076766066878017
+,,,match,6.47787
+,,,nematode,5.6473737
+,,,lighter,5.6473737
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.21484186046894616
+,,,match,6.643969
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,candle,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.21439292719237527
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.6473737
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2112976959795205
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2112004942193738
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2102211005613956
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,candle,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.21356400979270823
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.22217876016957727
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.149076
+,,,spotlight,4.6507783
+mobilenet_v1_1.0_224_quant,label,0.216743356282355
+,,,match,6.47787
+,,,nematode,5.4812746
+,,,lighter,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2201994143254396
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_1.0_224_quant,label,0.2156755845896849
+,,,match,6.47787
+,,,lighter,5.6473737
+,,,nematode,5.4812746
+,,,digital clock,5.3151755
+,,,spotlight,4.816878
+mobilenet_v1_0.5_160,label,0.03261141492961777
+,,,nematode,5.186218
+,,,match,5.0014772
+,,,spotlight,4.3300195
+,,,digital clock,4.0321455
+,,,lighter,3.8839548
+mobilenet_v1_0.5_160,label,0.032274684725558014
+,,,nematode,5.180645
+,,,match,4.9950624
+,,,spotlight,4.3485017
+,,,digital clock,4.0352354
+,,,lighter,3.8902009
+mobilenet_v1_0.5_160,label,0.03113554504995951
+,,,nematode,5.185923
+,,,match,5.003805
+,,,spotlight,4.3312674
+,,,digital clock,4.0267615
+,,,lighter,3.8902276
+mobilenet_v1_0.5_160,label,0.03274563035877022
+,,,nematode,5.186432
+,,,match,5.000262
+,,,spotlight,4.3259335
+,,,digital clock,4.033495
+,,,lighter,3.87604
+mobilenet_v1_0.5_160,label,0.032511228023331895
+,,,nematode,5.153401
+,,,match,4.9837446
+,,,spotlight,4.3187976
+,,,digital clock,4.018277
+,,,lighter,3.873022
+mobilenet_v1_0.5_160,label,0.03109581740390912
+,,,nematode,5.1612186
+,,,match,4.98051
+,,,spotlight,4.319211
+,,,digital clock,4.0214496
+,,,lighter,3.8795505
+mobilenet_v1_0.5_160,label,0.031029630541493172
+,,,nematode,5.1713796
+,,,match,4.995823
+,,,spotlight,4.330981
+,,,digital clock,4.018681
+,,,lighter,3.8772554
+mobilenet_v1_0.5_160,label,0.03210444953589204
+,,,nematode,5.1800647
+,,,match,4.9920945
+,,,spotlight,4.357032
+,,,digital clock,4.0425515
+,,,lighter,3.8851287
+mobilenet_v1_0.5_160,label,0.03234902977849094
+,,,nematode,5.177512
+,,,match,5.005504
+,,,spotlight,4.315915
+,,,digital clock,4.0199575
+,,,lighter,3.891245
+mobilenet_v1_0.5_160,label,0.03290089558296939
+,,,nematode,5.1875114
+,,,match,4.999884
+,,,spotlight,4.3171654
+,,,digital clock,4.0236773
+,,,lighter,3.8882205
+mobilenet_v1_0.5_160,label,0.03139403863956775
+,,,nematode,5.1839623
+,,,match,4.9907985
+,,,spotlight,4.339
+,,,digital clock,4.033457
+,,,lighter,3.8873923
+mobilenet_v1_0.5_160,label,0.03202165342441149
+,,,nematode,5.158605
+,,,match,4.997742
+,,,spotlight,4.343669
+,,,digital clock,4.0221286
+,,,lighter,3.8876944
+mobilenet_v1_0.5_160,label,0.03280521947100316
+,,,nematode,5.183843
+,,,match,5.009171
+,,,spotlight,4.3484955
+,,,digital clock,4.031902
+,,,lighter,3.9100995
+mobilenet_v1_0.5_160,label,0.03225553910026421
+,,,nematode,5.150449
+,,,match,4.974703
+,,,spotlight,4.322653
+,,,digital clock,4.02964
+,,,lighter,3.8740034
+mobilenet_v1_0.5_160,label,0.03273527618376062
+,,,nematode,5.17376
+,,,match,5.0065584
+,,,spotlight,4.3430395
+,,,digital clock,4.022564
+,,,lighter,3.89334
+mobilenet_v1_0.5_160,label,0.03254051433109871
+,,,nematode,5.176362
+,,,match,5.005112
+,,,spotlight,4.3307533
+,,,digital clock,4.017937
+,,,lighter,3.8730695
+mobilenet_v1_0.5_160,label,0.03242630655479904
+,,,nematode,5.1682444
+,,,match,4.983593
+,,,spotlight,4.293446
+,,,digital clock,4.008549
+,,,lighter,3.8656332
+mobilenet_v1_0.5_160,label,0.0322775957614572
+,,,nematode,5.1485724
+,,,match,4.985802
+,,,spotlight,4.3049984
+,,,digital clock,4.0139832
+,,,lighter,3.8692505
+mobilenet_v1_0.5_160,label,0.032448583515848575
+,,,nematode,5.171524
+,,,match,4.9826164
+,,,spotlight,4.346444
+,,,digital clock,4.033701
+,,,lighter,3.8802397
+mobilenet_v1_0.5_160,label,0.032279709380472095
+,,,nematode,5.1475425
+,,,match,4.990452
+,,,spotlight,4.346493
+,,,digital clock,4.025693
+,,,lighter,3.8917484
+mobilenet_v1_0.5_160,label,0.03158774595697683
+,,,nematode,5.1661887
+,,,match,4.9899864
+,,,spotlight,4.341536
+,,,digital clock,4.0391603
+,,,lighter,3.8857918
+mobilenet_v1_0.5_160,label,0.03226441921193022
+,,,nematode,5.1826444
+,,,match,4.9892497
+,,,spotlight,4.326973
+,,,digital clock,4.0145464
+,,,lighter,3.872228
+mobilenet_v1_0.5_160,label,0.031242171208127216
+,,,nematode,5.1852326
+,,,match,4.993645
+,,,spotlight,4.3299003
+,,,digital clock,4.022564
+,,,lighter,3.8724647
+mobilenet_v1_0.5_160,label,0.030879675020100517
+,,,nematode,5.172263
+,,,match,4.990301
+,,,spotlight,4.3307533
+,,,digital clock,4.0231247
+,,,lighter,3.8820167
+mobilenet_v1_0.5_160,label,0.0326809697819249
+,,,nematode,5.1992564
+,,,match,5.0072484
+,,,spotlight,4.3299212
+,,,digital clock,4.0415
+,,,lighter,3.8960457
+mobilenet_v1_0.5_160,label,0.032443549927594476
+,,,nematode,5.1817775
+,,,match,4.9934897
+,,,spotlight,4.3678846
+,,,digital clock,4.056653
+,,,lighter,3.9002583
+mobilenet_v1_0.5_160,label,0.03223142165619133
+,,,nematode,5.1765485
+,,,match,4.990633
+,,,spotlight,4.3385816
+,,,digital clock,4.053113
+,,,lighter,3.8931303
+mobilenet_v1_0.5_160,label,0.03187955132987
+,,,nematode,5.1612077
+,,,match,4.9940767
+,,,spotlight,4.3108644
+,,,digital clock,4.0072584
+,,,lighter,3.8820271
+mobilenet_v1_0.5_160,label,0.03163106283567049
+,,,nematode,5.1549473
+,,,match,4.9741583
+,,,spotlight,4.3244185
+,,,digital clock,4.0185857
+,,,lighter,3.8717449
+mobilenet_v1_0.5_160,label,0.0312691943433412
+,,,nematode,5.1585693
+,,,match,4.979796
+,,,spotlight,4.315659
+,,,digital clock,4.0188794
+,,,lighter,3.8682685
+mobilenet_v1_0.5_160,label,0.030812270576674173
+,,,nematode,5.1955175
+,,,match,4.991532
+,,,spotlight,4.3354406
+,,,digital clock,4.032561
+,,,lighter,3.878663
+mobilenet_v1_0.5_160,label,0.03266398069025589
+,,,nematode,5.1846204
+,,,match,5.002516
+,,,spotlight,4.3458443
+,,,digital clock,4.0411253
+,,,lighter,3.890143
+mobilenet_v1_0.5_160_quant,label,0.04355020205383758
+,,,spotlight,5.126002
+,,,match,4.6866302
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04412920990802337
+,,,spotlight,5.126002
+,,,match,4.9795446
+,,,nematode,4.6866302
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04390638061178605
+,,,spotlight,4.9795446
+,,,match,4.6866302
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04261217554722017
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04468127842923758
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04274266003032007
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.807887
+mobilenet_v1_0.5_160_quant,label,0.04372808822838667
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.540173
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04462857147945185
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.045729389120890244
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04479446631936743
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04381642812734775
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04309624772430563
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.045369152668181784
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04333708119896117
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04305460175420583
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04557588933454768
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04410953704884898
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.044267720985884315
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04419211511271198
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,digital clock,4.393716
+,,,nematode,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04291810815878351
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.2472587
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.043175054602167744
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.807887
+mobilenet_v1_0.5_160_quant,label,0.04409488060054953
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.042251385896791685
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.0424909139037717
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.042712420074909246
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04324994516122919
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.807887
+mobilenet_v1_0.5_160_quant,label,0.044815758284656296
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,lighter,3.807887
+mobilenet_v1_0.5_160_quant,label,0.04478774615162598
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,digital clock,4.393716
+,,,nematode,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04358979475072635
+,,,spotlight,5.126002
+,,,match,4.9795446
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04506583094548116
+,,,spotlight,4.9795446
+,,,match,4.8330874
+,,,nematode,4.6866302
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.0448312228949169
+,,,spotlight,5.126002
+,,,match,4.8330874
+,,,nematode,4.540173
+,,,digital clock,4.393716
+,,,candle,3.9543443
+mobilenet_v1_0.5_160_quant,label,0.04361041894075544
+,,,spotlight,4.9795446
+,,,match,4.6866302
+,,,nematode,4.393716
+,,,digital clock,4.393716
+,,,jack-o'-lantern,3.807887
+mobilenet_v1_0.25_128_quant,label,0.010495871165168666
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010766393548613754
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,lampshade,3.7941527
+,,,digital clock,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010892195735259569
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,lampshade,3.7941527
+,,,digital clock,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011034425916924275
+,,,nematode,4.7099824
+,,,spotlight,4.0558186
+,,,match,3.9249856
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011160473454182394
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,lampshade,3.7941527
+,,,digital clock,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010870692438920018
+,,,nematode,4.7099824
+,,,spotlight,4.0558186
+,,,match,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010638731156123429
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.011136012090199243
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010974661129951001
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,spotlight,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010827282701410562
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010506806116399984
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.010745000100779624
+,,,nematode,4.7099824
+,,,spotlight,4.0558186
+,,,match,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010821929231581366
+,,,nematode,4.7099824
+,,,spotlight,4.0558186
+,,,match,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010819034105082406
+,,,nematode,4.7099824
+,,,spotlight,4.0558186
+,,,match,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010987663558295538
+,,,nematode,4.5791497
+,,,digital clock,3.9249856
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011003087620335694
+,,,nematode,4.5791497
+,,,digital clock,3.9249856
+,,,match,3.9249856
+,,,spotlight,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011027416786771023
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,digital clock,3.9249856
+,,,spotlight,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011177878567292568
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.01119892237242935
+,,,nematode,4.7099824
+,,,spotlight,4.0558186
+,,,match,4.0558186
+,,,lampshade,3.7941527
+,,,digital clock,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011021594258272859
+,,,nematode,4.5791497
+,,,match,3.9249856
+,,,spotlight,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010855329931688463
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.01112845974162297
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,digital clock,3.9249856
+,,,match,3.9249856
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.010718805466262424
+,,,nematode,4.5791497
+,,,match,3.9249856
+,,,spotlight,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.01118723378170977
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.010519925823468022
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010486597846501175
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,4.0558186
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.011117753601995904
+,,,nematode,4.7099824
+,,,spotlight,3.9249856
+,,,digital clock,3.9249856
+,,,match,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010782045778504563
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,digital clock,3.9249856
+,,,spotlight,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.01089545358954547
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.25_128_quant,label,0.01108549301904639
+,,,nematode,4.7099824
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010608566743788742
+,,,nematode,4.5791497
+,,,match,4.0558186
+,,,spotlight,3.9249856
+,,,digital clock,3.9249856
+,,,lampshade,3.7941527
+mobilenet_v1_0.25_128_quant,label,0.010750685079737664
+,,,nematode,4.5791497
+,,,spotlight,3.9249856
+,,,match,3.9249856
+,,,digital clock,3.7941527
+,,,lampshade,3.6633198
+mobilenet_v1_0.75_192,label,0.08145568475118889
+,,,nematode,5.1938467
+,,,spotlight,4.500782
+,,,jack-o'-lantern,4.440914
+,,,match,4.408151
+,,,digital clock,3.9893143
+mobilenet_v1_0.75_192,label,0.08153064301243766
+,,,nematode,5.1785154
+,,,spotlight,4.5143147
+,,,jack-o'-lantern,4.5101304
+,,,match,4.4746184
+,,,lighter,4.0046086
+mobilenet_v1_0.75_192,label,0.08521045293490719
+,,,nematode,5.1452084
+,,,spotlight,4.5158496
+,,,jack-o'-lantern,4.461807
+,,,match,4.393818
+,,,digital clock,3.9994838
+mobilenet_v1_0.75_192,label,0.08233246056900358
+,,,nematode,5.214203
+,,,spotlight,4.5039263
+,,,jack-o'-lantern,4.4792852
+,,,match,4.4430103
+,,,digital clock,3.999222
+mobilenet_v1_0.75_192,label,0.0829982233782846
+,,,nematode,5.1967945
+,,,spotlight,4.5436587
+,,,jack-o'-lantern,4.505023
+,,,match,4.43597
+,,,lighter,4.001956
+mobilenet_v1_0.75_192,label,0.08441226990967918
+,,,nematode,5.2069235
+,,,spotlight,4.504803
+,,,jack-o'-lantern,4.460436
+,,,match,4.4471946
+,,,digital clock,4.0026903
+mobilenet_v1_0.75_192,label,0.08445075334435395
+,,,nematode,5.1417913
+,,,jack-o'-lantern,4.481771
+,,,match,4.458721
+,,,spotlight,4.450775
+,,,digital clock,3.9668844
+mobilenet_v1_0.75_192,label,0.08251251089349963
+,,,nematode,5.1790648
+,,,spotlight,4.520035
+,,,match,4.4498787
+,,,jack-o'-lantern,4.4498096
+,,,digital clock,3.9962938
+mobilenet_v1_0.75_192,label,0.08147898504667636
+,,,nematode,5.2399397
+,,,spotlight,4.526259
+,,,match,4.481806
+,,,jack-o'-lantern,4.45825
+,,,digital clock,4.0135593
+mobilenet_v1_0.75_192,label,0.08528051303716645
+,,,nematode,5.1841764
+,,,spotlight,4.5066605
+,,,match,4.448224
+,,,jack-o'-lantern,4.437968
+,,,digital clock,3.9938767
+mobilenet_v1_0.75_192,label,0.08135560633150689
+,,,nematode,5.1752033
+,,,spotlight,4.5015264
+,,,jack-o'-lantern,4.46402
+,,,match,4.451068
+,,,lighter,3.9719992
+mobilenet_v1_0.75_192,label,0.08310963029941669
+,,,nematode,5.170126
+,,,spotlight,4.481133
+,,,jack-o'-lantern,4.4791946
+,,,match,4.4220786
+,,,lighter,3.9627895
+mobilenet_v1_0.75_192,label,0.08387904929477283
+,,,nematode,5.290969
+,,,spotlight,4.5155425
+,,,match,4.463237
+,,,jack-o'-lantern,4.4558787
+,,,digital clock,4.005357
+mobilenet_v1_0.75_192,label,0.08297803296028632
+,,,nematode,5.1521883
+,,,jack-o'-lantern,4.5268664
+,,,spotlight,4.5163517
+,,,match,4.4483213
+,,,lighter,4.033813
+mobilenet_v1_0.75_192,label,0.08393069370654763
+,,,nematode,5.187296
+,,,spotlight,4.4947357
+,,,jack-o'-lantern,4.4927144
+,,,match,4.449959
+,,,lighter,4.004534
+mobilenet_v1_0.75_192,label,0.08326033780045047
+,,,nematode,5.2436705
+,,,match,4.5163584
+,,,spotlight,4.4991283
+,,,jack-o'-lantern,4.4991255
+,,,digital clock,3.9980679
+mobilenet_v1_0.75_192,label,0.08627506371352539
+,,,nematode,5.120159
+,,,spotlight,4.537335
+,,,jack-o'-lantern,4.502504
+,,,match,4.479948
+,,,lighter,4.0020256
+mobilenet_v1_0.75_192,label,0.08325106032144047
+,,,nematode,5.2533197
+,,,spotlight,4.537569
+,,,jack-o'-lantern,4.505425
+,,,match,4.437622
+,,,digital clock,3.9977164
+mobilenet_v1_0.75_192,label,0.08434463669775494
+,,,nematode,5.2197657
+,,,spotlight,4.512458
+,,,jack-o'-lantern,4.500634
+,,,match,4.423067
+,,,digital clock,3.9876864
+mobilenet_v1_0.75_192,label,0.08373334165689793
+,,,nematode,5.114891
+,,,spotlight,4.463166
+,,,match,4.4564857
+,,,jack-o'-lantern,4.447341
+,,,lighter,3.944426
+mobilenet_v1_0.75_192,label,0.08159371229286332
+,,,nematode,5.171215
+,,,spotlight,4.545325
+,,,jack-o'-lantern,4.4966116
+,,,match,4.4702024
+,,,digital clock,4.026281
+mobilenet_v1_0.75_192,label,0.08066690636554262
+,,,nematode,5.1986237
+,,,spotlight,4.50322
+,,,jack-o'-lantern,4.4956837
+,,,match,4.4609046
+,,,lighter,3.9782224
+mobilenet_v1_0.75_192,label,0.08261725511666879
+,,,nematode,5.1987104
+,,,spotlight,4.495277
+,,,jack-o'-lantern,4.444574
+,,,match,4.436567
+,,,digital clock,3.9726925
+mobilenet_v1_0.75_192,label,0.08618696163618837
+,,,nematode,5.2173347
+,,,spotlight,4.5125923
+,,,jack-o'-lantern,4.449186
+,,,match,4.4281917
+,,,digital clock,4.0233064
+mobilenet_v1_0.75_192,label,0.08442669071469705
+,,,nematode,5.1273766
+,,,spotlight,4.5441794
+,,,jack-o'-lantern,4.518706
+,,,match,4.4534373
+,,,lighter,4.02997
+mobilenet_v1_0.75_192,label,0.080441460951132
+,,,nematode,5.149519
+,,,match,4.5113206
+,,,spotlight,4.5057287
+,,,jack-o'-lantern,4.446596
+,,,digital clock,4.0087905
+mobilenet_v1_0.75_192,label,0.08235074505032983
+,,,nematode,5.307537
+,,,spotlight,4.5197544
+,,,jack-o'-lantern,4.463016
+,,,match,4.4545593
+,,,lighter,4.008991
+mobilenet_v1_0.75_192,label,0.0845422011466645
+,,,nematode,5.254612
+,,,spotlight,4.524433
+,,,jack-o'-lantern,4.5000277
+,,,match,4.4716797
+,,,digital clock,4.0266194
+mobilenet_v1_0.75_192,label,0.08425113564236618
+,,,nematode,5.1378317
+,,,jack-o'-lantern,4.507697
+,,,spotlight,4.5076327
+,,,match,4.4611926
+,,,lighter,4.001412
+mobilenet_v1_0.75_192,label,0.08502707062661649
+,,,nematode,5.2414703
+,,,spotlight,4.5057425
+,,,jack-o'-lantern,4.4748516
+,,,match,4.46333
+,,,digital clock,3.9911547
+mobilenet_v1_0.75_192,label,0.08573000003105952
+,,,nematode,5.143544
+,,,spotlight,4.5080976
+,,,jack-o'-lantern,4.4850373
+,,,match,4.3980713
+,,,digital clock,3.9759908
+mobilenet_v1_0.75_192,label,0.08168578070277088
+,,,nematode,5.2320566
+,,,spotlight,4.4930954
+,,,jack-o'-lantern,4.4810705
+,,,match,4.4623303
+,,,digital clock,4.0000105
+mobilenet_v1_0.75_224,label,0.10937333454176834
+,,,match,5.7576747
+,,,nematode,5.492552
+,,,digital clock,4.7682295
+,,,lighter,4.3600783
+,,,spotlight,4.3568583
+mobilenet_v1_0.75_224,label,0.1106289021337793
+,,,match,5.738107
+,,,nematode,5.3714724
+,,,digital clock,4.7032437
+,,,spotlight,4.325352
+,,,lighter,4.2909627
+mobilenet_v1_0.75_224,label,0.11453454303895737
+,,,match,5.807589
+,,,nematode,5.4326057
+,,,digital clock,4.7440133
+,,,spotlight,4.3524046
+,,,lighter,4.349363
+mobilenet_v1_0.75_224,label,0.1081991266820323
+,,,match,5.7506104
+,,,nematode,5.405373
+,,,digital clock,4.73106
+,,,lighter,4.379256
+,,,spotlight,4.34271
+mobilenet_v1_0.75_224,label,0.11335336181242761
+,,,match,5.7686663
+,,,nematode,5.3913636
+,,,digital clock,4.738117
+,,,lighter,4.3445253
+,,,spotlight,4.327021
+mobilenet_v1_0.75_224,label,0.10891179804906165
+,,,match,5.693408
+,,,nematode,5.3886614
+,,,digital clock,4.7437696
+,,,lighter,4.3368435
+,,,spotlight,4.30582
+mobilenet_v1_0.75_224,label,0.11376554677756247
+,,,match,5.6191483
+,,,nematode,5.3478017
+,,,digital clock,4.6957173
+,,,spotlight,4.325284
+,,,lighter,4.266993
+mobilenet_v1_0.75_224,label,0.11279482225304208
+,,,match,5.68201
+,,,nematode,5.380608
+,,,digital clock,4.7406187
+,,,spotlight,4.3152375
+,,,lighter,4.297798
+mobilenet_v1_0.75_224,label,0.10959884105652515
+,,,match,5.676851
+,,,nematode,5.43485
+,,,digital clock,4.774207
+,,,spotlight,4.3616514
+,,,lighter,4.316469
+mobilenet_v1_0.75_224,label,0.11160914992075877
+,,,match,5.669303
+,,,nematode,5.337998
+,,,digital clock,4.698735
+,,,lighter,4.3052883
+,,,spotlight,4.2984405
+mobilenet_v1_0.75_224,label,0.11476128970680263
+,,,match,5.711099
+,,,nematode,5.4218507
+,,,digital clock,4.729663
+,,,spotlight,4.3301487
+,,,lighter,4.3030105
+mobilenet_v1_0.75_224,label,0.11464158057439754
+,,,match,5.7469316
+,,,nematode,5.4284234
+,,,digital clock,4.749002
+,,,spotlight,4.343299
+,,,lighter,4.3395953
+mobilenet_v1_0.75_224,label,0.11443729000569165
+,,,match,5.7042074
+,,,nematode,5.42565
+,,,digital clock,4.7421827
+,,,lighter,4.3023167
+,,,spotlight,4.2872815
+mobilenet_v1_0.75_224,label,0.11352913901388752
+,,,match,5.769582
+,,,nematode,5.4547853
+,,,digital clock,4.773118
+,,,spotlight,4.3802643
+,,,lighter,4.35419
+mobilenet_v1_0.75_224,label,0.10877830542982946
+,,,match,5.767208
+,,,nematode,5.4317784
+,,,digital clock,4.754802
+,,,lighter,4.3677297
+,,,spotlight,4.351152
+mobilenet_v1_0.75_224,label,0.11210262521001944
+,,,match,5.7834415
+,,,nematode,5.4116874
+,,,digital clock,4.705565
+,,,spotlight,4.3087554
+,,,lighter,4.2990885
+mobilenet_v1_0.75_224,label,0.11116925630044602
+,,,match,5.7061105
+,,,nematode,5.369269
+,,,digital clock,4.7164173
+,,,lighter,4.2770233
+,,,spotlight,4.272652
+mobilenet_v1_0.75_224,label,0.1146609909454989
+,,,match,5.757231
+,,,nematode,5.420053
+,,,digital clock,4.7577043
+,,,spotlight,4.3758187
+,,,lighter,4.33425
+mobilenet_v1_0.75_224,label,0.11069233426846209
+,,,match,5.698866
+,,,nematode,5.3832884
+,,,digital clock,4.7102776
+,,,spotlight,4.308367
+,,,lighter,4.2939224
+mobilenet_v1_0.75_224,label,0.1124621828310155
+,,,match,5.697195
+,,,nematode,5.362135
+,,,digital clock,4.7143793
+,,,lighter,4.312177
+,,,spotlight,4.304759
+mobilenet_v1_0.75_224,label,0.10860732816893331
+,,,match,5.7669606
+,,,nematode,5.4413595
+,,,digital clock,4.75495
+,,,lighter,4.375199
+,,,spotlight,4.34703
+mobilenet_v1_0.75_224,label,0.11258747603967767
+,,,match,5.7301908
+,,,nematode,5.393092
+,,,digital clock,4.7287765
+,,,spotlight,4.3341465
+,,,lighter,4.3244333
+mobilenet_v1_0.75_224,label,0.1102999710022642
+,,,match,5.6630945
+,,,nematode,5.3737764
+,,,digital clock,4.748239
+,,,spotlight,4.3516493
+,,,lighter,4.3193936
+mobilenet_v1_0.75_224,label,0.10940624163786851
+,,,match,5.756802
+,,,nematode,5.418659
+,,,digital clock,4.7344317
+,,,spotlight,4.360823
+,,,lighter,4.3327236
+mobilenet_v1_0.75_224,label,0.11031066766101276
+,,,match,5.685549
+,,,nematode,5.419265
+,,,digital clock,4.7479134
+,,,spotlight,4.3260875
+,,,lighter,4.324503
+mobilenet_v1_0.75_224,label,0.11181784049343325
+,,,match,5.7485414
+,,,nematode,5.4428754
+,,,digital clock,4.759146
+,,,spotlight,4.3967123
+,,,lighter,4.379825
+mobilenet_v1_0.75_224,label,0.11079933766643095
+,,,match,5.6847243
+,,,nematode,5.3943143
+,,,digital clock,4.753704
+,,,spotlight,4.356354
+,,,lighter,4.31305
+mobilenet_v1_0.75_224,label,0.10829216614636909
+,,,match,5.73042
+,,,nematode,5.444085
+,,,digital clock,4.748088
+,,,spotlight,4.352155
+,,,lighter,4.317458
+mobilenet_v1_0.75_224,label,0.11370514672260948
+,,,match,5.7307343
+,,,nematode,5.323416
+,,,digital clock,4.7171545
+,,,lighter,4.337794
+,,,spotlight,4.290254
+mobilenet_v1_0.75_224,label,0.11102189807738574
+,,,match,5.743425
+,,,nematode,5.4327674
+,,,digital clock,4.7264814
+,,,lighter,4.36074
+,,,spotlight,4.349077
+mobilenet_v1_0.75_224,label,0.11198423245455656
+,,,match,5.6904078
+,,,nematode,5.4086576
+,,,digital clock,4.7478776
+,,,spotlight,4.368977
+,,,lighter,4.309058
+mobilenet_v1_0.75_224,label,0.11444728520093757
+,,,match,5.726974
+,,,nematode,5.3751645
+,,,digital clock,4.733652
+,,,lighter,4.3093257
+,,,spotlight,4.2893076
+mobilenet_v1_0.75_160,label,0.061506040079999116
+,,,match,5.447695
+,,,digital clock,4.7235417
+,,,nematode,4.5410166
+,,,spotlight,4.146532
+,,,candle,4.0544615
+mobilenet_v1_0.75_160,label,0.06044561070814978
+,,,match,5.48509
+,,,digital clock,4.792314
+,,,nematode,4.579337
+,,,spotlight,4.1617966
+,,,candle,4.08779
+mobilenet_v1_0.75_160,label,0.06081946141233925
+,,,match,5.4702597
+,,,digital clock,4.740578
+,,,nematode,4.5313096
+,,,spotlight,4.136346
+,,,candle,4.067401
+mobilenet_v1_0.75_160,label,0.05808433646608326
+,,,match,5.457967
+,,,digital clock,4.7574177
+,,,nematode,4.5744267
+,,,spotlight,4.1519938
+,,,candle,4.083139
+mobilenet_v1_0.75_160,label,0.06199170479880457
+,,,match,5.4901094
+,,,digital clock,4.7726173
+,,,nematode,4.559434
+,,,spotlight,4.1707144
+,,,candle,4.0803013
+mobilenet_v1_0.75_160,label,0.0602721901093463
+,,,match,5.4558706
+,,,digital clock,4.748367
+,,,nematode,4.5438547
+,,,spotlight,4.150386
+,,,candle,4.078298
+mobilenet_v1_0.75_160,label,0.05837320910194462
+,,,match,5.438243
+,,,digital clock,4.736107
+,,,nematode,4.538822
+,,,spotlight,4.1425524
+,,,candle,4.045831
+mobilenet_v1_0.75_160,label,0.058522813264749354
+,,,match,5.481777
+,,,digital clock,4.732795
+,,,nematode,4.5279546
+,,,spotlight,4.152793
+,,,candle,4.0778337
+mobilenet_v1_0.75_160,label,0.059267945555617076
+,,,match,5.4495597
+,,,digital clock,4.7631054
+,,,nematode,4.5706005
+,,,spotlight,4.168803
+,,,candle,4.0666494
+mobilenet_v1_0.75_160,label,0.059077222033253475
+,,,match,5.432726
+,,,digital clock,4.706074
+,,,nematode,4.536321
+,,,spotlight,4.128529
+,,,candle,4.0237303
+mobilenet_v1_0.75_160,label,0.05974823749610292
+,,,match,5.423904
+,,,digital clock,4.728904
+,,,nematode,4.5018477
+,,,spotlight,4.164148
+,,,candle,4.0722666
+mobilenet_v1_0.75_160,label,0.058201902420472934
+,,,match,5.4715266
+,,,digital clock,4.7586823
+,,,nematode,4.54086
+,,,spotlight,4.177545
+,,,candle,4.097774
+mobilenet_v1_0.75_160,label,0.06192613816472462
+,,,match,5.454899
+,,,digital clock,4.7683187
+,,,nematode,4.5611715
+,,,spotlight,4.1641045
+,,,candle,4.064748
+mobilenet_v1_0.75_160,label,0.06004086039276924
+,,,match,5.4547343
+,,,digital clock,4.7383223
+,,,nematode,4.5084553
+,,,spotlight,4.1634617
+,,,candle,4.060895
+mobilenet_v1_0.75_160,label,0.05755259201110912
+,,,match,5.4727516
+,,,digital clock,4.75376
+,,,nematode,4.5243716
+,,,spotlight,4.1602592
+,,,candle,4.0888658
+mobilenet_v1_0.75_160,label,0.05972143883350448
+,,,match,5.485134
+,,,digital clock,4.7790194
+,,,nematode,4.5570607
+,,,spotlight,4.2052083
+,,,candle,4.081436
+mobilenet_v1_0.75_160,label,0.05927359689378237
+,,,match,5.434981
+,,,digital clock,4.732352
+,,,nematode,4.505903
+,,,spotlight,4.1639214
+,,,candle,4.0593443
+mobilenet_v1_0.75_160,label,0.06067345518347221
+,,,match,5.4918065
+,,,digital clock,4.7698736
+,,,nematode,4.567571
+,,,spotlight,4.161577
+,,,candle,4.06852
+mobilenet_v1_0.75_160,label,0.05887002401631069
+,,,match,5.4258356
+,,,digital clock,4.739352
+,,,nematode,4.5222974
+,,,spotlight,4.168673
+,,,candle,4.044382
+mobilenet_v1_0.75_160,label,0.061017615918847995
+,,,match,5.4525924
+,,,digital clock,4.75622
+,,,nematode,4.545568
+,,,spotlight,4.161436
+,,,candle,4.071173
+mobilenet_v1_0.75_160,label,0.06119993602729603
+,,,match,5.4649806
+,,,digital clock,4.750557
+,,,nematode,4.5410085
+,,,spotlight,4.146
+,,,candle,4.0727463
+mobilenet_v1_0.75_160,label,0.06127261961587712
+,,,match,5.4384704
+,,,digital clock,4.74575
+,,,nematode,4.553607
+,,,spotlight,4.1445065
+,,,candle,4.054005
+mobilenet_v1_0.75_160,label,0.058974756578466875
+,,,match,5.4333477
+,,,digital clock,4.7228065
+,,,nematode,4.5279756
+,,,spotlight,4.143351
+,,,candle,4.0352516
+mobilenet_v1_0.75_160,label,0.05865319116929195
+,,,match,5.478799
+,,,digital clock,4.7642055
+,,,nematode,4.582279
+,,,spotlight,4.1561046
+,,,candle,4.065228
+mobilenet_v1_0.75_160,label,0.06144884251060784
+,,,match,5.4708624
+,,,digital clock,4.7422624
+,,,nematode,4.550083
+,,,spotlight,4.150632
+,,,candle,4.0712795
+mobilenet_v1_0.75_160,label,0.061619839546745075
+,,,match,5.446715
+,,,digital clock,4.7267194
+,,,nematode,4.5571175
+,,,spotlight,4.1603518
+,,,candle,4.036821
+mobilenet_v1_0.75_160,label,0.05879441857868039
+,,,match,5.4893904
+,,,digital clock,4.7625184
+,,,nematode,4.559629
+,,,spotlight,4.16264
+,,,candle,4.0810385
+mobilenet_v1_0.75_160,label,0.05994173760578331
+,,,match,5.4459677
+,,,digital clock,4.7240353
+,,,nematode,4.5540977
+,,,spotlight,4.121328
+,,,candle,4.05144
+mobilenet_v1_0.75_160,label,0.058247594552848114
+,,,match,5.4977994
+,,,digital clock,4.780208
+,,,nematode,4.576233
+,,,spotlight,4.1602135
+,,,candle,4.1019235
+mobilenet_v1_0.75_160,label,0.05996530846408139
+,,,match,5.447103
+,,,digital clock,4.725039
+,,,nematode,4.5172997
+,,,spotlight,4.160055
+,,,candle,4.0530405
+mobilenet_v1_0.75_160,label,0.060614975151667236
+,,,match,5.49697
+,,,digital clock,4.763109
+,,,nematode,4.5395947
+,,,spotlight,4.1588745
+,,,candle,4.0771823
+mobilenet_v1_0.75_160,label,0.05897576832126511
+,,,match,5.485951
+,,,digital clock,4.766948
+,,,nematode,4.575939
+,,,spotlight,4.138408
+,,,candle,4.0802646
+mobilenet_v1_0.25_224,label,0.020063903376912676
+,,,nematode,4.7887955
+,,,digital clock,4.593918
+,,,match,4.5695953
+,,,spotlight,4.3282175
+,,,lighter,3.8140984
+mobilenet_v1_0.25_224,label,0.021107537627545858
+,,,nematode,4.790429
+,,,digital clock,4.5898724
+,,,match,4.529463
+,,,spotlight,4.301136
+,,,lighter,3.7841043
+mobilenet_v1_0.25_224,label,0.021520516213009933
+,,,nematode,4.7828884
+,,,digital clock,4.566259
+,,,match,4.5493064
+,,,spotlight,4.3120813
+,,,lighter,3.7849765
+mobilenet_v1_0.25_224,label,0.020874098310649077
+,,,nematode,4.7841415
+,,,digital clock,4.570427
+,,,match,4.553876
+,,,spotlight,4.31658
+,,,lighter,3.795106
+mobilenet_v1_0.25_224,label,0.020859478747927245
+,,,nematode,4.7829294
+,,,digital clock,4.5721803
+,,,match,4.5562015
+,,,spotlight,4.307012
+,,,lighter,3.7994604
+mobilenet_v1_0.25_224,label,0.020391950235606953
+,,,nematode,4.7851605
+,,,digital clock,4.559714
+,,,match,4.5582423
+,,,spotlight,4.3003054
+,,,lighter,3.7931633
+mobilenet_v1_0.25_224,label,0.020829445625373512
+,,,nematode,4.7654743
+,,,digital clock,4.5798984
+,,,match,4.5476832
+,,,spotlight,4.3077
+,,,lighter,3.7958326
+mobilenet_v1_0.25_224,label,0.02004225194691527
+,,,nematode,4.777567
+,,,digital clock,4.5827665
+,,,match,4.5430417
+,,,spotlight,4.302976
+,,,lighter,3.7952418
+mobilenet_v1_0.25_224,label,0.02008615930436745
+,,,nematode,4.7579527
+,,,digital clock,4.559183
+,,,match,4.547825
+,,,spotlight,4.298201
+,,,lighter,3.7946587
+mobilenet_v1_0.25_224,label,0.020241283728337552
+,,,nematode,4.795004
+,,,digital clock,4.5833673
+,,,match,4.5555267
+,,,spotlight,4.3100863
+,,,lighter,3.7946553
+mobilenet_v1_0.25_224,label,0.021105669167032663
+,,,nematode,4.774003
+,,,digital clock,4.5750456
+,,,match,4.5634475
+,,,spotlight,4.3122816
+,,,lighter,3.8004594
+mobilenet_v1_0.25_224,label,0.019991884633189873
+,,,nematode,4.7737007
+,,,digital clock,4.557103
+,,,match,4.556255
+,,,spotlight,4.3109775
+,,,lighter,3.7934384
+mobilenet_v1_0.25_224,label,0.020076161886350582
+,,,nematode,4.789514
+,,,digital clock,4.570872
+,,,match,4.5450535
+,,,spotlight,4.2965784
+,,,lighter,3.7925572
+mobilenet_v1_0.25_224,label,0.020246660462742195
+,,,nematode,4.7617426
+,,,digital clock,4.567836
+,,,match,4.5325255
+,,,spotlight,4.2958293
+,,,lighter,3.7743082
+mobilenet_v1_0.25_224,label,0.0204457056704798
+,,,nematode,4.7753944
+,,,digital clock,4.56688
+,,,match,4.5651093
+,,,spotlight,4.312348
+,,,lighter,3.8006277
+mobilenet_v1_0.25_224,label,0.020389032911976596
+,,,nematode,4.773296
+,,,digital clock,4.583029
+,,,match,4.5536904
+,,,spotlight,4.310661
+,,,lighter,3.796761
+mobilenet_v1_0.25_224,label,0.01990972426411404
+,,,nematode,4.778016
+,,,digital clock,4.560511
+,,,match,4.5490046
+,,,spotlight,4.298166
+,,,lighter,3.7863588
+mobilenet_v1_0.25_224,label,0.019786701653769924
+,,,nematode,4.7791443
+,,,digital clock,4.575793
+,,,match,4.5653877
+,,,spotlight,4.306257
+,,,lighter,3.8044896
+mobilenet_v1_0.25_224,label,0.0211317397353294
+,,,nematode,4.7875185
+,,,digital clock,4.579966
+,,,match,4.542004
+,,,spotlight,4.313306
+,,,lighter,3.7925425
+mobilenet_v1_0.25_224,label,0.020428002885322028
+,,,nematode,4.7568846
+,,,digital clock,4.5793667
+,,,match,4.5447083
+,,,spotlight,4.312585
+,,,lighter,3.790782
+mobilenet_v1_0.25_224,label,0.020746038678411894
+,,,nematode,4.7726884
+,,,digital clock,4.5874796
+,,,match,4.5314474
+,,,spotlight,4.301749
+,,,lighter,3.7777553
+mobilenet_v1_0.25_224,label,0.021151648635500446
+,,,nematode,4.706741
+,,,digital clock,4.5691404
+,,,match,4.535041
+,,,spotlight,4.311271
+,,,lighter,3.7831864
+mobilenet_v1_0.25_224,label,0.019856166969694604
+,,,nematode,4.7525644
+,,,digital clock,4.5770364
+,,,match,4.525264
+,,,spotlight,4.2948623
+,,,lighter,3.7783237
+mobilenet_v1_0.25_224,label,0.020494233660757675
+,,,nematode,4.748849
+,,,digital clock,4.5691757
+,,,match,4.5589023
+,,,spotlight,4.3076735
+,,,lighter,3.7965722
+mobilenet_v1_0.25_224,label,0.02085017440201535
+,,,nematode,4.7269516
+,,,digital clock,4.591633
+,,,match,4.533809
+,,,spotlight,4.305206
+,,,lighter,3.7853098
+mobilenet_v1_0.25_224,label,0.021142255296399157
+,,,nematode,4.787738
+,,,digital clock,4.5663557
+,,,match,4.5520973
+,,,spotlight,4.305015
+,,,lighter,3.793448
+mobilenet_v1_0.25_224,label,0.021071513407104368
+,,,nematode,4.7808533
+,,,digital clock,4.576128
+,,,match,4.5394564
+,,,spotlight,4.303857
+,,,lighter,3.784307
+mobilenet_v1_0.25_224,label,0.02030661211991912
+,,,nematode,4.7505417
+,,,digital clock,4.5829043
+,,,match,4.5288177
+,,,spotlight,4.293327
+,,,lighter,3.7825012
+mobilenet_v1_0.25_224,label,0.020707300619330266
+,,,nematode,4.7784257
+,,,digital clock,4.574822
+,,,match,4.532442
+,,,spotlight,4.292657
+,,,lighter,3.7851758
+mobilenet_v1_0.25_224,label,0.020630773912828
+,,,nematode,4.7784944
+,,,digital clock,4.5800905
+,,,match,4.5435495
+,,,spotlight,4.2921824
+,,,lighter,3.7866778
+mobilenet_v1_0.25_224,label,0.021075882817851548
+,,,nematode,4.7957478
+,,,digital clock,4.566042
+,,,match,4.553972
+,,,spotlight,4.311136
+,,,lighter,3.7930202
+mobilenet_v1_0.25_224,label,0.020176179849801315
+,,,nematode,4.735042
+,,,digital clock,4.5699263
+,,,match,4.5480027
+,,,spotlight,4.3142643
+,,,lighter,3.7882767
