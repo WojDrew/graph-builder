@@ -1,0 +1,5041 @@
+ModelName,Label,InferenceTime,Recognition,Accuracy
+mobilenet_v2_1.0_224_quant,label,0.01572704315185547
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01573634147644043
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.0157010555267334
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016339778900146484
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016143798828125
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016077756881713867
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01603221893310547
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01606273651123047
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01604771614074707
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016053199768066406
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016210317611694336
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016180992126464844
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01618790626525879
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016071081161499023
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016392946243286133
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016327857971191406
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01630234718322754
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016039609909057617
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016103267669677734
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01618337631225586
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016025066375732422
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01605057716369629
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01639413833618164
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016371488571166992
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01635122299194336
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016133546829223633
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016157865524291992
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016147375106811523
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01609969139099121
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016163110733032227
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016231775283813477
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016415834426879883
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.0162198543548584
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.0161592960357666
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.0161893367767334
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01617145538330078
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016173601150512695
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016191720962524414
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.016045331954956055
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_1.0_224_quant,label,0.01617288589477539
+,,,match,17
+,,,velvet,16
+,,,digital clock,6
+,,,wing,4
+,,,nematode,4
+mobilenet_v2_0.5_192_quant,label,0.006426811218261719
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006617307662963867
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006443500518798828
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006279945373535156
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0065004825592041016
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006365537643432617
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006417989730834961
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0064465999603271484
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006364107131958008
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006448268890380859
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006505727767944336
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006426334381103516
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.00650477409362793
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.00644373893737793
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006420612335205078
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006462812423706055
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006447553634643555
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006474733352661133
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0064051151275634766
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006368398666381836
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006433725357055664
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006386756896972656
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006430387496948242
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0064411163330078125
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0064678192138671875
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0064852237701416016
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0064394474029541016
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006322622299194336
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.00637054443359375
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006281375885009766
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006291866302490234
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0062923431396484375
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006291389465332031
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0063397884368896484
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006300926208496094
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006289243698120117
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0062754154205322266
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006326198577880859
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.006321430206298828
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.5_192_quant,label,0.0062713623046875
+,,,background,1
+,,,mailbox,1
+,,,library,1
+,,,Briard,1
+,,,lighter,1
+mobilenet_v2_0.75_128_quant,label,0.013262033462524414
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013324975967407227
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013402700424194336
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013180017471313477
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013392925262451172
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013336181640625
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013135433197021484
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01322031021118164
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01362466812133789
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01337122917175293
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013297319412231445
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013518810272216797
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013444900512695312
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.012980222702026367
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01325845718383789
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013154983520507812
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01318669319152832
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01334834098815918
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013377666473388672
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013144731521606445
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01328134536743164
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013268232345581055
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013176441192626953
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01319575309753418
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013136863708496094
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01318359375
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013160943984985352
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01329946517944336
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013145685195922852
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013130426406860352
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013331174850463867
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013285398483276367
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013303041458129883
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013106584548950195
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01329183578491211
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013206720352172852
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01313924789428711
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.01313924789428711
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013147830963134766
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_128_quant,label,0.013158082962036133
+,,,front curtain,208
+,,,window shade,5
+,,,lampshade,4
+,,,fire screen sheet,3
+,,,window screen,2
+mobilenet_v2_0.75_96_quant,label,0.01330876350402832
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013288497924804688
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013193130493164062
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01326441764831543
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013343572616577148
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01315450668334961
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013285398483276367
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01331472396850586
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013157129287719727
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01315760612487793
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013273239135742188
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01314401626586914
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013104677200317383
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013253450393676758
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013163328170776367
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01314997673034668
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01329803466796875
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013153314590454102
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013110637664794922
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013312578201293945
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013150930404663086
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013103246688842773
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013258695602416992
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013090848922729492
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013269424438476562
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013096809387207031
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013171911239624023
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013084650039672852
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013258695602416992
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013291120529174805
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013153791427612305
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013272523880004883
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013248682022094727
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013150930404663086
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013223409652709961
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013379335403442383
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013278961181640625
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013071298599243164
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.01323080062866211
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_0.75_96_quant,label,0.013069391250610352
+,,,window screen,54
+,,,fire screen sheet,50
+,,,window shade,11
+,,,doormat,9
+,,,strainer,7
+mobilenet_v2_1.0_160_quant,label,0.01518559455871582
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015161752700805664
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015159368515014648
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015161514282226562
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015149593353271484
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015134811401367188
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.01532292366027832
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015320301055908203
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015308618545532227
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015320062637329102
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015365123748779297
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015267610549926758
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015242338180541992
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015336990356445312
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.01533818244934082
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.01544189453125
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015209197998046875
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015267372131347656
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015233278274536133
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015222311019897461
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015239715576171875
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015337944030761719
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015213251113891602
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015245914459228516
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015250682830810547
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015228986740112305
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015231847763061523
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.01521158218383789
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015183210372924805
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015168428421020508
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015170812606811523
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015172004699707031
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015242576599121094
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.014592409133911133
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.014601945877075195
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.014594554901123047
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.014589309692382812
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015164375305175781
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015158414840698242
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_1.0_160_quant,label,0.015210390090942383
+,,,safety pin,39
+,,,Papillon,22
+,,,bow,21
+,,,weighing scale,18
+,,,oscilloscope,18
+mobilenet_v2_0.5_128_quant,label,0.009911537170410156
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009933948516845703
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009937286376953125
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009903192520141602
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009905099868774414
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009997844696044922
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009855508804321289
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009862661361694336
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009898185729980469
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.010061264038085938
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009888172149658203
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009896993637084961
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009907722473144531
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009907960891723633
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.00993967056274414
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009921789169311523
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009987115859985352
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009913206100463867
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009912967681884766
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.00990152359008789
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.01008749008178711
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009898900985717773
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009898900985717773
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009879827499389648
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009904623031616211
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009917020797729492
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009916067123413086
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009952783584594727
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.00988912582397461
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009894609451293945
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009923934936523438
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.010077238082885742
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.010322809219360352
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.010418415069580078
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.010182619094848633
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009937047958374023
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.010155677795410156
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009958982467651367
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009918928146362305
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_128_quant,label,0.009906530380249023
+,,,honeycomb,56
+,,,window screen,21
+,,,fire screen sheet,18
+,,,space heater,13
+,,,radiator,12
+mobilenet_v2_0.5_96_quant,label,0.005856752395629883
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005834341049194336
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.00591731071472168
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.00582122802734375
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0054683685302734375
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005451202392578125
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005475759506225586
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005462169647216797
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005468130111694336
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005480766296386719
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005486488342285156
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005449771881103516
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005484342575073242
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005976438522338867
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0059719085693359375
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.00546574592590332
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0054819583892822266
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005461692810058594
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005528688430786133
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005461454391479492
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005496501922607422
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005472421646118164
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0055043697357177734
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0054779052734375
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006142139434814453
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006148576736450195
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0061762332916259766
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006003141403198242
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006010770797729492
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0062448978424072266
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.00600123405456543
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006098031997680664
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0061304569244384766
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0061223506927490234
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006184577941894531
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.005957126617431641
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.00600886344909668
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.0061419010162353516
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006129741668701172
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.5_96_quant,label,0.006151437759399414
+,,,Bedlington Terrier,1
+,,,Cocker Spaniels,1
+,,,Kuvasz,1
+,,,pulled rickshaw,1
+,,,joystick,1
+mobilenet_v2_0.75_160_quant,label,0.013482332229614258
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013410806655883789
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013446331024169922
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013403654098510742
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013442039489746094
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013565301895141602
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013405323028564453
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013544797897338867
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013401508331298828
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013244152069091797
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.01339411735534668
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013398885726928711
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013276100158691406
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013250112533569336
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013394594192504883
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.012882709503173828
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.012885093688964844
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.012872695922851562
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.01286625862121582
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013541460037231445
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013396978378295898
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013625621795654297
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013211250305175781
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013431072235107422
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013373613357543945
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.01324462890625
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013193130493164062
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013581514358520508
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013419628143310547
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.01341390609741211
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013405561447143555
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013473749160766602
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013303041458129883
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013562917709350586
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013599634170532227
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013427019119262695
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.01340174674987793
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013460874557495117
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013404130935668945
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_0.75_160_quant,label,0.013447284698486328
+,,,honeycomb,89
+,,,window screen,71
+,,,strainer,14
+,,,chain-link fence,12
+,,,shower curtain,10
+mobilenet_v2_1.0_128_quant,label,0.015015363693237305
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015014171600341797
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014985084533691406
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.01503610610961914
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.01494741439819336
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014862775802612305
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014864921569824219
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014843225479125977
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014996528625488281
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015031576156616211
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015012025833129883
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014992952346801758
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015000581741333008
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.01506185531616211
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015028953552246094
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014879941940307617
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014885663986206055
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014887332916259766
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015017509460449219
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.01505422592163086
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015018463134765625
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.01502227783203125
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014999628067016602
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015372037887573242
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014617681503295898
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014726400375366211
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014597892761230469
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.014647245407104492
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015150070190429688
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015171527862548828
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015107154846191406
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015148639678955078
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.01500558853149414
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015025854110717773
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015014410018920898
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015210151672363281
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015187501907348633
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015179157257080078
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015019655227661133
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_1.0_128_quant,label,0.015184879302978516
+,,,yellow garden spider,25
+,,,salt shaker,25
+,,,picket fence,14
+,,,box turtle,12
+,,,loupe,10
+mobilenet_v2_0.35_160_quant,label,0.00850987434387207
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008606195449829102
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008590221405029297
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008628606796264648
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008884906768798828
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008566141128540039
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008734464645385742
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.00873708724975586
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008749723434448242
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008379459381103516
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008419275283813477
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.00837087631225586
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.00839853286743164
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008383989334106445
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008355855941772461
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008378982543945312
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008542776107788086
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008417129516601562
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008416175842285156
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008440971374511719
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008418560028076172
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008437156677246094
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008450746536254883
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008726835250854492
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008803129196166992
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008575916290283203
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008748054504394531
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008587360382080078
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008825302124023438
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008794784545898438
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008591651916503906
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008810758590698242
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008596658706665039
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.00881052017211914
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008586406707763672
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.00883793830871582
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008596658706665039
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008808612823486328
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.008759260177612305
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_0.35_160_quant,label,0.009231805801391602
+,,,window screen,126
+,,,honeycomb,12
+,,,fire screen sheet,11
+,,,shower curtain,5
+,,,speaker,5
+mobilenet_v2_1.4_224_quant,label,0.01999068260192871
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019970178604125977
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019978761672973633
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020374774932861328
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020009756088256836
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019962549209594727
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020514488220214844
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019970417022705078
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019985198974609375
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020180702209472656
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019972562789916992
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019954681396484375
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019961118698120117
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019981861114501953
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.02000141143798828
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019977092742919922
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020252466201782227
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020381450653076172
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020337820053100586
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020351171493530273
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020297765731811523
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019963502883911133
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019963979721069336
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020143985748291016
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.01997852325439453
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.01997232437133789
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019958019256591797
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020601511001586914
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.02034735679626465
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019966840744018555
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019968032836914062
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020284652709960938
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.0199737548828125
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019977569580078125
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020128488540649414
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019975662231445312
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.019962787628173828
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020002365112304688
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020492076873779297
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_1.4_224_quant,label,0.020366668701171875
+,,,cleaver,1
+,,,bucket,1
+,,,breakwater,1
+,,,bra,1
+,,,bow tie,1
+mobilenet_v2_0.35_224_quant,label,0.008932352066040039
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008937358856201172
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008974552154541016
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008935213088989258
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008963346481323242
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008933305740356445
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008949518203735352
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.00890660285949707
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.00891423225402832
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009048700332641602
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.00914907455444336
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008931875228881836
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008907794952392578
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009000539779663086
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008948564529418945
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008898735046386719
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008929252624511719
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008913755416870117
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008938074111938477
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008933067321777344
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008922576904296875
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009093999862670898
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008924722671508789
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008965253829956055
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.00948953628540039
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008910417556762695
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008940696716308594
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008930444717407227
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009056329727172852
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009119272232055664
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008909940719604492
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008919477462768555
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.00903630256652832
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.0089263916015625
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008966922760009766
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009118318557739258
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.009093046188354492
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008959531784057617
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008681058883666992
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_224_quant,label,0.008654117584228516
+,,,window screen,64
+,,,velvet,11
+,,,shoal,6
+,,,envelope,5
+,,,space shuttle,5
+mobilenet_v2_0.35_128_quant,label,0.007950067520141602
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.007928609848022461
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.007937192916870117
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.007951498031616211
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.007935285568237305
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008519649505615234
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008576393127441406
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008418798446655273
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008426427841186523
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008583545684814453
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.00859975814819336
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008530616760253906
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008543968200683594
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008568763732910156
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008528470993041992
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008542537689208984
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008520126342773438
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008655548095703125
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008525848388671875
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008560419082641602
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008452653884887695
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008574485778808594
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008430004119873047
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008402109146118164
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008556604385375977
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008534431457519531
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008454561233520508
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008522510528564453
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008589982986450195
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008527278900146484
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.00841069221496582
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008513689041137695
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008501768112182617
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008563518524169922
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008432149887084961
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.00852203369140625
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008416414260864258
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.00860452651977539
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008531808853149414
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_128_quant,label,0.008415460586547852
+,,,window screen,238
+,,,window shade,3
+,,,fire screen sheet,2
+,,,radiator,2
+,,,speaker,1
+mobilenet_v2_0.35_192_quant,label,0.008788347244262695
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008888721466064453
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008685111999511719
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008826494216918945
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.00867915153503418
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008783102035522461
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008695840835571289
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.00882267951965332
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008684873580932617
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008836984634399414
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008832931518554688
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008699178695678711
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008814096450805664
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008687734603881836
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008786678314208984
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008790016174316406
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.00867319107055664
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008781671524047852
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008667707443237305
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008800745010375977
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008816957473754883
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008676528930664062
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008835792541503906
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008678913116455078
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008825302124023438
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008847951889038086
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.00869297981262207
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008812665939331055
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008690118789672852
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008788824081420898
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.00879049301147461
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008723258972167969
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008965015411376953
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008856773376464844
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008661746978759766
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008836507797241211
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.0086822509765625
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008969306945800781
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008841753005981445
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_0.35_192_quant,label,0.008819341659545898
+,,,velvet,5
+,,,envelope,4
+,,,wool,3
+,,,tile roof,2
+,,,dishwasher,2
+mobilenet_v2_1.0_96_quant,label,0.01102304458618164
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011021614074707031
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011027097702026367
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01099538803100586
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011258840560913086
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010955333709716797
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011034727096557617
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011072397232055664
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011042118072509766
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011018753051757812
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01102447509765625
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010952949523925781
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010973215103149414
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011039495468139648
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011054754257202148
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010971546173095703
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01102590560913086
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011117696762084961
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011069774627685547
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011041641235351562
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011133193969726562
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011062383651733398
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011052846908569336
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011225461959838867
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01102304458618164
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011233091354370117
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011078834533691406
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01120448112487793
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.011044502258300781
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01072239875793457
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010725259780883789
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010872125625610352
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010701894760131836
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010883569717407227
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010994911193847656
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.01092219352722168
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010903358459472656
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010962724685668945
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010931253433227539
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_96_quant,label,0.010911703109741211
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_160_quant,label,0.010456323623657227
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010290145874023438
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010364055633544922
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010448217391967773
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.01025080680847168
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010303020477294922
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010443449020385742
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.01032257080078125
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.01043081283569336
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010309934616088867
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010327816009521484
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010495901107788086
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010605096817016602
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010590553283691406
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010586977005004883
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.01065683364868164
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010648012161254883
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010347127914428711
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010326385498046875
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010459661483764648
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010275125503540039
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010449886322021484
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010258674621582031
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010263919830322266
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010419130325317383
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010299921035766602
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010265111923217773
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010454654693603516
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010239601135253906
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010143041610717773
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010130167007446289
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010226964950561523
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.01019740104675293
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010292768478393555
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010290145874023438
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010442733764648438
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010300874710083008
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010302066802978516
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.010317087173461914
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.5_160_quant,label,0.01044607162475586
+,,,honeycomb,67
+,,,window screen,13
+,,,doormat,11
+,,,velvet,7
+,,,tile roof,7
+mobilenet_v2_0.35_96_quant,label,0.008410215377807617
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008719682693481445
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00859689712524414
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008572578430175781
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008594989776611328
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00841832160949707
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008740663528442383
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008608102798461914
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008703231811523438
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008733749389648438
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.009193658828735352
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00849604606628418
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00854945182800293
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008729934692382812
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00853729248046875
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008566617965698242
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008595466613769531
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008759498596191406
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008601665496826172
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008586883544921875
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008574962615966797
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008595466613769531
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008607625961303711
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008621931076049805
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00861048698425293
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008596658706665039
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008620738983154297
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008617639541625977
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008592367172241211
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.00858759880065918
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008632183074951172
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008589506149291992
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008525848388671875
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008544206619262695
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008590221405029297
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008658647537231445
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008608818054199219
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008559942245483398
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008754491806030273
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.35_96_quant,label,0.008577346801757812
+,,,window screen,37
+,,,fire screen sheet,13
+,,,window shade,13
+,,,wool,11
+,,,handkerchief,10
+mobilenet_v2_0.75_192_quant,label,0.013751983642578125
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013765335083007812
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013815164566040039
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013913869857788086
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013827085494995117
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013753652572631836
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013769388198852539
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013767480850219727
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013753175735473633
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013870477676391602
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013776779174804688
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013771295547485352
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013715028762817383
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013750076293945312
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013738155364990234
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013756513595581055
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013760805130004883
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013806819915771484
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013693809509277344
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013762712478637695
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013774871826171875
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013792753219604492
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013755321502685547
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.01385807991027832
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013844728469848633
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013778448104858398
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013608217239379883
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013598442077636719
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013766050338745117
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013768434524536133
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013771295547485352
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013788223266601562
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013585090637207031
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013796806335449219
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013795852661132812
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013774871826171875
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013776779174804688
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.01363825798034668
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013777971267700195
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.75_192_quant,label,0.013762474060058594
+,,,window screen,22
+,,,cup,6
+,,,oystercatcher,4
+,,,switch,3
+,,,screw,3
+mobilenet_v2_0.5_224_quant,label,0.0067386627197265625
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006703853607177734
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006575822830200195
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.00640106201171875
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006418466567993164
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006420135498046875
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006405353546142578
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006257295608520508
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006247758865356445
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006293058395385742
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006268024444580078
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006266355514526367
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006264686584472656
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.0062558650970458984
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006274700164794922
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006770610809326172
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.0066072940826416016
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006667137145996094
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006606101989746094
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006597042083740234
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006643772125244141
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006635189056396484
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006641864776611328
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006620883941650391
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.00661158561706543
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006643056869506836
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006647348403930664
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006644487380981445
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006575584411621094
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006587028503417969
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006634235382080078
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006643772125244141
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006629228591918945
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006601572036743164
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006593465805053711
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.00658869743347168
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006590604782104492
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.0065915584564208984
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006639242172241211
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_0.5_224_quant,label,0.006597280502319336
+,,,toilet paper,0
+,,,starfish,0
+,,,zebra,0
+,,,common sorrel,0
+,,,guinea pig,0
+mobilenet_v2_1.0_192_quant,label,0.015161275863647461
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01509237289428711
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015203475952148438
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015178203582763672
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015080690383911133
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01510000228881836
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015072822570800781
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015099525451660156
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015109062194824219
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015094280242919922
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015091180801391602
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015045642852783203
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015110492706298828
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015069723129272461
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015069007873535156
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01511526107788086
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015080928802490234
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01507878303527832
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015071630477905273
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01507878303527832
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015086889266967773
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015105009078979492
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015099763870239258
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01506948471069336
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01512598991394043
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01510930061340332
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015142679214477539
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015127420425415039
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015106201171875
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015103340148925781
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015125513076782227
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015081167221069336
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015050888061523438
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015067100524902344
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015066385269165039
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015121698379516602
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015085220336914062
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015106916427612305
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.01507258415222168
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_1.0_192_quant,label,0.015088558197021484
+,,,sombrero,76
+,,,bolo tie,24
+,,,pole,21
+,,,electric fan,19
+,,,loupe,18
+mobilenet_v2_0.75_224_quant,label,0.013985157012939453
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014048337936401367
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014093160629272461
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014140129089355469
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013989925384521484
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01399087905883789
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014024734497070312
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014011621475219727
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014060735702514648
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014033317565917969
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01416468620300293
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014000654220581055
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013978958129882812
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014041423797607422
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013698816299438477
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013635635375976562
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013652324676513672
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013649225234985352
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014457941055297852
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013927936553955078
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013951539993286133
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014116287231445312
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014127492904663086
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01415109634399414
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014111757278442383
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013964414596557617
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01396489143371582
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013855695724487305
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014122247695922852
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01420450210571289
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.014033079147338867
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01415252685546875
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01363515853881836
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01366877555847168
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013669729232788086
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013672113418579102
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.01409602165222168
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013645410537719727
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013615131378173828
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
+mobilenet_v2_0.75_224_quant,label,0.013627290725708008
+,,,window screen,84
+,,,lampshade,18
+,,,fire screen sheet,14
+,,,window shade,10
+,,,strainer,10
